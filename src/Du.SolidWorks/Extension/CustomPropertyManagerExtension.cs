@@ -8,6 +8,10 @@ using System.Threading.Tasks;
 
 namespace Du.SolidWorks.Extension
 {
+
+    /// <summary>
+    /// 自定义属性扩展方法 CustomPropertyManager Interface Extension Methods
+    /// </summary>
     public static class CustomPropertyManagerExtension
     {
         /// <summary>

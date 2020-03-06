@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 
 namespace Du.SolidWorks.Extension
 {
+    /// <summary>
+    /// 实体接口扩展方法 Body Interface Extension methods
+    /// </summary>
     public static class BodyExtension
     {
 

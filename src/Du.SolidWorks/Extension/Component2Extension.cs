@@ -11,6 +11,9 @@ using System.IO;
 
 namespace Du.SolidWorks.Extension
 {
+    /// <summary>
+    /// Components Interface Extensions
+    /// </summary>
     public static class Component2Extension
     {
         public static Vector3 GetPostion(this Component2 comp)

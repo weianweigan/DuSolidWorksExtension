@@ -1,8 +1,8 @@
 
 <div align=center><img src="resources/toolbox.png" width="200"/></div>
 
-![Github](https://img.shields.io/badge/Github-build-yellowgreen.svg?style=flat-square)
-![Github](https://img.shields.io/badge/Nuget-v0.1,1-yellowgreen.svg?style=flat-square)
+![Github](https://img.shields.io/badge/Github-build-blue.svg?style=flat-square)
+![Github](https://img.shields.io/badge/Nuget-v0.1.1-pink.svg?style=flat-square)
 
 # Overview
 
@@ -63,9 +63,10 @@ var dateProerty = doc.Extension.CustomPropertyManager[""].GetAllProperty()
 
 * 文档正在编写中
 
-* [See Auto Generated Document](https://github.com/weianweigan/DuSolidWorksExtension/blob/master/src/Du.SolidWorks.Doc/Help/index.html)
+* [See Auto Generated Document](https://weianweigan.github.io/DuSolidWorksExtension/)
 
+  --Du.SolidWorks.Extension (多数扩展方法在此命名空间下)
 
 * 被扩展的接口列表如下
 
-![](resources\tree.png)
+>> ![](resources\tree.png)

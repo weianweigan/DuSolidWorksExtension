@@ -10,6 +10,9 @@ using System.Threading.Tasks;
 
 namespace Du.SolidWorks.Extension
 {
+    /// <summary>
+    /// 配合类型
+    /// </summary>
     public  enum MateAlignExtension
     {
         /// <summary>
@@ -21,6 +24,10 @@ namespace Du.SolidWorks.Extension
         /// </summary>
         AntiAlign
     }
+
+    /// <summary>
+    /// 装配体文档类型扩展方法
+    /// </summary>
     public static class AssemblyDocExtension
     {
         /// <summary>
@@ -102,7 +109,17 @@ namespace Du.SolidWorks.Extension
             return swMate;
         }
 
-
+        /// <summary>
+        /// 添加轴重合,并判断轴是否平行
+        /// </summary>
+        /// <typeparam name="TAxisOne"></typeparam>
+        /// <typeparam name="TAxisTwo"></typeparam>
+        /// <param name="doc"></param>
+        /// <param name="axisOne"></param>
+        /// <param name="compAxisTwo"></param>
+        /// <param name="mathUtility"></param>
+        /// <param name="comp"></param>
+        /// <returns></returns>
         public static Mate2 AddAxisCoinMate<TAxisOne, TAxisTwo>(this AssemblyDoc doc,TAxisOne axisOne, TAxisTwo compAxisTwo, MathUtility mathUtility = null,Component2 comp = null)
         {
             int mateError = 0;

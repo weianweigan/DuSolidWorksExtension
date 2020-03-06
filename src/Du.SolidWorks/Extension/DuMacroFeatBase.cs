@@ -10,8 +10,16 @@ using System.Threading.Tasks;
 
 namespace Du.SolidWorks.Extension
 {
+    /// <summary>
+    /// 宏特征状态
+    /// </summary>
     public enum StateEnum { Insert, Edit }
 
+    /// <summary>
+    /// 宏特征基类
+    /// </summary>
+    /// <typeparam name="TMacroFeature"></typeparam>
+    /// <typeparam name="TData"></typeparam>
     [ComVisible(false)]
     public abstract class DuMacroFeatBase<TMacroFeature, TData>: ISwComFeature
         where TData:new()
