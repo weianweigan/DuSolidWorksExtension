@@ -1,6 +1,7 @@
 
 <div align=center><img src="resources/toolbox.png" width="200"/></div>
 
+![lang](https://img.shields.io/badge/language-csharp-green.svg)
 ![Github](https://img.shields.io/badge/Github-build-blue.svg?style=flat-square)
 ![Github](https://img.shields.io/badge/Nuget-v0.1.1-yellowgreen.svg?style=flat-square)
 
@@ -58,12 +59,22 @@ var dateProerty = doc.Extension.CustomPropertyManager[""].GetAllProperty()
 
 ## Document 
 
-* Document is being written
+* Document is being written :construction:
 
 * [Click here to See Auto Generated Document](https://weianweigan.github.io/DuSolidWorksExtension/) 
     
   ----Du.SolidWorks.Extension (  extension methods in this namespace)
 
+* some useful chinese document
+
+    1.[向量计算(为SolidWorks写扩展方法)](https://www.jianshu.com/p/ba0eb8869d31)
+
+    2.[Linq查询](https://www.jianshu.com/p/350b7739ab79)
+
 * interfaces 
 
- >> ![](resources\tree.png)
+![](resources/tree.png)
+
+## Contact me
+
+![email](https://img.shields.io/badge/email-1831197727@qq.com-green.svg)

@@ -1,6 +1,7 @@
 
 <div align=center><img src="resources/toolbox.png" width="200"/></div>
 
+![lang](https://img.shields.io/badge/language-csharp-green.svg)
 ![Github](https://img.shields.io/badge/Github-build-blue.svg?style=flat-square)
 ![Github](https://img.shields.io/badge/Nuget-v0.1.1-pink.svg?style=flat-square)
 
@@ -63,10 +64,20 @@ var dateProerty = doc.Extension.CustomPropertyManager[""].GetAllProperty()
 
 * 文档正在编写中
 
-* [See Auto Generated Document](https://weianweigan.github.io/DuSolidWorksExtension/)
+* [查看自动生成的文档](https://weianweigan.github.io/DuSolidWorksExtension/)
 
   --Du.SolidWorks.Extension (多数扩展方法在此命名空间下)
 
+* 已经有的介绍文档如下
+
+    1.[向量计算(为SolidWorks写扩展方法)](https://www.jianshu.com/p/ba0eb8869d31)
+
+    2.[Linq查询](https://www.jianshu.com/p/350b7739ab79)
+
 * 被扩展的接口列表如下
 
->> ![](resources\tree.png)
+![](resources/tree.png)
+
+## 联系我
+
+![email](https://img.shields.io/badge/email-1831197727@qq.com-green.svg)
