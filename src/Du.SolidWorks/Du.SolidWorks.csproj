@@ -50,15 +50,15 @@
     <Reference Include="PresentationCore" />
     <Reference Include="SolidWorks.Interop.sldworks">
       <HintPath>..\..\..\DynamoSolidWorks\Du.DynamoSolidWorks\packages\SolidWorks2016\SolidWorks.Interop.sldworks.dll</HintPath>
-      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="SolidWorks.Interop.swconst">
       <HintPath>..\..\..\DynamoSolidWorks\Du.DynamoSolidWorks\packages\SolidWorks2016\SolidWorks.Interop.swconst.dll</HintPath>
-      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="SolidWorks.Interop.swpublished">
       <HintPath>..\..\..\DynamoSolidWorks\Du.DynamoSolidWorks\packages\SolidWorks2016\SolidWorks.Interop.swpublished.dll</HintPath>
-      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

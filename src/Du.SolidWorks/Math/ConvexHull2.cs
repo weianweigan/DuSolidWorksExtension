@@ -10,6 +10,7 @@ namespace Du.SolidWorks.Math
     /// <summary>
     /// 暂时不能使用
     /// </summary>
+    [Obsolete]
     public class ConvexHull2
     {
         private Stack<Vector2> stack = new Stack<Vector2>();

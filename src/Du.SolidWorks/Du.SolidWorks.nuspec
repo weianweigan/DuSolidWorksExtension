@@ -11,7 +11,7 @@
     <projectUrl>https://github.com/weianweigan/DuSolidWorksExtension</projectUrl>
     <description>$description$</description>
     <releaseNotes>Extension Methods For SolidWorks</releaseNotes>
-    <iconUrl>https://github.com/weianweigan/DuSolidWorksExtension/resources/assembly.png</iconUrl>
+    <iconUrl>https://github.com/weianweigan/DuSolidWorksExtension/blob/master/resources/assembly.ico?raw=true</iconUrl>
     <copyright>Copyright © dududu 2019</copyright>
     <tags>SolidWorks Api Extension CSharp</tags>
   </metadata>

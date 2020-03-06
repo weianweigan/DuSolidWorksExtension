@@ -1,33 +1,39 @@
 
 <div align=center><img src="resources/toolbox.ico" width="200"/></div>
 
-# DuSolidWorksExtension
+![Github](https://img.shields.io/badge/Github-build-yellowgreen.svg?style=flat-square)
+![Github](https://img.shields.io/badge/Nuget-v0.1,1-yellowgreen.svg?style=flat-square)
 
-English | [中文](https://github.com/weianweigan/DuSolidWorksExtension/blob/master/README.cn.md)
+# Overview
 
-Lots of very useful extension methods for SolidWorks api.
+[English](https://github.com/weianweigan/DuSolidWorksExtension) | 中文
 
-Based on https://github.com/Weingartner/SolidworksAddinFramework
+包含很多有用的SolidWorks Interface的扩展方法.
+
+基于 https://github.com/Weingartner/SolidworksAddinFramework,
+这个库的作者创建了一个很好的SolidWorks的开发架构,但由于无法编译和复杂,所有我修改重写后形成了此库.
 
 
-## Install
+## 安装
+
+使用Nuget包管理器安装
 
 ```
 PM> Install-Package Du.SolidWorks -Version 0.1.1
 ```
 
-## Usage
+## 使用
 
-### 1. Add namespace firstly
+### 1. 添加命名空间
 
 ```
 using Du.SolidWorks.Extension;
 using Du.SolidWorks.Math
 ```
 
-### 2. You can use almost extension methods 
+### 2. 接下来你就能使用绝大多数扩展方法了
 
-* EquatiomMgr Extension Methods
+* 方程式管理器的扩展方法
 
  ![](resources/equExtension.png)
 
@@ -42,7 +48,7 @@ var equ = doc.GetEquationMgr().GetAllEqu().
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 
-* CustomPropertyManager Extension Methos 
+* 自定义属性的扩展方法
 
 ![](resources/cusExtension.png)
 
@@ -53,12 +59,12 @@ var dateProerty = doc.Extension.CustomPropertyManager[""].GetAllProperty()
                 ?.Where(p => p.Value.Contains("日期"))?.Select(p => p.Name);
 ```
 
-## Document 
+## 文档 
 
-* Document is being written
+* 文档正在编写中
 
-* See [Wiki](https://github.com/weianweigan/DuSolidWorksExtension/wiki)
+* 跳转到项目 [Wiki](https://github.com/weianweigan/DuSolidWorksExtension/wiki)
 
-* interfaces 
+* 被扩展的接口列表如下
 
 ![](resources\tree.png)

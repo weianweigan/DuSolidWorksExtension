@@ -1,10 +1,6 @@
 ﻿using Xunit;
-using Du.SolidWorks.Extension;
 using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Du.XUnitSolidWorks;
 using System.Diagnostics;
 using SolidWorks.Interop.swconst;

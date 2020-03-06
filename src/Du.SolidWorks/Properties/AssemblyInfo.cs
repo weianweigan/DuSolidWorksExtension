@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Du.SolidWorks")]
 [assembly: AssemblyDescription("Extension Methods for SolidWorks")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("XCHF Inc.")]
+[assembly: AssemblyCompany("dududu")]
 [assembly: AssemblyProduct("Du.SolidWorks")]
 [assembly: AssemblyCopyright("Copyright © XCHF Inc. 2019")]
 [assembly: AssemblyTrademark("")]
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 //可以指定所有这些值，也可以使用“生成号”和“修订号”的默认值
 //通过使用 "*"，如下所示:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("0.1.0")]
-[assembly: AssemblyFileVersion("0.1.0")]
+[assembly: AssemblyVersion("0.1.1")]
+[assembly: AssemblyFileVersion("0.1.1")]
