@@ -1,5 +1,8 @@
 
-<div align=center><img src="resources/toolbox.ico" width="200"/></div>
+<div align=center><img src="resources/toolbox.png" width="200"/></div>
+
+![Github](https://img.shields.io/badge/Github-build-yellowgreen.svg?style=flat-square)
+![Github](https://img.shields.io/badge/Nuget-v0.1,1-yellowgreen.svg?style=flat-square)
 
 # DuSolidWorksExtension
 
@@ -57,7 +60,7 @@ var dateProerty = doc.Extension.CustomPropertyManager[""].GetAllProperty()
 
 * Document is being written
 
-* See [Wiki](https://github.com/weianweigan/DuSolidWorksExtension/wiki)
+* [Click here to See Auto Generated Document](https://github.com/weianweigan/DuSolidWorksExtension/blob/master/src/Du.SolidWorks.Doc/Help/index.html)
 
 * interfaces 
 

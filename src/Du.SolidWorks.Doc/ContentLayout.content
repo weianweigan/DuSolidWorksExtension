@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Topics>
+  <Topic id="7172b43d-676c-4d2f-a4aa-8af53c0cb2ec" visible="True" isDefault="true" isSelected="true" title="Welcome to the Du.SolidWorks.Extension" linkText="https://github.com/weianweigan/DuSolidWorksExtension">
+    <HelpKeywords>
+      <HelpKeyword index="K" term="Welcome" />
+    </HelpKeywords>
+  </Topic>
+  <Topic id="dcf0638a-bdef-45e0-9693-f7b98cbf947a" visible="True" isExpanded="true" title="Version History">
+    <HelpKeywords>
+      <HelpKeyword index="K" term="version, history" />
+    </HelpKeywords>
+    <Topic id="d20b6f1c-5639-4419-a525-e5eaa8d5cee5" visible="True" title="Version 1.0.0.0">
+      <HelpKeywords>
+        <HelpKeyword index="K" term="version, 1.0.0.0" />
+      </HelpKeywords>
+    </Topic>
+  </Topic>
+</Topics>

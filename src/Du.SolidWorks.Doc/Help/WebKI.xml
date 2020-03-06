@@ -1,0 +1,1620 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="A 属性" Url="html/P_Du_SolidWorks_Extension_Edge3_A.htm" />
+  <HelpKINode Title="Abs 属性" Url="html/P_Du_SolidWorks_Math_Vector3_Abs.htm" />
+  <HelpKINode Title="ActiveDocEx 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_ActiveDocEx.htm" />
+  <HelpKINode Title="Add 方法">
+    <HelpKINode Title="BodyExtension.Add 方法 " Url="html/Overload_Du_SolidWorks_Extension_BodyExtension_Add.htm" />
+    <HelpKINode Title="Vector2.Add 方法 " Url="html/M_Du_SolidWorks_Math_Vector2_Add.htm" />
+    <HelpKINode Title="Vector3.Add 方法 " Url="html/M_Du_SolidWorks_Math_Vector3_Add.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AddAxisCoinMate(Of TAxisOne, TAxisTwo) 方法" Url="html/M_Du_SolidWorks_Extension_AssemblyDocExtension_AddAxisCoinMate__2.htm" />
+  <HelpKINode Title="AddAxisCoinMate&lt;TAxisOne, TAxisTwo&gt; 方法" Url="html/M_Du_SolidWorks_Extension_AssemblyDocExtension_AddAxisCoinMate__2.htm" />
+  <HelpKINode Title="AddControl(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_AddControl__1.htm" />
+  <HelpKINode Title="AddControl&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_AddControl__1.htm" />
+  <HelpKINode Title="AddControlEx(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_AddControlEx__1.htm" />
+  <HelpKINode Title="AddControlEx&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_AddControlEx__1.htm" />
+  <HelpKINode Title="AddControlToBuilder(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerGroupBuilder_AddControlToBuilder__1.htm" />
+  <HelpKINode Title="AddControlToBuilder&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerGroupBuilder_AddControlToBuilder__1.htm" />
+  <HelpKINode Title="AddEqu 方法" Url="html/M_Du_SolidWorks_Extension_EquationManagerExtension_AddEqu.htm" />
+  <HelpKINode Title="AddFaceCoinMate(Of TFaceOne, TFaceTwo) 方法" Url="html/M_Du_SolidWorks_Extension_AssemblyDocExtension_AddFaceCoinMate__2.htm" />
+  <HelpKINode Title="AddFaceCoinMate&lt;TFaceOne, TFaceTwo&gt; 方法" Url="html/M_Du_SolidWorks_Extension_AssemblyDocExtension_AddFaceCoinMate__2.htm" />
+  <HelpKINode Title="AddFaceDisMate(Of TFaceOne, TFaceTwo) 方法" Url="html/M_Du_SolidWorks_Extension_AssemblyDocExtension_AddFaceDisMate__2.htm" />
+  <HelpKINode Title="AddFaceDisMate&lt;TFaceOne, TFaceTwo&gt; 方法" Url="html/M_Du_SolidWorks_Extension_AssemblyDocExtension_AddFaceDisMate__2.htm" />
+  <HelpKINode Title="AddFlyoutCommand 方法" Url="html/M_Du_SolidWorks_ISWAddinCommand_AddFlyoutCommand.htm" />
+  <HelpKINode Title="AddProperty 方法" Url="html/Overload_Du_SolidWorks_Extension_CustomPropertyManagerExtension_AddProperty.htm" />
+  <HelpKINode Title="AddSelectedObject 方法" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerPage2Builder_AddSelectedObject.htm" />
+  <HelpKINode Title="AddSWCommand 方法" Url="html/M_Du_SolidWorks_ISWAddinCommand_AddSWCommand.htm" />
+  <HelpKINode Title="AddWPFUserControl 方法">
+    <HelpKINode Title="IPropertyManagerPage2Builder.AddWPFUserControl 方法 " Url="html/M_Du_SolidWorks_Extension_IPropertyManagerPage2Builder_AddWPFUserControl.htm" />
+    <HelpKINode Title="PropertyManagerPageGroupExtension.AddWPFUserControl 方法 " Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_AddWPFUserControl.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AfterActivation 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_AfterActivation.htm" />
+  <HelpKINode Title="AfterClose 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_AfterClose.htm" />
+  <HelpKINode Title="Align 属性" Url="html/P_Du_SolidWorks_Extension_PMPageControl_Align.htm" />
+  <HelpKINode Title="Angle 枚举成员" Url="html/T_Du_SolidWorks_Extension_ModelDocDuExtension_EquationsDimensionType.htm" />
+  <HelpKINode Title="Angle2D 方法" Url="html/M_Du_SolidWorks_Math_MathPointExtension_Angle2D.htm" />
+  <HelpKINode Title="AngleD 方法">
+    <HelpKINode Title="Vector2.AngleD 方法 " Url="html/Overload_Du_SolidWorks_Math_Vector2_AngleD.htm" />
+    <HelpKINode Title="Vector3.AngleD 方法 " Url="html/Overload_Du_SolidWorks_Math_Vector3_AngleD.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AngleR 方法">
+    <HelpKINode Title="Vector2.AngleR 方法 " Url="html/Overload_Du_SolidWorks_Math_Vector2_AngleR.htm" />
+    <HelpKINode Title="Vector3.AngleR 方法 " Url="html/Overload_Du_SolidWorks_Math_Vector3_AngleR.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AntiAlign 枚举成员" Url="html/T_Du_SolidWorks_Extension_MateAlignExtension.htm" />
+  <HelpKINode Title="AnyMark 字段" Url="html/F_Du_SolidWorks_Extension_SelectionManagerExtensions_AnyMark.htm" />
+  <HelpKINode Title="AsAssemblyDoc 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_AsAssemblyDoc.htm" />
+  <HelpKINode Title="AsPartDoc 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_AsPartDoc.htm" />
+  <HelpKINode Title="Assembly 字段" Url="html/F_Du_SolidWorks_Extension_SWFile_Assembly.htm" />
+  <HelpKINode Title="AssemblyDocExtension 类">
+    <HelpKINode Title="AssemblyDocExtension 类" Url="html/T_Du_SolidWorks_Extension_AssemblyDocExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_AssemblyDocExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AssemblyDocExtension.AddAxisCoinMate(Of TAxisOne, TAxisTwo) 方法" Url="html/M_Du_SolidWorks_Extension_AssemblyDocExtension_AddAxisCoinMate__2.htm" />
+  <HelpKINode Title="AssemblyDocExtension.AddAxisCoinMate&lt;TAxisOne, TAxisTwo&gt; 方法" Url="html/M_Du_SolidWorks_Extension_AssemblyDocExtension_AddAxisCoinMate__2.htm" />
+  <HelpKINode Title="AssemblyDocExtension.AddFaceCoinMate(Of TFaceOne, TFaceTwo) 方法" Url="html/M_Du_SolidWorks_Extension_AssemblyDocExtension_AddFaceCoinMate__2.htm" />
+  <HelpKINode Title="AssemblyDocExtension.AddFaceCoinMate&lt;TFaceOne, TFaceTwo&gt; 方法" Url="html/M_Du_SolidWorks_Extension_AssemblyDocExtension_AddFaceCoinMate__2.htm" />
+  <HelpKINode Title="AssemblyDocExtension.AddFaceDisMate(Of TFaceOne, TFaceTwo) 方法" Url="html/M_Du_SolidWorks_Extension_AssemblyDocExtension_AddFaceDisMate__2.htm" />
+  <HelpKINode Title="AssemblyDocExtension.AddFaceDisMate&lt;TFaceOne, TFaceTwo&gt; 方法" Url="html/M_Du_SolidWorks_Extension_AssemblyDocExtension_AddFaceDisMate__2.htm" />
+  <HelpKINode Title="AssemblyDocExtension.UsingAllComponents 方法" Url="html/Overload_Du_SolidWorks_Extension_AssemblyDocExtension_UsingAllComponents.htm" />
+  <HelpKINode Title="AssemblyTempalte 字段" Url="html/F_Du_SolidWorks_Extension_SWFile_AssemblyTempalte.htm" />
+  <HelpKINode Title="B 属性" Url="html/P_Du_SolidWorks_Extension_Edge3_B.htm" />
+  <HelpKINode Title="Bodies 属性" Url="html/P_Du_SolidWorks_Extension_OperationsResult_Bodies.htm" />
+  <HelpKINode Title="Body 属性" Url="html/P_Du_SolidWorks_Extension_ModelDocDuExtension_RayIntersection_Body.htm" />
+  <HelpKINode Title="BodyExtension 类">
+    <HelpKINode Title="BodyExtension 类" Url="html/T_Du_SolidWorks_Extension_BodyExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_BodyExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BodyExtension.Add 方法" Url="html/Overload_Du_SolidWorks_Extension_BodyExtension_Add.htm" />
+  <HelpKINode Title="BodyExtension.CopyTs 方法" Url="html/M_Du_SolidWorks_Extension_BodyExtension_CopyTs.htm" />
+  <HelpKINode Title="BodyExtension.GetTess 方法" Url="html/M_Du_SolidWorks_Extension_BodyExtension_GetTess.htm" />
+  <HelpKINode Title="BodyExtension.OperationsTs 方法" Url="html/M_Du_SolidWorks_Extension_BodyExtension_OperationsTs.htm" />
+  <HelpKINode Title="BoxOrderAttribute 类">
+    <HelpKINode Title="BoxOrderAttribute 类" Url="html/T_Du_SolidWorks_Attributes_BoxOrderAttribute.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Attributes_BoxOrderAttribute.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Attributes_BoxOrderAttribute.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Attributes_BoxOrderAttribute__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BoxOrderAttribute.BoxOrderAttribute 构造函数" Url="html/M_Du_SolidWorks_Attributes_BoxOrderAttribute__ctor.htm" />
+  <HelpKINode Title="BoxOrderAttribute.Order 属性" Url="html/P_Du_SolidWorks_Attributes_BoxOrderAttribute_Order.htm" />
+  <HelpKINode Title="Caption 属性">
+    <HelpKINode Title="PMPageControl.Caption 属性 " Url="html/P_Du_SolidWorks_Extension_PMPageControl_Caption.htm" />
+    <HelpKINode Title="PMPageControlAttribute.Caption 属性 " Url="html/P_Du_SolidWorks_Extension_PMPageControlAttribute_Caption.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CastObj(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_EnumObjExtension_CastObj__1.htm" />
+  <HelpKINode Title="CastObj&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_EnumObjExtension_CastObj__1.htm" />
+  <HelpKINode Title="Clamp 方法" Url="html/M_Du_SolidWorks_Math_MathUtil_Clamp.htm" />
+  <HelpKINode Title="ClosestPointOn 方法" Url="html/Overload_Du_SolidWorks_Extension_ICurveExtension_ClosestPointOn.htm" />
+  <HelpKINode Title="CmdGroupIDs 属性" Url="html/P_Du_SolidWorks_ISWAddinCommand_CmdGroupIDs.htm" />
+  <HelpKINode Title="Command 枚举成员" Url="html/T_Du_SolidWorks_CommandType.htm" />
+  <HelpKINode Title="CommandCollectionAttribute 类">
+    <HelpKINode Title="CommandCollectionAttribute 类" Url="html/T_Du_SolidWorks_Attributes_CommandCollectionAttribute.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Attributes_CommandCollectionAttribute.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Attributes_CommandCollectionAttribute.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Attributes_CommandCollectionAttribute__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CommandCollectionAttribute.CommandCollectionAttribute 构造函数" Url="html/M_Du_SolidWorks_Attributes_CommandCollectionAttribute__ctor.htm" />
+  <HelpKINode Title="CommandCollectionAttribute.Commands 属性" Url="html/P_Du_SolidWorks_Attributes_CommandCollectionAttribute_Commands.htm" />
+  <HelpKINode Title="CommandInstances 属性" Url="html/P_Du_SolidWorks_ISWAddinCommand_CommandInstances.htm" />
+  <HelpKINode Title="Commands 属性">
+    <HelpKINode Title="CommandCollectionAttribute.Commands 属性 " Url="html/P_Du_SolidWorks_Attributes_CommandCollectionAttribute_Commands.htm" />
+    <HelpKINode Title="SWFlyoutCommandAttribute.Commands 属性 " Url="html/P_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute_Commands.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CommandType 枚举" Url="html/T_Du_SolidWorks_CommandType.htm" />
+  <HelpKINode Title="Component2 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_Component2.htm" />
+  <HelpKINode Title="Component2Extension 类">
+    <HelpKINode Title="Component2Extension 类" Url="html/T_Du_SolidWorks_Extension_Component2Extension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_Component2Extension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Component2Extension.Edit 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_Edit.htm" />
+  <HelpKINode Title="Component2Extension.GetChildrenEx 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_GetChildrenEx.htm" />
+  <HelpKINode Title="Component2Extension.GetCompTopFeatures 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_GetCompTopFeatures.htm" />
+  <HelpKINode Title="Component2Extension.GetCompTopFeaturesWithTypeName 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_GetCompTopFeaturesWithTypeName.htm" />
+  <HelpKINode Title="Component2Extension.GetCompType 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_GetCompType.htm" />
+  <HelpKINode Title="Component2Extension.GetModelDoc2Ex 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_GetModelDoc2Ex.htm" />
+  <HelpKINode Title="Component2Extension.GetPostion 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_GetPostion.htm" />
+  <HelpKINode Title="Component2Extension.SelectFor 方法" Url="html/Overload_Du_SolidWorks_Extension_Component2Extension_SelectFor.htm" />
+  <HelpKINode Title="Component2Extension.SetFixStatus 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_SetFixStatus.htm" />
+  <HelpKINode Title="Component2Extension.TakeCompTopFeaturesWhile 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_TakeCompTopFeaturesWhile.htm" />
+  <HelpKINode Title="Component2Extension.UsingAllBody 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_UsingAllBody.htm" />
+  <HelpKINode Title="Component2Extension.UsingChildren 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_UsingChildren.htm" />
+  <HelpKINode Title="Component2Extension.UsingCompModelDoc2 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_UsingCompModelDoc2.htm" />
+  <HelpKINode Title="ComWrapper 类">
+    <HelpKINode Title="ComWrapper 类" Url="html/T_Du_SolidWorks_ComWrapper.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_ComWrapper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ComWrapper.GetComTypeFor(Of T) 方法" Url="html/M_Du_SolidWorks_ComWrapper_GetComTypeFor__1.htm" />
+  <HelpKINode Title="ComWrapper.GetComTypeFor&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_ComWrapper_GetComTypeFor__1.htm" />
+  <HelpKINode Title="ComWrapper.ObjectArrayToDispatchWrapper 方法" Url="html/M_Du_SolidWorks_ComWrapper_ObjectArrayToDispatchWrapper.htm" />
+  <HelpKINode Title="ComWrapper.ReadAllText 方法" Url="html/M_Du_SolidWorks_ComWrapper_ReadAllText.htm" />
+  <HelpKINode Title="ComWrapper.WriteAllText 方法" Url="html/M_Du_SolidWorks_ComWrapper_WriteAllText.htm" />
+  <HelpKINode Title="ComWrapper.writeText 方法" Url="html/M_Du_SolidWorks_ComWrapper_writeText.htm" />
+  <HelpKINode Title="controls 属性" Url="html/P_Du_SolidWorks_Extension_IPropertyManagerGroupBuilder_controls.htm" />
+  <HelpKINode Title="ControlType 属性" Url="html/P_Du_SolidWorks_Extension_PMPageControl_ControlType.htm" />
+  <HelpKINode Title="ConvexHull2 类">
+    <HelpKINode Title="ConvexHull2 类" Url="html/T_Du_SolidWorks_Math_ConvexHull2.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Math_ConvexHull2.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Math_ConvexHull2.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Math_ConvexHull2__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConvexHull2.ConvexHull2 构造函数" Url="html/M_Du_SolidWorks_Math_ConvexHull2__ctor.htm" />
+  <HelpKINode Title="ConvexHull2.GetConvexHull 方法" Url="html/M_Du_SolidWorks_Math_ConvexHull2_GetConvexHull.htm" />
+  <HelpKINode Title="ConvexHull2.mE 属性" Url="html/P_Du_SolidWorks_Math_ConvexHull2_mE.htm" />
+  <HelpKINode Title="ConvexHull2.MinYVectorIndex 属性" Url="html/P_Du_SolidWorks_Math_ConvexHull2_MinYVectorIndex.htm" />
+  <HelpKINode Title="ConvexHull2.mVectors 属性" Url="html/P_Du_SolidWorks_Math_ConvexHull2_mVectors.htm" />
+  <HelpKINode Title="CoordSys 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_CoordSys.htm" />
+  <HelpKINode Title="CopyTs 方法" Url="html/M_Du_SolidWorks_Extension_BodyExtension_CopyTs.htm" />
+  <HelpKINode Title="Corner1 属性" Url="html/P_Du_SolidWorks_Extension_Range3Double_Corner1.htm" />
+  <HelpKINode Title="Corner2 属性" Url="html/P_Du_SolidWorks_Extension_Range3Double_Corner2.htm" />
+  <HelpKINode Title="CreateATemFilePath 方法" Url="html/M_Du_SolidWorks_Extension_SWPath_CreateATemFilePath.htm" />
+  <HelpKINode Title="CreateBodyFromCylTs 方法" Url="html/M_Du_SolidWorks_Extension_ModelerExtension_CreateBodyFromCylTs.htm" />
+  <HelpKINode Title="CreateBox 方法" Url="html/Overload_Du_SolidWorks_Extension_ModelerExtension_CreateBox.htm" />
+  <HelpKINode Title="CreateButton 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateButton.htm" />
+  <HelpKINode Title="CreateCallOut 方法" Url="html/M_Du_SolidWorks_Extension_SelectionManagerExtensions_CreateCallOut.htm" />
+  <HelpKINode Title="CreateCheckBox 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateCheckBox.htm" />
+  <HelpKINode Title="CreateComboBox 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateComboBox.htm" />
+  <HelpKINode Title="CreateCone 方法" Url="html/M_Du_SolidWorks_Extension_ModelerExtension_CreateCone.htm" />
+  <HelpKINode Title="CreateCylinder 方法" Url="html/M_Du_SolidWorks_Extension_ModelerExtension_CreateCylinder.htm" />
+  <HelpKINode Title="CreateDocument 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_CreateDocument.htm" />
+  <HelpKINode Title="CreateGroupBoxEx 方法">
+    <HelpKINode Title="IPropertyManagerPage2Builder.CreateGroupBoxEx 方法 " Url="html/M_Du_SolidWorks_Extension_IPropertyManagerPage2Builder_CreateGroupBoxEx.htm" />
+    <HelpKINode Title="PropertyManagerPage2Extension.CreateGroupBoxEx 方法 " Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Extension_CreateGroupBoxEx.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateLabel 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateLabel.htm" />
+  <HelpKINode Title="CreateListBox 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateListBox.htm" />
+  <HelpKINode Title="CreateNumberBox 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateNumberBox.htm" />
+  <HelpKINode Title="CreateOption 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateOption.htm" />
+  <HelpKINode Title="CreateSelectionBox 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateSelectionBox.htm" />
+  <HelpKINode Title="CreateSketch 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_CreateSketch.htm" />
+  <HelpKINode Title="CreateSlider 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateSlider.htm" />
+  <HelpKINode Title="CreateSphereBody 方法" Url="html/M_Du_SolidWorks_Extension_ModelerExtension_CreateSphereBody.htm" />
+  <HelpKINode Title="CreateTextBox 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateTextBox.htm" />
+  <HelpKINode Title="CreateTranslationTransform 方法" Url="html/M_Du_SolidWorks_Extension_TriadManipulatorExtensions_CreateTranslationTransform.htm" />
+  <HelpKINode Title="CreateTrimmedCurve 方法" Url="html/M_Du_SolidWorks_Extension_ICurveExtension_CreateTrimmedCurve.htm" />
+  <HelpKINode Title="CreateTrimmedLine 方法" Url="html/Overload_Du_SolidWorks_Extension_ModelerExtension_CreateTrimmedLine.htm" />
+  <HelpKINode Title="CreateWrapper 方法" Url="html/M_Du_SolidWorks_Extension_SwCalloutHandlerWrapperHelper_CreateWrapper.htm" />
+  <HelpKINode Title="CreatSWFlyoutGroup 方法" Url="html/M_Du_SolidWorks_ISWAddinCommand_CreatSWFlyoutGroup.htm" />
+  <HelpKINode Title="Cross 方法">
+    <HelpKINode Title="Vector2.Cross 方法 " Url="html/M_Du_SolidWorks_Math_Vector2_Cross.htm" />
+    <HelpKINode Title="Vector3.Cross 方法 " Url="html/Overload_Du_SolidWorks_Math_Vector3_Cross.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CurrentComp 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_CurrentComp.htm" />
+  <HelpKINode Title="CustomPropertyManagerExtension 类">
+    <HelpKINode Title="CustomPropertyManagerExtension 类" Url="html/T_Du_SolidWorks_Extension_CustomPropertyManagerExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_CustomPropertyManagerExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CustomPropertyManagerExtension.AddProperty 方法" Url="html/Overload_Du_SolidWorks_Extension_CustomPropertyManagerExtension_AddProperty.htm" />
+  <HelpKINode Title="CustomPropertyManagerExtension.GetAllProperty 方法" Url="html/M_Du_SolidWorks_Extension_CustomPropertyManagerExtension_GetAllProperty.htm" />
+  <HelpKINode Title="CustomPropertyManagerExtension.GetProperty 方法" Url="html/M_Du_SolidWorks_Extension_CustomPropertyManagerExtension_GetProperty.htm" />
+  <HelpKINode Title="CustomPropertyManagerExtension.SetProperty 方法" Url="html/Overload_Du_SolidWorks_Extension_CustomPropertyManagerExtension_SetProperty.htm" />
+  <HelpKINode Title="CustomPropertyModel 类">
+    <HelpKINode Title="CustomPropertyModel 类" Url="html/T_Du_SolidWorks_Extension_CustomPropertyModel.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_CustomPropertyModel.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_CustomPropertyModel.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_CustomPropertyModel__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CustomPropertyModel.CustomPropertyModel 构造函数" Url="html/M_Du_SolidWorks_Extension_CustomPropertyModel__ctor.htm" />
+  <HelpKINode Title="CustomPropertyModel.EvalValue 属性" Url="html/P_Du_SolidWorks_Extension_CustomPropertyModel_EvalValue.htm" />
+  <HelpKINode Title="CustomPropertyModel.Name 属性" Url="html/P_Du_SolidWorks_Extension_CustomPropertyModel_Name.htm" />
+  <HelpKINode Title="CustomPropertyModel.SwCustomInfoType 属性" Url="html/P_Du_SolidWorks_Extension_CustomPropertyModel_SwCustomInfoType.htm" />
+  <HelpKINode Title="CustomPropertyModel.Value 属性" Url="html/P_Du_SolidWorks_Extension_CustomPropertyModel_Value.htm" />
+  <HelpKINode Title="CustomPropertyModel.WasResloved 属性" Url="html/P_Du_SolidWorks_Extension_CustomPropertyModel_WasResloved.htm" />
+  <HelpKINode Title="Data 属性">
+    <HelpKINode Title="MacroFeatureDataExtension(TFeatComSerivce, TData).Data 属性 " Url="html/P_Du_SolidWorks_Extension_MacroFeatureDataExtension_2_Data.htm" />
+    <HelpKINode Title="ObjectId.Data 属性 " Url="html/P_Du_SolidWorks_Extension_ObjectId_Data.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Delat 类">
+    <HelpKINode Title="Delat 类" Url="html/T_Du_SolidWorks_Extension_Delat.htm" />
+    <HelpKINode Title="字段" Url="html/Fields_T_Du_SolidWorks_Extension_Delat.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_Delat.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_Delat__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Delat.Delat 构造函数" Url="html/M_Du_SolidWorks_Extension_Delat__ctor.htm" />
+  <HelpKINode Title="Delat.Length 方法" Url="html/M_Du_SolidWorks_Extension_Delat_Length.htm" />
+  <HelpKINode Title="Delat.Unit 方法" Url="html/M_Du_SolidWorks_Extension_Delat_Unit.htm" />
+  <HelpKINode Title="Delat._Vector 字段" Url="html/F_Du_SolidWorks_Extension_Delat__Vector.htm" />
+  <HelpKINode Title="Delta 属性" Url="html/P_Du_SolidWorks_Extension_Edge3_Delta.htm" />
+  <HelpKINode Title="Direction 属性" Url="html/P_Du_SolidWorks_Math_PointDirection3_Direction.htm" />
+  <HelpKINode Title="Distance 方法">
+    <HelpKINode Title="Vector2.Distance 方法 " Url="html/M_Du_SolidWorks_Math_Vector2_Distance.htm" />
+    <HelpKINode Title="Vector3.Distance 方法 " Url="html/Overload_Du_SolidWorks_Math_Vector3_Distance.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DistanceSquared 方法">
+    <HelpKINode Title="Vector2.DistanceSquared 方法 " Url="html/M_Du_SolidWorks_Math_Vector2_DistanceSquared.htm" />
+    <HelpKINode Title="Vector3.DistanceSquared 方法 " Url="html/Overload_Du_SolidWorks_Math_Vector3_DistanceSquared.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Dot 方法">
+    <HelpKINode Title="Vector2.Dot 方法 " Url="html/M_Du_SolidWorks_Math_Vector2_Dot.htm" />
+    <HelpKINode Title="Vector3.Dot 方法 " Url="html/Overload_Du_SolidWorks_Math_Vector3_Dot.htm" />
+  </HelpKINode>
+  <HelpKINode Title="doubleExtesnion 类">
+    <HelpKINode Title="doubleExtesnion 类" Url="html/T_Du_SolidWorks_Math_doubleExtesnion.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Math_doubleExtesnion.htm" />
+  </HelpKINode>
+  <HelpKINode Title="doubleExtesnion.ToVector3 方法" Url="html/M_Du_SolidWorks_Math_doubleExtesnion_ToVector3.htm" />
+  <HelpKINode Title="Drawing 字段" Url="html/F_Du_SolidWorks_Extension_SWFile_Drawing.htm" />
+  <HelpKINode Title="DrawingTemplate 字段" Url="html/F_Du_SolidWorks_Extension_SWFile_DrawingTemplate.htm" />
+  <HelpKINode Title="Du.SolidWorks 命名空间" Url="html/N_Du_SolidWorks.htm" />
+  <HelpKINode Title="Du.SolidWorks.Attributes 命名空间" Url="html/N_Du_SolidWorks_Attributes.htm" />
+  <HelpKINode Title="Du.SolidWorks.Attributes.BoxOrderAttribute 类" Url="html/T_Du_SolidWorks_Attributes_BoxOrderAttribute.htm" />
+  <HelpKINode Title="Du.SolidWorks.Attributes.CommandCollectionAttribute 类" Url="html/T_Du_SolidWorks_Attributes_CommandCollectionAttribute.htm" />
+  <HelpKINode Title="Du.SolidWorks.Attributes.SWCommandAttribute 类" Url="html/T_Du_SolidWorks_Attributes_SWCommandAttribute.htm" />
+  <HelpKINode Title="Du.SolidWorks.Attributes.SWFlyoutCommandAttribute 类" Url="html/T_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute.htm" />
+  <HelpKINode Title="Du.SolidWorks.CommandType 枚举" Url="html/T_Du_SolidWorks_CommandType.htm" />
+  <HelpKINode Title="Du.SolidWorks.ComWrapper 类" Url="html/T_Du_SolidWorks_ComWrapper.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension 命名空间" Url="html/N_Du_SolidWorks_Extension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.AssemblyDocExtension 类" Url="html/T_Du_SolidWorks_Extension_AssemblyDocExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.BodyExtension 类" Url="html/T_Du_SolidWorks_Extension_BodyExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.Component2Extension 类" Url="html/T_Du_SolidWorks_Extension_Component2Extension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.CustomPropertyManagerExtension 类" Url="html/T_Du_SolidWorks_Extension_CustomPropertyManagerExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.CustomPropertyModel 类" Url="html/T_Du_SolidWorks_Extension_CustomPropertyModel.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.Delat 类" Url="html/T_Du_SolidWorks_Extension_Delat.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.DuMacroFeatBase(Of TMacroFeature, TData) 类" Url="html/T_Du_SolidWorks_Extension_DuMacroFeatBase_2.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.DuMacroFeatBase&lt;TMacroFeature, TData&gt; 类" Url="html/T_Du_SolidWorks_Extension_DuMacroFeatBase_2.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.Edge3 类" Url="html/T_Du_SolidWorks_Extension_Edge3.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.EdgeExtension 类" Url="html/T_Du_SolidWorks_Extension_EdgeExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.EnumObjExtension 类" Url="html/T_Du_SolidWorks_Extension_EnumObjExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.EquationManagerExtension 类" Url="html/T_Du_SolidWorks_Extension_EquationManagerExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.FaceExtension 类" Url="html/T_Du_SolidWorks_Extension_FaceExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.FeatMgrFeatsNotFoundException 类" Url="html/T_Du_SolidWorks_Extension_FeatMgrFeatsNotFoundException.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.FeatureManagerExtension 类" Url="html/T_Du_SolidWorks_Extension_FeatureManagerExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.FeatureTypeName 类" Url="html/T_Du_SolidWorks_Extension_FeatureTypeName.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.ICurveExtension 类" Url="html/T_Du_SolidWorks_Extension_ICurveExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.IFeatureExtension 类" Url="html/T_Du_SolidWorks_Extension_IFeatureExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.IMacroFeatureDataExtension 类" Url="html/T_Du_SolidWorks_Extension_IMacroFeatureDataExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.IPropertyManagerGroupBuilder 类" Url="html/T_Du_SolidWorks_Extension_IPropertyManagerGroupBuilder.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.IPropertyManagerPage2Builder 类" Url="html/T_Du_SolidWorks_Extension_IPropertyManagerPage2Builder.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.IPropertyManagerPageSelectionboxExtension 类" Url="html/T_Du_SolidWorks_Extension_IPropertyManagerPageSelectionboxExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.IPropertyManagerPageWindowFromHandleWrapper 类" Url="html/T_Du_SolidWorks_Extension_IPropertyManagerPageWindowFromHandleWrapper.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.MacroFeatureDataExtension(Of TFeatComSerivce, TData) 类" Url="html/T_Du_SolidWorks_Extension_MacroFeatureDataExtension_2.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.MacroFeatureDataExtension&lt;TFeatComSerivce, TData&gt; 类" Url="html/T_Du_SolidWorks_Extension_MacroFeatureDataExtension_2.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.ManipulatorHandler 类" Url="html/T_Du_SolidWorks_Extension_ManipulatorHandler.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.MateAlignExtension 枚举" Url="html/T_Du_SolidWorks_Extension_MateAlignExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.MathTransformExtension 类" Url="html/T_Du_SolidWorks_Extension_MathTransformExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.Matrix4X4ExtensionsSw 类" Url="html/T_Du_SolidWorks_Extension_Matrix4X4ExtensionsSw.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.ModelDocDuExtension 类" Url="html/T_Du_SolidWorks_Extension_ModelDocDuExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.ModelDocDuExtension.EquationsDimensionType 枚举" Url="html/T_Du_SolidWorks_Extension_ModelDocDuExtension_EquationsDimensionType.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.ModelDocDuExtension.RayIntersection 类" Url="html/T_Du_SolidWorks_Extension_ModelDocDuExtension_RayIntersection.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.ModelerExtension 类" Url="html/T_Du_SolidWorks_Extension_ModelerExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.ObjectId 类" Url="html/T_Du_SolidWorks_Extension_ObjectId.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.ObjectSelection 类" Url="html/T_Du_SolidWorks_Extension_ObjectSelection.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.OperationsResult 类" Url="html/T_Du_SolidWorks_Extension_OperationsResult.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.PMPageControl 类" Url="html/T_Du_SolidWorks_Extension_PMPageControl.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.PMPageControlAttribute 类" Url="html/T_Du_SolidWorks_Extension_PMPageControlAttribute.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.PointParam 类" Url="html/T_Du_SolidWorks_Extension_PointParam.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.PropertyManagerPage2Extension 类" Url="html/T_Du_SolidWorks_Extension_PropertyManagerPage2Extension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.PropertyManagerPage2Handler9Wrapper 类" Url="html/T_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.PropertyManagerPageGroupExtension 类" Url="html/T_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.Range3Double 类" Url="html/T_Du_SolidWorks_Extension_Range3Double.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.RefAxisExtension 类" Url="html/T_Du_SolidWorks_Extension_RefAxisExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.RefAxisNotFoundException 类" Url="html/T_Du_SolidWorks_Extension_RefAxisNotFoundException.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.RefPlaneExtesion 类" Url="html/T_Du_SolidWorks_Extension_RefPlaneExtesion.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.SelectionBoxAttribute 类" Url="html/T_Du_SolidWorks_Extension_SelectionBoxAttribute.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.SelectionBoxExtensions 类" Url="html/T_Du_SolidWorks_Extension_SelectionBoxExtensions.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.SelectionData 类" Url="html/T_Du_SolidWorks_Extension_SelectionData.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.SelectionDataExtension 类" Url="html/T_Du_SolidWorks_Extension_SelectionDataExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.SelectionManagerExtensions 类" Url="html/T_Du_SolidWorks_Extension_SelectionManagerExtensions.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.SldWorksExtension 类" Url="html/T_Du_SolidWorks_Extension_SldWorksExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.StateEnum 枚举" Url="html/T_Du_SolidWorks_Extension_StateEnum.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.SurfaceExtensions 类" Url="html/T_Du_SolidWorks_Extension_SurfaceExtensions.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.SurfaceExtensions.PointUv 类" Url="html/T_Du_SolidWorks_Extension_SurfaceExtensions_PointUv.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.SwCalloutHandlerWrapper 类" Url="html/T_Du_SolidWorks_Extension_SwCalloutHandlerWrapper.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.SwCalloutHandlerWrapperHelper 类" Url="html/T_Du_SolidWorks_Extension_SwCalloutHandlerWrapperHelper.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.swEqu 类" Url="html/T_Du_SolidWorks_Extension_swEqu.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.SWFile 类" Url="html/T_Du_SolidWorks_Extension_SWFile.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.SWPath 类" Url="html/T_Du_SolidWorks_Extension_SWPath.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.swSelectTypeName 类" Url="html/T_Du_SolidWorks_Extension_swSelectTypeName.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.TestObj 类" Url="html/T_Du_SolidWorks_Extension_TestObj.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.TriadManipulatorExtensions 类" Url="html/T_Du_SolidWorks_Extension_TriadManipulatorExtensions.htm" />
+  <HelpKINode Title="Du.SolidWorks.Extension.ViewExtension 类" Url="html/T_Du_SolidWorks_Extension_ViewExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.GroupData 结构" Url="html/T_Du_SolidWorks_GroupData.htm" />
+  <HelpKINode Title="Du.SolidWorks.IDuTaskPane 接口" Url="html/T_Du_SolidWorks_IDuTaskPane.htm" />
+  <HelpKINode Title="Du.SolidWorks.Interface 命名空间" Url="html/N_Du_SolidWorks_Interface.htm" />
+  <HelpKINode Title="Du.SolidWorks.Interface.IFlyoutCommand 接口" Url="html/T_Du_SolidWorks_Interface_IFlyoutCommand.htm" />
+  <HelpKINode Title="Du.SolidWorks.ISolidWorksAddin 接口" Url="html/T_Du_SolidWorks_ISolidWorksAddin.htm" />
+  <HelpKINode Title="Du.SolidWorks.ISWAddinCommand 接口" Url="html/T_Du_SolidWorks_ISWAddinCommand.htm" />
+  <HelpKINode Title="Du.SolidWorks.Math 命名空间" Url="html/N_Du_SolidWorks_Math.htm" />
+  <HelpKINode Title="Du.SolidWorks.Math.ConvexHull2 类" Url="html/T_Du_SolidWorks_Math_ConvexHull2.htm" />
+  <HelpKINode Title="Du.SolidWorks.Math.doubleExtesnion 类" Url="html/T_Du_SolidWorks_Math_doubleExtesnion.htm" />
+  <HelpKINode Title="Du.SolidWorks.Math.MathPointExtension 类" Url="html/T_Du_SolidWorks_Math_MathPointExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Math.MathUtil 类" Url="html/T_Du_SolidWorks_Math_MathUtil.htm" />
+  <HelpKINode Title="Du.SolidWorks.Math.MathUtilityExtension 类" Url="html/T_Du_SolidWorks_Math_MathUtilityExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Math.MathVectorExtension 类" Url="html/T_Du_SolidWorks_Math_MathVectorExtension.htm" />
+  <HelpKINode Title="Du.SolidWorks.Math.PointDirection3 类" Url="html/T_Du_SolidWorks_Math_PointDirection3.htm" />
+  <HelpKINode Title="Du.SolidWorks.Math.Vector2 类" Url="html/T_Du_SolidWorks_Math_Vector2.htm" />
+  <HelpKINode Title="Du.SolidWorks.Math.Vector3 类" Url="html/T_Du_SolidWorks_Math_Vector3.htm" />
+  <HelpKINode Title="DuMacroFeatBase(Of TMacroFeature, TData) 类">
+    <HelpKINode Title="DuMacroFeatBase(TMacroFeature, TData) 类" Url="html/T_Du_SolidWorks_Extension_DuMacroFeatBase_2.htm" />
+    <HelpKINode Title="字段" Url="html/Fields_T_Du_SolidWorks_Extension_DuMacroFeatBase_2.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_DuMacroFeatBase_2.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_DuMacroFeatBase_2.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DuMacroFeatBase(Of TMacroFeature, TData).DuMacroFeatBase 构造函数" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2__ctor.htm" />
+  <HelpKINode Title="DuMacroFeatBase(Of TMacroFeature, TData).Edit 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_Edit.htm" />
+  <HelpKINode Title="DuMacroFeatBase(Of TMacroFeature, TData).EditFeat 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_EditFeat.htm" />
+  <HelpKINode Title="DuMacroFeatBase(Of TMacroFeature, TData).FeatureName 属性" Url="html/P_Du_SolidWorks_Extension_DuMacroFeatBase_2_FeatureName.htm" />
+  <HelpKINode Title="DuMacroFeatBase(Of TMacroFeature, TData).FeatureOptions 属性" Url="html/P_Du_SolidWorks_Extension_DuMacroFeatBase_2_FeatureOptions.htm" />
+  <HelpKINode Title="DuMacroFeatBase(Of TMacroFeature, TData).GetPropertyPage 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_GetPropertyPage.htm" />
+  <HelpKINode Title="DuMacroFeatBase(Of TMacroFeature, TData).RebuildNotify 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_RebuildNotify.htm" />
+  <HelpKINode Title="DuMacroFeatBase(Of TMacroFeature, TData).Regenerate 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_Regenerate.htm" />
+  <HelpKINode Title="DuMacroFeatBase(Of TMacroFeature, TData).Security 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_Security.htm" />
+  <HelpKINode Title="DuMacroFeatBase(Of TMacroFeature, TData)._EditPage 字段" Url="html/F_Du_SolidWorks_Extension_DuMacroFeatBase_2__EditPage.htm" />
+  <HelpKINode Title="DuMacroFeatBase&lt;TMacroFeature, TData&gt; 类">
+    <HelpKINode Title="DuMacroFeatBase(TMacroFeature, TData) 类" Url="html/T_Du_SolidWorks_Extension_DuMacroFeatBase_2.htm" />
+    <HelpKINode Title="字段" Url="html/Fields_T_Du_SolidWorks_Extension_DuMacroFeatBase_2.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_DuMacroFeatBase_2.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_DuMacroFeatBase_2.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DuMacroFeatBase&lt;TMacroFeature, TData&gt;.DuMacroFeatBase 构造函数" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2__ctor.htm" />
+  <HelpKINode Title="DuMacroFeatBase&lt;TMacroFeature, TData&gt;.Edit 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_Edit.htm" />
+  <HelpKINode Title="DuMacroFeatBase&lt;TMacroFeature, TData&gt;.EditFeat 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_EditFeat.htm" />
+  <HelpKINode Title="DuMacroFeatBase&lt;TMacroFeature, TData&gt;.FeatureName 属性" Url="html/P_Du_SolidWorks_Extension_DuMacroFeatBase_2_FeatureName.htm" />
+  <HelpKINode Title="DuMacroFeatBase&lt;TMacroFeature, TData&gt;.FeatureOptions 属性" Url="html/P_Du_SolidWorks_Extension_DuMacroFeatBase_2_FeatureOptions.htm" />
+  <HelpKINode Title="DuMacroFeatBase&lt;TMacroFeature, TData&gt;.GetPropertyPage 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_GetPropertyPage.htm" />
+  <HelpKINode Title="DuMacroFeatBase&lt;TMacroFeature, TData&gt;.RebuildNotify 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_RebuildNotify.htm" />
+  <HelpKINode Title="DuMacroFeatBase&lt;TMacroFeature, TData&gt;.Regenerate 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_Regenerate.htm" />
+  <HelpKINode Title="DuMacroFeatBase&lt;TMacroFeature, TData&gt;.Security 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_Security.htm" />
+  <HelpKINode Title="DuMacroFeatBase&lt;TMacroFeature, TData&gt;._EditPage 字段" Url="html/F_Du_SolidWorks_Extension_DuMacroFeatBase_2__EditPage.htm" />
+  <HelpKINode Title="Edge3 类">
+    <HelpKINode Title="Edge3 类" Url="html/T_Du_SolidWorks_Extension_Edge3.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_Edge3.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_Edge3.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_Edge3__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Edge3.A 属性" Url="html/P_Du_SolidWorks_Extension_Edge3_A.htm" />
+  <HelpKINode Title="Edge3.B 属性" Url="html/P_Du_SolidWorks_Extension_Edge3_B.htm" />
+  <HelpKINode Title="Edge3.Delta 属性" Url="html/P_Du_SolidWorks_Extension_Edge3_Delta.htm" />
+  <HelpKINode Title="Edge3.Edge3 构造函数" Url="html/M_Du_SolidWorks_Extension_Edge3__ctor.htm" />
+  <HelpKINode Title="EdgeExtension 类">
+    <HelpKINode Title="EdgeExtension 类" Url="html/T_Du_SolidWorks_Extension_EdgeExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_EdgeExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EdgeExtension.GetEdge3 方法" Url="html/M_Du_SolidWorks_Extension_EdgeExtension_GetEdge3.htm" />
+  <HelpKINode Title="EdgeExtension.GetVectorLength 方法" Url="html/M_Du_SolidWorks_Extension_EdgeExtension_GetVectorLength.htm" />
+  <HelpKINode Title="Edit 方法">
+    <HelpKINode Title="Component2Extension.Edit 方法 " Url="html/M_Du_SolidWorks_Extension_Component2Extension_Edit.htm" />
+    <HelpKINode Title="DuMacroFeatBase(TMacroFeature, TData).Edit 方法 " Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_Edit.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Edit 枚举成员" Url="html/T_Du_SolidWorks_Extension_StateEnum.htm" />
+  <HelpKINode Title="EditFeat 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_EditFeat.htm" />
+  <HelpKINode Title="EnumObjExtension 类">
+    <HelpKINode Title="EnumObjExtension 类" Url="html/T_Du_SolidWorks_Extension_EnumObjExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_EnumObjExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EnumObjExtension.CastObj(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_EnumObjExtension_CastObj__1.htm" />
+  <HelpKINode Title="EnumObjExtension.CastObj&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_EnumObjExtension_CastObj__1.htm" />
+  <HelpKINode Title="EnumObjExtension.SWToInt 方法" Url="html/M_Du_SolidWorks_Extension_EnumObjExtension_SWToInt.htm" />
+  <HelpKINode Title="Epsilon 字段" Url="html/F_Du_SolidWorks_Math_MathUtil_Epsilon.htm" />
+  <HelpKINode Title="Equation 属性" Url="html/P_Du_SolidWorks_Extension_swEqu_Equation.htm" />
+  <HelpKINode Title="EquationManagerExtension 类">
+    <HelpKINode Title="EquationManagerExtension 类" Url="html/T_Du_SolidWorks_Extension_EquationManagerExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_EquationManagerExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EquationManagerExtension.AddEqu 方法" Url="html/M_Du_SolidWorks_Extension_EquationManagerExtension_AddEqu.htm" />
+  <HelpKINode Title="EquationManagerExtension.GetAllEqu 方法" Url="html/M_Du_SolidWorks_Extension_EquationManagerExtension_GetAllEqu.htm" />
+  <HelpKINode Title="EquationManagerExtension.GetEqu 方法" Url="html/M_Du_SolidWorks_Extension_EquationManagerExtension_GetEqu.htm" />
+  <HelpKINode Title="EquationManagerExtension.SetEqu 方法" Url="html/Overload_Du_SolidWorks_Extension_EquationManagerExtension_SetEqu.htm" />
+  <HelpKINode Title="EquationManagerExtension.SetGlobalEqu 方法" Url="html/M_Du_SolidWorks_Extension_EquationManagerExtension_SetGlobalEqu.htm" />
+  <HelpKINode Title="Error 属性" Url="html/P_Du_SolidWorks_Extension_OperationsResult_Error.htm" />
+  <HelpKINode Title="EvalValue 属性" Url="html/P_Du_SolidWorks_Extension_CustomPropertyModel_EvalValue.htm" />
+  <HelpKINode Title="Execute 方法" Url="html/M_Du_SolidWorks_Interface_IFlyoutCommand_Execute.htm" />
+  <HelpKINode Title="ExplodeLineProfileFeature 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_ExplodeLineProfileFeature.htm" />
+  <HelpKINode Title="ExtensionDllPath 属性" Url="html/P_Du_SolidWorks_Extension_SWPath_ExtensionDllPath.htm" />
+  <HelpKINode Title="FaceExtension 类">
+    <HelpKINode Title="FaceExtension 类" Url="html/T_Du_SolidWorks_Extension_FaceExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_FaceExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FaceExtension.GetBoxTs 方法" Url="html/M_Du_SolidWorks_Extension_FaceExtension_GetBoxTs.htm" />
+  <HelpKINode Title="FaceExtension.GetDistance 方法" Url="html/M_Du_SolidWorks_Extension_FaceExtension_GetDistance.htm" />
+  <HelpKINode Title="FaceExtension.GetTessTrianglesAllowConversion 方法" Url="html/M_Du_SolidWorks_Extension_FaceExtension_GetTessTrianglesAllowConversion.htm" />
+  <HelpKINode Title="FaceExtension.GetTessTrianglesNoConversion 方法" Url="html/M_Du_SolidWorks_Extension_FaceExtension_GetTessTrianglesNoConversion.htm" />
+  <HelpKINode Title="FeatMgrFeatsNotFoundException 类">
+    <HelpKINode Title="FeatMgrFeatsNotFoundException 类" Url="html/T_Du_SolidWorks_Extension_FeatMgrFeatsNotFoundException.htm" />
+    <HelpKINode Title="事件" Url="html/Events_T_Du_SolidWorks_Extension_FeatMgrFeatsNotFoundException.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_FeatMgrFeatsNotFoundException.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_FeatMgrFeatsNotFoundException.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_FeatMgrFeatsNotFoundException__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FeatMgrFeatsNotFoundException.FeatMgrFeatsNotFoundException 构造函数" Url="html/M_Du_SolidWorks_Extension_FeatMgrFeatsNotFoundException__ctor.htm" />
+  <HelpKINode Title="FeatName 属性" Url="html/P_Du_SolidWorks_Extension_MacroFeatureDataExtension_2_FeatName.htm" />
+  <HelpKINode Title="FeatureManagerExtension 类">
+    <HelpKINode Title="FeatureManagerExtension 类" Url="html/T_Du_SolidWorks_Extension_FeatureManagerExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_FeatureManagerExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FeatureManagerExtension.GetFeatureInsertError 方法" Url="html/M_Du_SolidWorks_Extension_FeatureManagerExtension_GetFeatureInsertError.htm" />
+  <HelpKINode Title="FeatureManagerExtension.GetFeaturesEx 方法" Url="html/M_Du_SolidWorks_Extension_FeatureManagerExtension_GetFeaturesEx.htm" />
+  <HelpKINode Title="FeatureManagerExtension.InsertMacroFeature(Of TFeature) 方法" Url="html/M_Du_SolidWorks_Extension_FeatureManagerExtension_InsertMacroFeature__1.htm" />
+  <HelpKINode Title="FeatureManagerExtension.InsertMacroFeature&lt;TFeature&gt; 方法" Url="html/M_Du_SolidWorks_Extension_FeatureManagerExtension_InsertMacroFeature__1.htm" />
+  <HelpKINode Title="FeatureName 属性" Url="html/P_Du_SolidWorks_Extension_DuMacroFeatBase_2_FeatureName.htm" />
+  <HelpKINode Title="FeatureOptions 属性" Url="html/P_Du_SolidWorks_Extension_DuMacroFeatBase_2_FeatureOptions.htm" />
+  <HelpKINode Title="FeatureTypeName 类">
+    <HelpKINode Title="FeatureTypeName 类" Url="html/T_Du_SolidWorks_Extension_FeatureTypeName.htm" />
+    <HelpKINode Title="字段" Url="html/Fields_T_Du_SolidWorks_Extension_FeatureTypeName.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_FeatureTypeName.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_FeatureTypeName__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FeatureTypeName.Component2 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_Component2.htm" />
+  <HelpKINode Title="FeatureTypeName.CoordSys 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_CoordSys.htm" />
+  <HelpKINode Title="FeatureTypeName.ExplodeLineProfileFeature 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_ExplodeLineProfileFeature.htm" />
+  <HelpKINode Title="FeatureTypeName.FeatureTypeName 构造函数" Url="html/M_Du_SolidWorks_Extension_FeatureTypeName__ctor.htm" />
+  <HelpKINode Title="FeatureTypeName.InContextFeatHolder 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_InContextFeatHolder.htm" />
+  <HelpKINode Title="FeatureTypeName.MacroFeature 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_MacroFeature.htm" />
+  <HelpKINode Title="FeatureTypeName.MateCoincident 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_MateCoincident.htm" />
+  <HelpKINode Title="FeatureTypeName.MateGroup 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_MateGroup.htm" />
+  <HelpKINode Title="FeatureTypeName.MateInPlane 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_MateInPlane.htm" />
+  <HelpKINode Title="FeatureTypeName.OrignSys 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_OrignSys.htm" />
+  <HelpKINode Title="FeatureTypeName.ProfileFeature 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_ProfileFeature.htm" />
+  <HelpKINode Title="FeatureTypeName.RefAxis 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_RefAxis.htm" />
+  <HelpKINode Title="FeatureTypeName.RefPlane 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_RefPlane.htm" />
+  <HelpKINode Title="FeatureTypeName.Sketch 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_Sketch.htm" />
+  <HelpKINode Title="Fileter 属性" Url="html/P_Du_SolidWorks_Extension_SelectionBoxAttribute_Fileter.htm" />
+  <HelpKINode Title="FileType 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_FileType.htm" />
+  <HelpKINode Title="FlyoutCMDId 属性" Url="html/P_Du_SolidWorks_Interface_IFlyoutCommand_FlyoutCMDId.htm" />
+  <HelpKINode Title="FlyoutCommand 枚举成员" Url="html/T_Du_SolidWorks_CommandType.htm" />
+  <HelpKINode Title="FlyoutGroup 属性" Url="html/P_Du_SolidWorks_Interface_IFlyoutCommand_FlyoutGroup.htm" />
+  <HelpKINode Title="FlyoutType 属性" Url="html/P_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute_FlyoutType.htm" />
+  <HelpKINode Title="FromAngleRad 方法" Url="html/M_Du_SolidWorks_Math_Vector2_FromAngleRad.htm" />
+  <HelpKINode Title="GetAllEqu 方法" Url="html/M_Du_SolidWorks_Extension_EquationManagerExtension_GetAllEqu.htm" />
+  <HelpKINode Title="GetAllProperty 方法" Url="html/M_Du_SolidWorks_Extension_CustomPropertyManagerExtension_GetAllProperty.htm" />
+  <HelpKINode Title="GetAllSelectedObjects 方法" Url="html/M_Du_SolidWorks_Extension_SelectionManagerExtensions_GetAllSelectedObjects.htm" />
+  <HelpKINode Title="GetAllSelectedObjectsEx 方法" Url="html/M_Du_SolidWorks_Extension_SelectionManagerExtensions_GetAllSelectedObjectsEx.htm" />
+  <HelpKINode Title="GetBoxTs 方法" Url="html/M_Du_SolidWorks_Extension_FaceExtension_GetBoxTs.htm" />
+  <HelpKINode Title="GetChildrenEx 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_GetChildrenEx.htm" />
+  <HelpKINode Title="GetClosestPointOnTs 方法" Url="html/Overload_Du_SolidWorks_Extension_SurfaceExtensions_GetClosestPointOnTs.htm" />
+  <HelpKINode Title="GetCompTopFeatures 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_GetCompTopFeatures.htm" />
+  <HelpKINode Title="GetCompTopFeaturesWithTypeName 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_GetCompTopFeaturesWithTypeName.htm" />
+  <HelpKINode Title="GetCompType 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_GetCompType.htm" />
+  <HelpKINode Title="GetComTypeFor(Of T) 方法" Url="html/M_Du_SolidWorks_ComWrapper_GetComTypeFor__1.htm" />
+  <HelpKINode Title="GetComTypeFor&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_ComWrapper_GetComTypeFor__1.htm" />
+  <HelpKINode Title="GetConfigurationFromID 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetConfigurationFromID.htm" />
+  <HelpKINode Title="GetConfigurations 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetConfigurations.htm" />
+  <HelpKINode Title="GetConvexHull 方法" Url="html/M_Du_SolidWorks_Math_ConvexHull2_GetConvexHull.htm" />
+  <HelpKINode Title="GetDefinition(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_IFeatureExtension_GetDefinition__1.htm" />
+  <HelpKINode Title="GetDefinition&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_IFeatureExtension_GetDefinition__1.htm" />
+  <HelpKINode Title="GetDisplayDimensions 方法" Url="html/M_Du_SolidWorks_Extension_IFeatureExtension_GetDisplayDimensions.htm" />
+  <HelpKINode Title="GetDistance 方法" Url="html/M_Du_SolidWorks_Extension_FaceExtension_GetDistance.htm" />
+  <HelpKINode Title="GetEdge3 方法">
+    <HelpKINode Title="EdgeExtension.GetEdge3 方法 " Url="html/M_Du_SolidWorks_Extension_EdgeExtension_GetEdge3.htm" />
+    <HelpKINode Title="RefAxisExtension.GetEdge3 方法 " Url="html/M_Du_SolidWorks_Extension_RefAxisExtension_GetEdge3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetEqu 方法" Url="html/M_Du_SolidWorks_Extension_EquationManagerExtension_GetEqu.htm" />
+  <HelpKINode Title="GetFeats 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetFeats.htm" />
+  <HelpKINode Title="GetFeatureDataNames 方法" Url="html/M_Du_SolidWorks_Extension_IMacroFeatureDataExtension_GetFeatureDataNames.htm" />
+  <HelpKINode Title="GetFeatureDataTypes 方法" Url="html/M_Du_SolidWorks_Extension_IMacroFeatureDataExtension_GetFeatureDataTypes.htm" />
+  <HelpKINode Title="GetFeatureDataValues 方法" Url="html/M_Du_SolidWorks_Extension_IMacroFeatureDataExtension_GetFeatureDataValues.htm" />
+  <HelpKINode Title="GetFeatureInsertError 方法" Url="html/M_Du_SolidWorks_Extension_FeatureManagerExtension_GetFeatureInsertError.htm" />
+  <HelpKINode Title="GetFeaturesEx 方法" Url="html/M_Du_SolidWorks_Extension_FeatureManagerExtension_GetFeaturesEx.htm" />
+  <HelpKINode Title="GetFileType 方法" Url="html/M_Du_SolidWorks_Extension_SWPath_GetFileType.htm" />
+  <HelpKINode Title="GetFirstToLastFeats 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetFirstToLastFeats.htm" />
+  <HelpKINode Title="GetGlobals 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetGlobals.htm" />
+  <HelpKINode Title="GetModelDispalyDimensions 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetModelDispalyDimensions.htm" />
+  <HelpKINode Title="GetModelDoc2Ex 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_GetModelDoc2Ex.htm" />
+  <HelpKINode Title="GetObjectFromPersistReference 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetObjectFromPersistReference.htm" />
+  <HelpKINode Title="GetObjects 方法" Url="html/Overload_Du_SolidWorks_Extension_SelectionDataExtension_GetObjects.htm" />
+  <HelpKINode Title="GetObjectSelections 方法" Url="html/M_Du_SolidWorks_Extension_SelectionManagerExtensions_GetObjectSelections.htm" />
+  <HelpKINode Title="GetPersistReference(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetPersistReference__1.htm" />
+  <HelpKINode Title="GetPersistReference&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetPersistReference__1.htm" />
+  <HelpKINode Title="GetPlanes 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetPlanes.htm" />
+  <HelpKINode Title="GetPointDirection3 方法" Url="html/M_Du_SolidWorks_Extension_RefPlaneExtesion_GetPointDirection3.htm" />
+  <HelpKINode Title="GetPostion 方法">
+    <HelpKINode Title="Component2Extension.GetPostion 方法 " Url="html/M_Du_SolidWorks_Extension_Component2Extension_GetPostion.htm" />
+    <HelpKINode Title="MathTransformExtension.GetPostion 方法 " Url="html/M_Du_SolidWorks_Extension_MathTransformExtension_GetPostion.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetProperty 方法" Url="html/M_Du_SolidWorks_Extension_CustomPropertyManagerExtension_GetProperty.htm" />
+  <HelpKINode Title="GetPropertyPage 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_GetPropertyPage.htm" />
+  <HelpKINode Title="GetRayIntersections 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetRayIntersections.htm" />
+  <HelpKINode Title="GetSelectedObjects 方法">
+    <HelpKINode Title="IMacroFeatureDataExtension.GetSelectedObjects 方法 " Url="html/M_Du_SolidWorks_Extension_IMacroFeatureDataExtension_GetSelectedObjects.htm" />
+    <HelpKINode Title="SelectionManagerExtensions.GetSelectedObjects 方法 " Url="html/M_Du_SolidWorks_Extension_SelectionManagerExtensions_GetSelectedObjects.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetSelectedObjectsFromModel 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetSelectedObjectsFromModel.htm" />
+  <HelpKINode Title="GetSelectedTypeName 方法" Url="html/M_Du_SolidWorks_Extension_swSelectTypeName_GetSelectedTypeName.htm" />
+  <HelpKINode Title="GetSpecFeatData(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_IFeatureExtension_GetSpecFeatData__1.htm" />
+  <HelpKINode Title="GetSpecFeatData&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_IFeatureExtension_GetSpecFeatData__1.htm" />
+  <HelpKINode Title="GetTess 方法" Url="html/M_Du_SolidWorks_Extension_BodyExtension_GetTess.htm" />
+  <HelpKINode Title="GetTessTrianglesAllowConversion 方法" Url="html/M_Du_SolidWorks_Extension_FaceExtension_GetTessTrianglesAllowConversion.htm" />
+  <HelpKINode Title="GetTessTrianglesNoConversion 方法" Url="html/M_Du_SolidWorks_Extension_FaceExtension_GetTessTrianglesNoConversion.htm" />
+  <HelpKINode Title="GetTypeEx 方法" Url="html/Overload_Du_SolidWorks_Extension_ModelDocDuExtension_GetTypeEx.htm" />
+  <HelpKINode Title="GetVectorLength 方法" Url="html/M_Du_SolidWorks_Extension_EdgeExtension_GetVectorLength.htm" />
+  <HelpKINode Title="GetXAxis 方法">
+    <HelpKINode Title="MathTransformExtension.GetXAxis 方法 " Url="html/M_Du_SolidWorks_Extension_MathTransformExtension_GetXAxis.htm" />
+    <HelpKINode Title="ViewExtension.GetXAxis 方法 " Url="html/M_Du_SolidWorks_Extension_ViewExtension_GetXAxis.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetYAxis 方法">
+    <HelpKINode Title="MathTransformExtension.GetYAxis 方法 " Url="html/M_Du_SolidWorks_Extension_MathTransformExtension_GetYAxis.htm" />
+    <HelpKINode Title="ViewExtension.GetYAxis 方法 " Url="html/M_Du_SolidWorks_Extension_ViewExtension_GetYAxis.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetZAxis 方法">
+    <HelpKINode Title="MathTransformExtension.GetZAxis 方法 " Url="html/M_Du_SolidWorks_Extension_MathTransformExtension_GetZAxis.htm" />
+    <HelpKINode Title="ViewExtension.GetZAxis 方法 " Url="html/M_Du_SolidWorks_Extension_ViewExtension_GetZAxis.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetZAxisVec 方法" Url="html/M_Du_SolidWorks_Extension_ViewExtension_GetZAxisVec.htm" />
+  <HelpKINode Title="GlobalVariable 属性" Url="html/P_Du_SolidWorks_Extension_swEqu_GlobalVariable.htm" />
+  <HelpKINode Title="Group 属性" Url="html/P_Du_SolidWorks_Extension_IPropertyManagerGroupBuilder_Group.htm" />
+  <HelpKINode Title="GroupData 结构">
+    <HelpKINode Title="GroupData 结构" Url="html/T_Du_SolidWorks_GroupData.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_GroupData.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_GroupData.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GroupData.Hint 属性" Url="html/P_Du_SolidWorks_GroupData_Hint.htm" />
+  <HelpKINode Title="GroupData.IconAssembly 属性" Url="html/P_Du_SolidWorks_GroupData_IconAssembly.htm" />
+  <HelpKINode Title="GroupData.Icons 属性" Url="html/P_Du_SolidWorks_GroupData_Icons.htm" />
+  <HelpKINode Title="GroupData.TabStyles 属性" Url="html/P_Du_SolidWorks_GroupData_TabStyles.htm" />
+  <HelpKINode Title="GroupData.Title 属性" Url="html/P_Du_SolidWorks_GroupData_Title.htm" />
+  <HelpKINode Title="GroupData.ToolTip 属性" Url="html/P_Du_SolidWorks_GroupData_ToolTip.htm" />
+  <HelpKINode Title="Guid 属性">
+    <HelpKINode Title="SWCommandAttribute.Guid 属性 " Url="html/P_Du_SolidWorks_Attributes_SWCommandAttribute_Guid.htm" />
+    <HelpKINode Title="SWFlyoutCommandAttribute.Guid 属性 " Url="html/P_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute_Guid.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HasDocOpened 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_HasDocOpened.htm" />
+  <HelpKINode Title="Height 属性">
+    <HelpKINode Title="IPropertyManagerPageWindowFromHandleWrapper.Height 属性 " Url="html/P_Du_SolidWorks_Extension_IPropertyManagerPageWindowFromHandleWrapper_Height.htm" />
+    <HelpKINode Title="SelectionBoxAttribute.Height 属性 " Url="html/P_Du_SolidWorks_Extension_SelectionBoxAttribute_Height.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Hint 属性">
+    <HelpKINode Title="GroupData.Hint 属性 " Url="html/P_Du_SolidWorks_GroupData_Hint.htm" />
+    <HelpKINode Title="SWCommandAttribute.Hint 属性 " Url="html/P_Du_SolidWorks_Attributes_SWCommandAttribute_Hint.htm" />
+    <HelpKINode Title="SWFlyoutCommandAttribute.Hint 属性 " Url="html/P_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute_Hint.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HitPoint 属性" Url="html/P_Du_SolidWorks_Extension_ModelDocDuExtension_RayIntersection_HitPoint.htm" />
+  <HelpKINode Title="IconAssembly 属性" Url="html/P_Du_SolidWorks_GroupData_IconAssembly.htm" />
+  <HelpKINode Title="Icons 属性" Url="html/P_Du_SolidWorks_GroupData_Icons.htm" />
+  <HelpKINode Title="ICurveExtension 类">
+    <HelpKINode Title="ICurveExtension 类" Url="html/T_Du_SolidWorks_Extension_ICurveExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_ICurveExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICurveExtension.ClosestPointOn 方法" Url="html/Overload_Du_SolidWorks_Extension_ICurveExtension_ClosestPointOn.htm" />
+  <HelpKINode Title="ICurveExtension.CreateTrimmedCurve 方法" Url="html/M_Du_SolidWorks_Extension_ICurveExtension_CreateTrimmedCurve.htm" />
+  <HelpKINode Title="ID 属性" Url="html/P_Du_SolidWorks_Extension_PMPageControl_ID.htm" />
+  <HelpKINode Title="IDuTaskPane 接口">
+    <HelpKINode Title="IDuTaskPane 接口" Url="html/T_Du_SolidWorks_IDuTaskPane.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_IDuTaskPane.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IDuTaskPane.UI 属性" Url="html/P_Du_SolidWorks_IDuTaskPane_UI.htm" />
+  <HelpKINode Title="IFeatureExtension 类">
+    <HelpKINode Title="IFeatureExtension 类" Url="html/T_Du_SolidWorks_Extension_IFeatureExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_IFeatureExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFeatureExtension.GetDefinition(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_IFeatureExtension_GetDefinition__1.htm" />
+  <HelpKINode Title="IFeatureExtension.GetDefinition&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_IFeatureExtension_GetDefinition__1.htm" />
+  <HelpKINode Title="IFeatureExtension.GetDisplayDimensions 方法" Url="html/M_Du_SolidWorks_Extension_IFeatureExtension_GetDisplayDimensions.htm" />
+  <HelpKINode Title="IFeatureExtension.GetSpecFeatData(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_IFeatureExtension_GetSpecFeatData__1.htm" />
+  <HelpKINode Title="IFeatureExtension.GetSpecFeatData&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_IFeatureExtension_GetSpecFeatData__1.htm" />
+  <HelpKINode Title="IFlyoutCommand 接口">
+    <HelpKINode Title="IFlyoutCommand 接口" Url="html/T_Du_SolidWorks_Interface_IFlyoutCommand.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Interface_IFlyoutCommand.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Interface_IFlyoutCommand.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFlyoutCommand.Execute 方法" Url="html/M_Du_SolidWorks_Interface_IFlyoutCommand_Execute.htm" />
+  <HelpKINode Title="IFlyoutCommand.FlyoutCMDId 属性" Url="html/P_Du_SolidWorks_Interface_IFlyoutCommand_FlyoutCMDId.htm" />
+  <HelpKINode Title="IFlyoutCommand.FlyoutGroup 属性" Url="html/P_Du_SolidWorks_Interface_IFlyoutCommand_FlyoutGroup.htm" />
+  <HelpKINode Title="IMacroFeatureDataExtension 类">
+    <HelpKINode Title="IMacroFeatureDataExtension 类" Url="html/T_Du_SolidWorks_Extension_IMacroFeatureDataExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_IMacroFeatureDataExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IMacroFeatureDataExtension.GetFeatureDataNames 方法" Url="html/M_Du_SolidWorks_Extension_IMacroFeatureDataExtension_GetFeatureDataNames.htm" />
+  <HelpKINode Title="IMacroFeatureDataExtension.GetFeatureDataTypes 方法" Url="html/M_Du_SolidWorks_Extension_IMacroFeatureDataExtension_GetFeatureDataTypes.htm" />
+  <HelpKINode Title="IMacroFeatureDataExtension.GetFeatureDataValues 方法" Url="html/M_Du_SolidWorks_Extension_IMacroFeatureDataExtension_GetFeatureDataValues.htm" />
+  <HelpKINode Title="IMacroFeatureDataExtension.GetSelectedObjects 方法" Url="html/M_Du_SolidWorks_Extension_IMacroFeatureDataExtension_GetSelectedObjects.htm" />
+  <HelpKINode Title="IMacroFeatureDataExtension.Read(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_IMacroFeatureDataExtension_Read__1.htm" />
+  <HelpKINode Title="IMacroFeatureDataExtension.Read&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_IMacroFeatureDataExtension_Read__1.htm" />
+  <HelpKINode Title="IMacroFeatureDataExtension.Write 方法" Url="html/M_Du_SolidWorks_Extension_IMacroFeatureDataExtension_Write.htm" />
+  <HelpKINode Title="ImageListIndex 属性" Url="html/P_Du_SolidWorks_Attributes_SWCommandAttribute_ImageListIndex.htm" />
+  <HelpKINode Title="InContextFeatHolder 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_InContextFeatHolder.htm" />
+  <HelpKINode Title="Index 属性">
+    <HelpKINode Title="ObjectSelection.Index 属性 " Url="html/P_Du_SolidWorks_Extension_ObjectSelection_Index.htm" />
+    <HelpKINode Title="swEqu.Index 属性 " Url="html/P_Du_SolidWorks_Extension_swEqu_Index.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Insert 枚举成员" Url="html/T_Du_SolidWorks_Extension_StateEnum.htm" />
+  <HelpKINode Title="InsertMacroFeature(Of TFeature) 方法" Url="html/M_Du_SolidWorks_Extension_FeatureManagerExtension_InsertMacroFeature__1.htm" />
+  <HelpKINode Title="InsertMacroFeature&lt;TFeature&gt; 方法" Url="html/M_Du_SolidWorks_Extension_FeatureManagerExtension_InsertMacroFeature__1.htm" />
+  <HelpKINode Title="InterpolatePointsToCurve 方法" Url="html/M_Du_SolidWorks_Extension_ModelerExtension_InterpolatePointsToCurve.htm" />
+  <HelpKINode Title="IntersectionType 属性" Url="html/P_Du_SolidWorks_Extension_ModelDocDuExtension_RayIntersection_IntersectionType.htm" />
+  <HelpKINode Title="IPropertyManagerGroupBuilder 类">
+    <HelpKINode Title="IPropertyManagerGroupBuilder 类" Url="html/T_Du_SolidWorks_Extension_IPropertyManagerGroupBuilder.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_IPropertyManagerGroupBuilder.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_IPropertyManagerGroupBuilder.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerGroupBuilder__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IPropertyManagerGroupBuilder.AddControlToBuilder(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerGroupBuilder_AddControlToBuilder__1.htm" />
+  <HelpKINode Title="IPropertyManagerGroupBuilder.AddControlToBuilder&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerGroupBuilder_AddControlToBuilder__1.htm" />
+  <HelpKINode Title="IPropertyManagerGroupBuilder.controls 属性" Url="html/P_Du_SolidWorks_Extension_IPropertyManagerGroupBuilder_controls.htm" />
+  <HelpKINode Title="IPropertyManagerGroupBuilder.Group 属性" Url="html/P_Du_SolidWorks_Extension_IPropertyManagerGroupBuilder_Group.htm" />
+  <HelpKINode Title="IPropertyManagerGroupBuilder.IPropertyManagerGroupBuilder 构造函数" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerGroupBuilder__ctor.htm" />
+  <HelpKINode Title="IPropertyManagerPage2Builder 类">
+    <HelpKINode Title="IPropertyManagerPage2Builder 类" Url="html/T_Du_SolidWorks_Extension_IPropertyManagerPage2Builder.htm" />
+    <HelpKINode Title="字段" Url="html/Fields_T_Du_SolidWorks_Extension_IPropertyManagerPage2Builder.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_IPropertyManagerPage2Builder.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerPage2Builder__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IPropertyManagerPage2Builder.AddSelectedObject 方法" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerPage2Builder_AddSelectedObject.htm" />
+  <HelpKINode Title="IPropertyManagerPage2Builder.AddWPFUserControl 方法" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerPage2Builder_AddWPFUserControl.htm" />
+  <HelpKINode Title="IPropertyManagerPage2Builder.CreateGroupBoxEx 方法" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerPage2Builder_CreateGroupBoxEx.htm" />
+  <HelpKINode Title="IPropertyManagerPage2Builder.IPropertyManagerPage2Builder 构造函数" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerPage2Builder__ctor.htm" />
+  <HelpKINode Title="IPropertyManagerPage2Builder.Page 字段" Url="html/F_Du_SolidWorks_Extension_IPropertyManagerPage2Builder_Page.htm" />
+  <HelpKINode Title="IPropertyManagerPageSelectionboxExtension 类">
+    <HelpKINode Title="IPropertyManagerPageSelectionboxExtension 类" Url="html/T_Du_SolidWorks_Extension_IPropertyManagerPageSelectionboxExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_IPropertyManagerPageSelectionboxExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IPropertyManagerPageSelectionboxExtension.SetSelectionbox 方法" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerPageSelectionboxExtension_SetSelectionbox.htm" />
+  <HelpKINode Title="IPropertyManagerPageWindowFromHandleWrapper 类">
+    <HelpKINode Title="IPropertyManagerPageWindowFromHandleWrapper 类" Url="html/T_Du_SolidWorks_Extension_IPropertyManagerPageWindowFromHandleWrapper.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_IPropertyManagerPageWindowFromHandleWrapper.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_IPropertyManagerPageWindowFromHandleWrapper.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerPageWindowFromHandleWrapper__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IPropertyManagerPageWindowFromHandleWrapper.Height 属性" Url="html/P_Du_SolidWorks_Extension_IPropertyManagerPageWindowFromHandleWrapper_Height.htm" />
+  <HelpKINode Title="IPropertyManagerPageWindowFromHandleWrapper.IPropertyManagerPageWindowFromHandleWrapper 构造函数" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerPageWindowFromHandleWrapper__ctor.htm" />
+  <HelpKINode Title="IPropertyManagerPageWindowFromHandleWrapper.SetWindowHandle 方法" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerPageWindowFromHandleWrapper_SetWindowHandle.htm" />
+  <HelpKINode Title="IPropertyManagerPageWindowFromHandleWrapper.SetWindowHandlex64 方法" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerPageWindowFromHandleWrapper_SetWindowHandlex64.htm" />
+  <HelpKINode Title="IsFinite 属性">
+    <HelpKINode Title="Vector2.IsFinite 属性 " Url="html/P_Du_SolidWorks_Math_Vector2_IsFinite.htm" />
+    <HelpKINode Title="Vector3.IsFinite 属性 " Url="html/P_Du_SolidWorks_Math_Vector3_IsFinite.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IsNormalized 属性" Url="html/P_Du_SolidWorks_Math_Vector3_IsNormalized.htm" />
+  <HelpKINode Title="ISolidWorksAddin 接口">
+    <HelpKINode Title="ISolidWorksAddin 接口" Url="html/T_Du_SolidWorks_ISolidWorksAddin.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_ISolidWorksAddin.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISolidWorksAddin.SwApp 属性" Url="html/P_Du_SolidWorks_ISolidWorksAddin_SwApp.htm" />
+  <HelpKINode Title="ISolidWorksAddin.swMath 属性" Url="html/P_Du_SolidWorks_ISolidWorksAddin_swMath.htm" />
+  <HelpKINode Title="IsPartOrAssembly 方法" Url="html/M_Du_SolidWorks_Extension_SWFile_IsPartOrAssembly.htm" />
+  <HelpKINode Title="IsSameDirection 方法" Url="html/M_Du_SolidWorks_Math_Vector3_IsSameDirection.htm" />
+  <HelpKINode Title="IsSpecType 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_IsSpecType.htm" />
+  <HelpKINode Title="ISWAddinCommand 接口">
+    <HelpKINode Title="ISWAddinCommand 接口" Url="html/T_Du_SolidWorks_ISWAddinCommand.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_ISWAddinCommand.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_ISWAddinCommand.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISWAddinCommand.AddFlyoutCommand 方法" Url="html/M_Du_SolidWorks_ISWAddinCommand_AddFlyoutCommand.htm" />
+  <HelpKINode Title="ISWAddinCommand.AddSWCommand 方法" Url="html/M_Du_SolidWorks_ISWAddinCommand_AddSWCommand.htm" />
+  <HelpKINode Title="ISWAddinCommand.CmdGroupIDs 属性" Url="html/P_Du_SolidWorks_ISWAddinCommand_CmdGroupIDs.htm" />
+  <HelpKINode Title="ISWAddinCommand.CommandInstances 属性" Url="html/P_Du_SolidWorks_ISWAddinCommand_CommandInstances.htm" />
+  <HelpKINode Title="ISWAddinCommand.CreatSWFlyoutGroup 方法" Url="html/M_Du_SolidWorks_ISWAddinCommand_CreatSWFlyoutGroup.htm" />
+  <HelpKINode Title="Length 属性">
+    <HelpKINode Title="Vector2.Length 属性 " Url="html/P_Du_SolidWorks_Math_Vector2_Length.htm" />
+    <HelpKINode Title="Vector3.Length 属性 " Url="html/P_Du_SolidWorks_Math_Vector3_Length.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Length 方法" Url="html/M_Du_SolidWorks_Extension_Delat_Length.htm" />
+  <HelpKINode Title="Length 枚举成员" Url="html/T_Du_SolidWorks_Extension_ModelDocDuExtension_EquationsDimensionType.htm" />
+  <HelpKINode Title="LengthL1 属性" Url="html/P_Du_SolidWorks_Math_Vector3_LengthL1.htm" />
+  <HelpKINode Title="LengthOfProjectionXY 方法" Url="html/M_Du_SolidWorks_Math_MathVectorExtension_LengthOfProjectionXY.htm" />
+  <HelpKINode Title="LengthSquared 属性">
+    <HelpKINode Title="Vector2.LengthSquared 属性 " Url="html/P_Du_SolidWorks_Math_Vector2_LengthSquared.htm" />
+    <HelpKINode Title="Vector3.LengthSquared 属性 " Url="html/P_Du_SolidWorks_Math_Vector3_LengthSquared.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoadIgesInvisible 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_LoadIgesInvisible.htm" />
+  <HelpKINode Title="MacroFeature 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_MacroFeature.htm" />
+  <HelpKINode Title="MacroFeatureDataExtension(Of TFeatComSerivce, TData) 类">
+    <HelpKINode Title="MacroFeatureDataExtension(TFeatComSerivce, TData) 类" Url="html/T_Du_SolidWorks_Extension_MacroFeatureDataExtension_2.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_MacroFeatureDataExtension_2.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_MacroFeatureDataExtension_2.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_MacroFeatureDataExtension_2__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MacroFeatureDataExtension(Of TFeatComSerivce, TData).Data 属性" Url="html/P_Du_SolidWorks_Extension_MacroFeatureDataExtension_2_Data.htm" />
+  <HelpKINode Title="MacroFeatureDataExtension(Of TFeatComSerivce, TData).FeatName 属性" Url="html/P_Du_SolidWorks_Extension_MacroFeatureDataExtension_2_FeatName.htm" />
+  <HelpKINode Title="MacroFeatureDataExtension(Of TFeatComSerivce, TData).MacroFeatureDataExtension 构造函数" Url="html/M_Du_SolidWorks_Extension_MacroFeatureDataExtension_2__ctor.htm" />
+  <HelpKINode Title="MacroFeatureDataExtension(Of TFeatComSerivce, TData).ServicePath 属性" Url="html/P_Du_SolidWorks_Extension_MacroFeatureDataExtension_2_ServicePath.htm" />
+  <HelpKINode Title="MacroFeatureDataExtension&lt;TFeatComSerivce, TData&gt; 类">
+    <HelpKINode Title="MacroFeatureDataExtension(TFeatComSerivce, TData) 类" Url="html/T_Du_SolidWorks_Extension_MacroFeatureDataExtension_2.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_MacroFeatureDataExtension_2.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_MacroFeatureDataExtension_2.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_MacroFeatureDataExtension_2__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MacroFeatureDataExtension&lt;TFeatComSerivce, TData&gt;.Data 属性" Url="html/P_Du_SolidWorks_Extension_MacroFeatureDataExtension_2_Data.htm" />
+  <HelpKINode Title="MacroFeatureDataExtension&lt;TFeatComSerivce, TData&gt;.FeatName 属性" Url="html/P_Du_SolidWorks_Extension_MacroFeatureDataExtension_2_FeatName.htm" />
+  <HelpKINode Title="MacroFeatureDataExtension&lt;TFeatComSerivce, TData&gt;.MacroFeatureDataExtension 构造函数" Url="html/M_Du_SolidWorks_Extension_MacroFeatureDataExtension_2__ctor.htm" />
+  <HelpKINode Title="MacroFeatureDataExtension&lt;TFeatComSerivce, TData&gt;.ServicePath 属性" Url="html/P_Du_SolidWorks_Extension_MacroFeatureDataExtension_2_ServicePath.htm" />
+  <HelpKINode Title="ManipulatorHandler 类">
+    <HelpKINode Title="ManipulatorHandler 类" Url="html/T_Du_SolidWorks_Extension_ManipulatorHandler.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_ManipulatorHandler.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ManipulatorHandler.ManipulatorHandler 构造函数" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler__ctor.htm" />
+  <HelpKINode Title="ManipulatorHandler.OnDelete 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnDelete.htm" />
+  <HelpKINode Title="ManipulatorHandler.OnDirectionFlipped 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnDirectionFlipped.htm" />
+  <HelpKINode Title="ManipulatorHandler.OnDoubleValueChanged 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnDoubleValueChanged.htm" />
+  <HelpKINode Title="ManipulatorHandler.OnEndDrag 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnEndDrag.htm" />
+  <HelpKINode Title="ManipulatorHandler.OnEndNoDrag 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnEndNoDrag.htm" />
+  <HelpKINode Title="ManipulatorHandler.OnHandleLmbSelected 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnHandleLmbSelected.htm" />
+  <HelpKINode Title="ManipulatorHandler.OnHandleRmbSelected 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnHandleRmbSelected.htm" />
+  <HelpKINode Title="ManipulatorHandler.OnHandleSelected 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnHandleSelected.htm" />
+  <HelpKINode Title="ManipulatorHandler.OnItemSetFocus 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnItemSetFocus.htm" />
+  <HelpKINode Title="ManipulatorHandler.OnStringValueChanged 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnStringValueChanged.htm" />
+  <HelpKINode Title="ManipulatorHandler.OnUpdateDrag 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnUpdateDrag.htm" />
+  <HelpKINode Title="Mark 属性" Url="html/P_Du_SolidWorks_Extension_ObjectSelection_Mark.htm" />
+  <HelpKINode Title="MateAlignExtension 枚举" Url="html/T_Du_SolidWorks_Extension_MateAlignExtension.htm" />
+  <HelpKINode Title="MateCoincident 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_MateCoincident.htm" />
+  <HelpKINode Title="MateGroup 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_MateGroup.htm" />
+  <HelpKINode Title="MateInPlane 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_MateInPlane.htm" />
+  <HelpKINode Title="MathPointExtension 类">
+    <HelpKINode Title="MathPointExtension 类" Url="html/T_Du_SolidWorks_Math_MathPointExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Math_MathPointExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MathPointExtension.Angle2D 方法" Url="html/M_Du_SolidWorks_Math_MathPointExtension_Angle2D.htm" />
+  <HelpKINode Title="MathPointExtension.Project 方法" Url="html/M_Du_SolidWorks_Math_MathPointExtension_Project.htm" />
+  <HelpKINode Title="MathPointExtension.SubtractTs 方法" Url="html/Overload_Du_SolidWorks_Math_MathPointExtension_SubtractTs.htm" />
+  <HelpKINode Title="MathPointExtension.ToVector3 方法" Url="html/M_Du_SolidWorks_Math_MathPointExtension_ToVector3.htm" />
+  <HelpKINode Title="MathTransformExtension 类">
+    <HelpKINode Title="MathTransformExtension 类" Url="html/T_Du_SolidWorks_Extension_MathTransformExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_MathTransformExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MathTransformExtension.GetPostion 方法" Url="html/M_Du_SolidWorks_Extension_MathTransformExtension_GetPostion.htm" />
+  <HelpKINode Title="MathTransformExtension.GetXAxis 方法" Url="html/M_Du_SolidWorks_Extension_MathTransformExtension_GetXAxis.htm" />
+  <HelpKINode Title="MathTransformExtension.GetYAxis 方法" Url="html/M_Du_SolidWorks_Extension_MathTransformExtension_GetYAxis.htm" />
+  <HelpKINode Title="MathTransformExtension.GetZAxis 方法" Url="html/M_Du_SolidWorks_Extension_MathTransformExtension_GetZAxis.htm" />
+  <HelpKINode Title="MathTransformExtension.ToMatrix4X4 方法" Url="html/M_Du_SolidWorks_Extension_MathTransformExtension_ToMatrix4X4.htm" />
+  <HelpKINode Title="MathUtil 类">
+    <HelpKINode Title="MathUtil 类" Url="html/T_Du_SolidWorks_Math_MathUtil.htm" />
+    <HelpKINode Title="字段" Url="html/Fields_T_Du_SolidWorks_Math_MathUtil.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Math_MathUtil.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Math_MathUtil.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Math_MathUtil__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MathUtil.Clamp 方法" Url="html/M_Du_SolidWorks_Math_MathUtil_Clamp.htm" />
+  <HelpKINode Title="MathUtil.Epsilon 字段" Url="html/F_Du_SolidWorks_Math_MathUtil_Epsilon.htm" />
+  <HelpKINode Title="MathUtil.MathUtil 构造函数" Url="html/M_Du_SolidWorks_Math_MathUtil__ctor.htm" />
+  <HelpKINode Title="MathUtil.Rad2Deg 字段" Url="html/F_Du_SolidWorks_Math_MathUtil_Rad2Deg.htm" />
+  <HelpKINode Title="MathUtil.swMathUtility 属性" Url="html/P_Du_SolidWorks_Math_MathUtil_swMathUtility.htm" />
+  <HelpKINode Title="MathUtil.ZeroTolerance 字段" Url="html/F_Du_SolidWorks_Math_MathUtil_ZeroTolerance.htm" />
+  <HelpKINode Title="MathUtilityExtension 类">
+    <HelpKINode Title="MathUtilityExtension 类" Url="html/T_Du_SolidWorks_Math_MathUtilityExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Math_MathUtilityExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MathUtilityExtension.PointEx 方法" Url="html/M_Du_SolidWorks_Math_MathUtilityExtension_PointEx.htm" />
+  <HelpKINode Title="MathUtilityExtension.ToSwMatrix 方法" Url="html/M_Du_SolidWorks_Math_MathUtilityExtension_ToSwMatrix.htm" />
+  <HelpKINode Title="MathUtilityExtension.XAxis 方法" Url="html/M_Du_SolidWorks_Math_MathUtilityExtension_XAxis.htm" />
+  <HelpKINode Title="MathUtilityExtension.YAxis 方法" Url="html/M_Du_SolidWorks_Math_MathUtilityExtension_YAxis.htm" />
+  <HelpKINode Title="MathUtilityExtension.ZAxis 方法" Url="html/M_Du_SolidWorks_Math_MathUtilityExtension_ZAxis.htm" />
+  <HelpKINode Title="MathVectorExtension 类">
+    <HelpKINode Title="MathVectorExtension 类" Url="html/T_Du_SolidWorks_Math_MathVectorExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Math_MathVectorExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MathVectorExtension.LengthOfProjectionXY 方法" Url="html/M_Du_SolidWorks_Math_MathVectorExtension_LengthOfProjectionXY.htm" />
+  <HelpKINode Title="MathVectorExtension.Project 方法" Url="html/M_Du_SolidWorks_Math_MathVectorExtension_Project.htm" />
+  <HelpKINode Title="MathVectorExtension.ToVector3 方法" Url="html/M_Du_SolidWorks_Math_MathVectorExtension_ToVector3.htm" />
+  <HelpKINode Title="Matrix4X4ExtensionsSw 类">
+    <HelpKINode Title="Matrix4X4ExtensionsSw 类" Url="html/T_Du_SolidWorks_Extension_Matrix4X4ExtensionsSw.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_Matrix4X4ExtensionsSw.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Matrix4X4ExtensionsSw.ToSwTransform 方法" Url="html/M_Du_SolidWorks_Extension_Matrix4X4ExtensionsSw_ToSwTransform.htm" />
+  <HelpKINode Title="Max 属性" Url="html/P_Du_SolidWorks_Math_Vector3_Max.htm" />
+  <HelpKINode Title="MaxAbs 属性" Url="html/P_Du_SolidWorks_Math_Vector3_MaxAbs.htm" />
+  <HelpKINode Title="mE 属性" Url="html/P_Du_SolidWorks_Math_ConvexHull2_mE.htm" />
+  <HelpKINode Title="MenuTBOption 属性" Url="html/P_Du_SolidWorks_Attributes_SWCommandAttribute_MenuTBOption.htm" />
+  <HelpKINode Title="Min 属性" Url="html/P_Du_SolidWorks_Math_Vector3_Min.htm" />
+  <HelpKINode Title="MinAbs 属性" Url="html/P_Du_SolidWorks_Math_Vector3_MinAbs.htm" />
+  <HelpKINode Title="MinYVectorIndex 属性" Url="html/P_Du_SolidWorks_Math_ConvexHull2_MinYVectorIndex.htm" />
+  <HelpKINode Title="ModelDocDuExtension 类">
+    <HelpKINode Title="ModelDocDuExtension 类" Url="html/T_Du_SolidWorks_Extension_ModelDocDuExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_ModelDocDuExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ModelDocDuExtension.AsAssemblyDoc 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_AsAssemblyDoc.htm" />
+  <HelpKINode Title="ModelDocDuExtension.AsPartDoc 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_AsPartDoc.htm" />
+  <HelpKINode Title="ModelDocDuExtension.CreateSketch 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_CreateSketch.htm" />
+  <HelpKINode Title="ModelDocDuExtension.CurrentComp 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_CurrentComp.htm" />
+  <HelpKINode Title="ModelDocDuExtension.EquationsDimensionType 枚举" Url="html/T_Du_SolidWorks_Extension_ModelDocDuExtension_EquationsDimensionType.htm" />
+  <HelpKINode Title="ModelDocDuExtension.GetConfigurationFromID 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetConfigurationFromID.htm" />
+  <HelpKINode Title="ModelDocDuExtension.GetConfigurations 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetConfigurations.htm" />
+  <HelpKINode Title="ModelDocDuExtension.GetFeats 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetFeats.htm" />
+  <HelpKINode Title="ModelDocDuExtension.GetFirstToLastFeats 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetFirstToLastFeats.htm" />
+  <HelpKINode Title="ModelDocDuExtension.GetGlobals 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetGlobals.htm" />
+  <HelpKINode Title="ModelDocDuExtension.GetModelDispalyDimensions 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetModelDispalyDimensions.htm" />
+  <HelpKINode Title="ModelDocDuExtension.GetObjectFromPersistReference 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetObjectFromPersistReference.htm" />
+  <HelpKINode Title="ModelDocDuExtension.GetPersistReference(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetPersistReference__1.htm" />
+  <HelpKINode Title="ModelDocDuExtension.GetPersistReference&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetPersistReference__1.htm" />
+  <HelpKINode Title="ModelDocDuExtension.GetPlanes 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetPlanes.htm" />
+  <HelpKINode Title="ModelDocDuExtension.GetRayIntersections 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetRayIntersections.htm" />
+  <HelpKINode Title="ModelDocDuExtension.GetSelectedObjectsFromModel 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_GetSelectedObjectsFromModel.htm" />
+  <HelpKINode Title="ModelDocDuExtension.GetTypeEx 方法" Url="html/Overload_Du_SolidWorks_Extension_ModelDocDuExtension_GetTypeEx.htm" />
+  <HelpKINode Title="ModelDocDuExtension.IsSpecType 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_IsSpecType.htm" />
+  <HelpKINode Title="ModelDocDuExtension.RayIntersection 类">
+    <HelpKINode Title="ModelDocDuExtension.RayIntersection 类" Url="html/T_Du_SolidWorks_Extension_ModelDocDuExtension_RayIntersection.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_RayIntersection__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ModelDocDuExtension.RayIntersection.Body 属性" Url="html/P_Du_SolidWorks_Extension_ModelDocDuExtension_RayIntersection_Body.htm" />
+  <HelpKINode Title="ModelDocDuExtension.RayIntersection.HitPoint 属性" Url="html/P_Du_SolidWorks_Extension_ModelDocDuExtension_RayIntersection_HitPoint.htm" />
+  <HelpKINode Title="ModelDocDuExtension.RayIntersection.IntersectionType 属性" Url="html/P_Du_SolidWorks_Extension_ModelDocDuExtension_RayIntersection_IntersectionType.htm" />
+  <HelpKINode Title="ModelDocDuExtension.RayIntersection.Normals 属性" Url="html/P_Du_SolidWorks_Extension_ModelDocDuExtension_RayIntersection_Normals.htm" />
+  <HelpKINode Title="ModelDocDuExtension.RayIntersection.RayIndex 属性" Url="html/P_Du_SolidWorks_Extension_ModelDocDuExtension_RayIntersection_RayIndex.htm" />
+  <HelpKINode Title="ModelDocDuExtension.RayIntersection.RayIntersection 构造函数" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_RayIntersection__ctor.htm" />
+  <HelpKINode Title="ModelDocDuExtension.ScreenToView 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_ScreenToView.htm" />
+  <HelpKINode Title="ModelDocDuExtension.TemSaveAsFor 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_TemSaveAsFor.htm" />
+  <HelpKINode Title="ModelDocDuExtension.UIUpdateEnable 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_UIUpdateEnable.htm" />
+  <HelpKINode Title="ModelDocDuExtension.Using 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_Using.htm" />
+  <HelpKINode Title="ModelDocDuExtension.ViewToScreen 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_ViewToScreen.htm" />
+  <HelpKINode Title="ModelerExtension 类">
+    <HelpKINode Title="ModelerExtension 类" Url="html/T_Du_SolidWorks_Extension_ModelerExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_ModelerExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ModelerExtension.CreateBodyFromCylTs 方法" Url="html/M_Du_SolidWorks_Extension_ModelerExtension_CreateBodyFromCylTs.htm" />
+  <HelpKINode Title="ModelerExtension.CreateBox 方法" Url="html/Overload_Du_SolidWorks_Extension_ModelerExtension_CreateBox.htm" />
+  <HelpKINode Title="ModelerExtension.CreateCone 方法" Url="html/M_Du_SolidWorks_Extension_ModelerExtension_CreateCone.htm" />
+  <HelpKINode Title="ModelerExtension.CreateCylinder 方法" Url="html/M_Du_SolidWorks_Extension_ModelerExtension_CreateCylinder.htm" />
+  <HelpKINode Title="ModelerExtension.CreateSphereBody 方法" Url="html/M_Du_SolidWorks_Extension_ModelerExtension_CreateSphereBody.htm" />
+  <HelpKINode Title="ModelerExtension.CreateTrimmedLine 方法" Url="html/Overload_Du_SolidWorks_Extension_ModelerExtension_CreateTrimmedLine.htm" />
+  <HelpKINode Title="ModelerExtension.InterpolatePointsToCurve 方法" Url="html/M_Du_SolidWorks_Extension_ModelerExtension_InterpolatePointsToCurve.htm" />
+  <HelpKINode Title="mVectors 属性" Url="html/P_Du_SolidWorks_Math_ConvexHull2_mVectors.htm" />
+  <HelpKINode Title="Name 属性">
+    <HelpKINode Title="CustomPropertyModel.Name 属性 " Url="html/P_Du_SolidWorks_Extension_CustomPropertyModel_Name.htm" />
+    <HelpKINode Title="SWCommandAttribute.Name 属性 " Url="html/P_Du_SolidWorks_Attributes_SWCommandAttribute_Name.htm" />
+    <HelpKINode Title="TestObj.Name 属性 " Url="html/P_Du_SolidWorks_Extension_TestObj_Name.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NewPartOrAssembly 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_NewPartOrAssembly.htm" />
+  <HelpKINode Title="Normal 方法" Url="html/M_Du_SolidWorks_Extension_RefPlaneExtesion_Normal.htm" />
+  <HelpKINode Title="Normalize 方法">
+    <HelpKINode Title="Vector2.Normalize 方法 " Url="html/M_Du_SolidWorks_Math_Vector2_Normalize.htm" />
+    <HelpKINode Title="Vector3.Normalize 方法 " Url="html/M_Du_SolidWorks_Math_Vector3_Normalize.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Normals 属性" Url="html/P_Du_SolidWorks_Extension_ModelDocDuExtension_RayIntersection_Normals.htm" />
+  <HelpKINode Title="Object 属性" Url="html/P_Du_SolidWorks_Extension_ObjectSelection_Object.htm" />
+  <HelpKINode Title="ObjectArrayToDispatchWrapper 方法" Url="html/M_Du_SolidWorks_ComWrapper_ObjectArrayToDispatchWrapper.htm" />
+  <HelpKINode Title="ObjectId 类">
+    <HelpKINode Title="ObjectId 类" Url="html/T_Du_SolidWorks_Extension_ObjectId.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_ObjectId.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_ObjectId.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_ObjectId__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObjectId.Data 属性" Url="html/P_Du_SolidWorks_Extension_ObjectId_Data.htm" />
+  <HelpKINode Title="ObjectId.ObjectId 构造函数" Url="html/M_Du_SolidWorks_Extension_ObjectId__ctor.htm" />
+  <HelpKINode Title="ObjectId.SelectionType 属性" Url="html/P_Du_SolidWorks_Extension_ObjectId_SelectionType.htm" />
+  <HelpKINode Title="ObjectIds 属性" Url="html/P_Du_SolidWorks_Extension_SelectionData_ObjectIds.htm" />
+  <HelpKINode Title="ObjectSelection 类">
+    <HelpKINode Title="ObjectSelection 类" Url="html/T_Du_SolidWorks_Extension_ObjectSelection.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_ObjectSelection.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_ObjectSelection.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_ObjectSelection__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ObjectSelection.Index 属性" Url="html/P_Du_SolidWorks_Extension_ObjectSelection_Index.htm" />
+  <HelpKINode Title="ObjectSelection.Mark 属性" Url="html/P_Du_SolidWorks_Extension_ObjectSelection_Mark.htm" />
+  <HelpKINode Title="ObjectSelection.Object 属性" Url="html/P_Du_SolidWorks_Extension_ObjectSelection_Object.htm" />
+  <HelpKINode Title="ObjectSelection.ObjectSelection 构造函数" Url="html/M_Du_SolidWorks_Extension_ObjectSelection__ctor.htm" />
+  <HelpKINode Title="ObjectSelection.TryGetT(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_ObjectSelection_TryGetT__1.htm" />
+  <HelpKINode Title="ObjectSelection.TryGetT&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_ObjectSelection_TryGetT__1.htm" />
+  <HelpKINode Title="ObjectSelection.Type 属性" Url="html/P_Du_SolidWorks_Extension_ObjectSelection_Type.htm" />
+  <HelpKINode Title="OnActiveXControlCreated 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnActiveXControlCreated.htm" />
+  <HelpKINode Title="OnButtonPress 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnButtonPress.htm" />
+  <HelpKINode Title="OnCheckboxCheck 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnCheckboxCheck.htm" />
+  <HelpKINode Title="OnClose 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnClose.htm" />
+  <HelpKINode Title="OnComboboxEditChanged 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnComboboxEditChanged.htm" />
+  <HelpKINode Title="OnComboboxSelectionChanged 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnComboboxSelectionChanged.htm" />
+  <HelpKINode Title="OnDelete 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnDelete.htm" />
+  <HelpKINode Title="OnDirectionFlipped 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnDirectionFlipped.htm" />
+  <HelpKINode Title="OnDoubleValueChanged 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnDoubleValueChanged.htm" />
+  <HelpKINode Title="OnEndDrag 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnEndDrag.htm" />
+  <HelpKINode Title="OnEndNoDrag 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnEndNoDrag.htm" />
+  <HelpKINode Title="OnGainedFocus 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnGainedFocus.htm" />
+  <HelpKINode Title="OnGroupCheck 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnGroupCheck.htm" />
+  <HelpKINode Title="OnGroupExpand 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnGroupExpand.htm" />
+  <HelpKINode Title="OnHandleLmbSelected 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnHandleLmbSelected.htm" />
+  <HelpKINode Title="OnHandleRmbSelected 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnHandleRmbSelected.htm" />
+  <HelpKINode Title="OnHandleSelected 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnHandleSelected.htm" />
+  <HelpKINode Title="OnHelp 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnHelp.htm" />
+  <HelpKINode Title="OnItemSetFocus 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnItemSetFocus.htm" />
+  <HelpKINode Title="OnKeystroke 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnKeystroke.htm" />
+  <HelpKINode Title="OnListboxRMBUp 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnListboxRMBUp.htm" />
+  <HelpKINode Title="OnListboxSelectionChanged 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnListboxSelectionChanged.htm" />
+  <HelpKINode Title="OnLostFocus 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnLostFocus.htm" />
+  <HelpKINode Title="OnNextPage 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnNextPage.htm" />
+  <HelpKINode Title="OnNumberboxChanged 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnNumberboxChanged.htm" />
+  <HelpKINode Title="OnNumberBoxTrackingCompleted 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnNumberBoxTrackingCompleted.htm" />
+  <HelpKINode Title="OnOptionCheck 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnOptionCheck.htm" />
+  <HelpKINode Title="OnPopupMenuItem 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnPopupMenuItem.htm" />
+  <HelpKINode Title="OnPopupMenuItemUpdate 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnPopupMenuItemUpdate.htm" />
+  <HelpKINode Title="OnPreview 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnPreview.htm" />
+  <HelpKINode Title="OnPreviousPage 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnPreviousPage.htm" />
+  <HelpKINode Title="OnRedo 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnRedo.htm" />
+  <HelpKINode Title="OnSelectionboxCalloutCreated 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnSelectionboxCalloutCreated.htm" />
+  <HelpKINode Title="OnSelectionboxCalloutDestroyed 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnSelectionboxCalloutDestroyed.htm" />
+  <HelpKINode Title="OnSelectionboxFocusChanged 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnSelectionboxFocusChanged.htm" />
+  <HelpKINode Title="OnSelectionboxListChanged 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnSelectionboxListChanged.htm" />
+  <HelpKINode Title="OnSliderPositionChanged 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnSliderPositionChanged.htm" />
+  <HelpKINode Title="OnSliderTrackingCompleted 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnSliderTrackingCompleted.htm" />
+  <HelpKINode Title="OnStringValueChanged 方法">
+    <HelpKINode Title="ManipulatorHandler.OnStringValueChanged 方法 " Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnStringValueChanged.htm" />
+    <HelpKINode Title="SwCalloutHandlerWrapper.OnStringValueChanged 方法 " Url="html/M_Du_SolidWorks_Extension_SwCalloutHandlerWrapper_OnStringValueChanged.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OnSubmitSelection 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnSubmitSelection.htm" />
+  <HelpKINode Title="OnTabClicked 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnTabClicked.htm" />
+  <HelpKINode Title="OnTextboxChanged 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnTextboxChanged.htm" />
+  <HelpKINode Title="OnUndo 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnUndo.htm" />
+  <HelpKINode Title="OnUpdateDrag 方法" Url="html/M_Du_SolidWorks_Extension_ManipulatorHandler_OnUpdateDrag.htm" />
+  <HelpKINode Title="OnWhatsNew 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnWhatsNew.htm" />
+  <HelpKINode Title="OnWindowFromHandleControlCreated 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnWindowFromHandleControlCreated.htm" />
+  <HelpKINode Title="OpenInvisibleDocClient 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_OpenInvisibleDocClient.htm" />
+  <HelpKINode Title="OpenInvisibleReadOnly 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_OpenInvisibleReadOnly.htm" />
+  <HelpKINode Title="OperationsResult 类">
+    <HelpKINode Title="OperationsResult 类" Url="html/T_Du_SolidWorks_Extension_OperationsResult.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_OperationsResult.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_OperationsResult.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_OperationsResult__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="OperationsResult.Bodies 属性" Url="html/P_Du_SolidWorks_Extension_OperationsResult_Bodies.htm" />
+  <HelpKINode Title="OperationsResult.Error 属性" Url="html/P_Du_SolidWorks_Extension_OperationsResult_Error.htm" />
+  <HelpKINode Title="OperationsResult.OperationsResult 构造函数" Url="html/M_Du_SolidWorks_Extension_OperationsResult__ctor.htm" />
+  <HelpKINode Title="OperationsTs 方法" Url="html/M_Du_SolidWorks_Extension_BodyExtension_OperationsTs.htm" />
+  <HelpKINode Title="Options 属性" Url="html/P_Du_SolidWorks_Extension_PMPageControl_Options.htm" />
+  <HelpKINode Title="Order 属性" Url="html/P_Du_SolidWorks_Attributes_BoxOrderAttribute_Order.htm" />
+  <HelpKINode Title="Origin 方法" Url="html/M_Du_SolidWorks_Extension_RefPlaneExtesion_Origin.htm" />
+  <HelpKINode Title="OrignSys 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_OrignSys.htm" />
+  <HelpKINode Title="Orthogonal 方法" Url="html/M_Du_SolidWorks_Math_Vector3_Orthogonal.htm" />
+  <HelpKINode Title="Page 字段" Url="html/F_Du_SolidWorks_Extension_IPropertyManagerPage2Builder_Page.htm" />
+  <HelpKINode Title="param 字段" Url="html/F_Du_SolidWorks_Extension_PointParam_param.htm" />
+  <HelpKINode Title="ParaWithVec 方法" Url="html/M_Du_SolidWorks_Math_Vector3_ParaWithVec.htm" />
+  <HelpKINode Title="Part 字段" Url="html/F_Du_SolidWorks_Extension_SWFile_Part.htm" />
+  <HelpKINode Title="PartTempalte 字段" Url="html/F_Du_SolidWorks_Extension_SWFile_PartTempalte.htm" />
+  <HelpKINode Title="PMPageControl 类">
+    <HelpKINode Title="PMPageControl 类" Url="html/T_Du_SolidWorks_Extension_PMPageControl.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_PMPageControl.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_PMPageControl.htm" />
+    <HelpKINode Title="构造函数" Url="html/Overload_Du_SolidWorks_Extension_PMPageControl__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PMPageControl.Align 属性" Url="html/P_Du_SolidWorks_Extension_PMPageControl_Align.htm" />
+  <HelpKINode Title="PMPageControl.Caption 属性" Url="html/P_Du_SolidWorks_Extension_PMPageControl_Caption.htm" />
+  <HelpKINode Title="PMPageControl.ControlType 属性" Url="html/P_Du_SolidWorks_Extension_PMPageControl_ControlType.htm" />
+  <HelpKINode Title="PMPageControl.ID 属性" Url="html/P_Du_SolidWorks_Extension_PMPageControl_ID.htm" />
+  <HelpKINode Title="PMPageControl.Options 属性" Url="html/P_Du_SolidWorks_Extension_PMPageControl_Options.htm" />
+  <HelpKINode Title="PMPageControl.PMPageControl 构造函数" Url="html/Overload_Du_SolidWorks_Extension_PMPageControl__ctor.htm" />
+  <HelpKINode Title="PMPageControl.PMPageObject 属性" Url="html/P_Du_SolidWorks_Extension_PMPageControl_PMPageObject.htm" />
+  <HelpKINode Title="PMPageControl.tip 属性" Url="html/P_Du_SolidWorks_Extension_PMPageControl_tip.htm" />
+  <HelpKINode Title="PMPageControlAttribute 类">
+    <HelpKINode Title="PMPageControlAttribute 类" Url="html/T_Du_SolidWorks_Extension_PMPageControlAttribute.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_PMPageControlAttribute.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_PMPageControlAttribute.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_PMPageControlAttribute__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PMPageControlAttribute.Caption 属性" Url="html/P_Du_SolidWorks_Extension_PMPageControlAttribute_Caption.htm" />
+  <HelpKINode Title="PMPageControlAttribute.PMPageControlAttribute 构造函数" Url="html/M_Du_SolidWorks_Extension_PMPageControlAttribute__ctor.htm" />
+  <HelpKINode Title="PMPageControlAttribute.Tip 属性" Url="html/P_Du_SolidWorks_Extension_PMPageControlAttribute_Tip.htm" />
+  <HelpKINode Title="PMPageObject 属性" Url="html/P_Du_SolidWorks_Extension_PMPageControl_PMPageObject.htm" />
+  <HelpKINode Title="point 字段" Url="html/F_Du_SolidWorks_Extension_PointParam_point.htm" />
+  <HelpKINode Title="Point 属性">
+    <HelpKINode Title="PointDirection3.Point 属性 " Url="html/P_Du_SolidWorks_Math_PointDirection3_Point.htm" />
+    <HelpKINode Title="SurfaceExtensions.PointUv.Point 属性 " Url="html/P_Du_SolidWorks_Extension_SurfaceExtensions_PointUv_Point.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PointAt 方法" Url="html/M_Du_SolidWorks_Extension_SurfaceExtensions_PointAt.htm" />
+  <HelpKINode Title="PointDirection3 类">
+    <HelpKINode Title="PointDirection3 类" Url="html/T_Du_SolidWorks_Math_PointDirection3.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Math_PointDirection3.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Math_PointDirection3.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Math_PointDirection3__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PointDirection3.Direction 属性" Url="html/P_Du_SolidWorks_Math_PointDirection3_Direction.htm" />
+  <HelpKINode Title="PointDirection3.Point 属性" Url="html/P_Du_SolidWorks_Math_PointDirection3_Point.htm" />
+  <HelpKINode Title="PointDirection3.PointDirection3 构造函数" Url="html/M_Du_SolidWorks_Math_PointDirection3__ctor.htm" />
+  <HelpKINode Title="PointDirection3.Transform 方法" Url="html/M_Du_SolidWorks_Math_PointDirection3_Transform.htm" />
+  <HelpKINode Title="PointEx 方法" Url="html/M_Du_SolidWorks_Math_MathUtilityExtension_PointEx.htm" />
+  <HelpKINode Title="PointParam 类">
+    <HelpKINode Title="PointParam 类" Url="html/T_Du_SolidWorks_Extension_PointParam.htm" />
+    <HelpKINode Title="字段" Url="html/Fields_T_Du_SolidWorks_Extension_PointParam.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_PointParam.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_PointParam__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PointParam.param 字段" Url="html/F_Du_SolidWorks_Extension_PointParam_param.htm" />
+  <HelpKINode Title="PointParam.point 字段" Url="html/F_Du_SolidWorks_Extension_PointParam_point.htm" />
+  <HelpKINode Title="PointParam.PointParam 构造函数" Url="html/M_Du_SolidWorks_Extension_PointParam__ctor.htm" />
+  <HelpKINode Title="PointUv 类">
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_SurfaceExtensions_PointUv.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_SurfaceExtensions_PointUv.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Postion 属性" Url="html/P_Du_SolidWorks_Attributes_SWCommandAttribute_Postion.htm" />
+  <HelpKINode Title="ProfileFeature 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_ProfileFeature.htm" />
+  <HelpKINode Title="Project 方法">
+    <HelpKINode Title="MathPointExtension.Project 方法 " Url="html/M_Du_SolidWorks_Math_MathPointExtension_Project.htm" />
+    <HelpKINode Title="MathVectorExtension.Project 方法 " Url="html/M_Du_SolidWorks_Math_MathVectorExtension_Project.htm" />
+    <HelpKINode Title="TriadManipulatorExtensions.Project 方法 " Url="html/M_Du_SolidWorks_Extension_TriadManipulatorExtensions_Project.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PropertyManagerPage2Extension 类">
+    <HelpKINode Title="PropertyManagerPage2Extension 类" Url="html/T_Du_SolidWorks_Extension_PropertyManagerPage2Extension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_PropertyManagerPage2Extension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PropertyManagerPage2Extension.CreateGroupBoxEx 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Extension_CreateGroupBoxEx.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper 类">
+    <HelpKINode Title="PropertyManagerPage2Handler9Wrapper 类" Url="html/T_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.AfterActivation 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_AfterActivation.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.AfterClose 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_AfterClose.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnActiveXControlCreated 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnActiveXControlCreated.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnButtonPress 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnButtonPress.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnCheckboxCheck 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnCheckboxCheck.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnClose 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnClose.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnComboboxEditChanged 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnComboboxEditChanged.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnComboboxSelectionChanged 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnComboboxSelectionChanged.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnGainedFocus 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnGainedFocus.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnGroupCheck 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnGroupCheck.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnGroupExpand 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnGroupExpand.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnHelp 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnHelp.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnKeystroke 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnKeystroke.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnListboxRMBUp 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnListboxRMBUp.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnListboxSelectionChanged 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnListboxSelectionChanged.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnLostFocus 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnLostFocus.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnNextPage 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnNextPage.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnNumberboxChanged 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnNumberboxChanged.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnNumberBoxTrackingCompleted 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnNumberBoxTrackingCompleted.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnOptionCheck 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnOptionCheck.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnPopupMenuItem 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnPopupMenuItem.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnPopupMenuItemUpdate 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnPopupMenuItemUpdate.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnPreview 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnPreview.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnPreviousPage 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnPreviousPage.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnRedo 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnRedo.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnSelectionboxCalloutCreated 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnSelectionboxCalloutCreated.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnSelectionboxCalloutDestroyed 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnSelectionboxCalloutDestroyed.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnSelectionboxFocusChanged 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnSelectionboxFocusChanged.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnSelectionboxListChanged 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnSelectionboxListChanged.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnSliderPositionChanged 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnSliderPositionChanged.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnSliderTrackingCompleted 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnSliderTrackingCompleted.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnSubmitSelection 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnSubmitSelection.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnTabClicked 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnTabClicked.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnTextboxChanged 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnTextboxChanged.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnUndo 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnUndo.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnWhatsNew 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnWhatsNew.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.OnWindowFromHandleControlCreated 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper_OnWindowFromHandleControlCreated.htm" />
+  <HelpKINode Title="PropertyManagerPage2Handler9Wrapper.PropertyManagerPage2Handler9Wrapper 构造函数" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPage2Handler9Wrapper__ctor.htm" />
+  <HelpKINode Title="PropertyManagerPageGroupExtension 类">
+    <HelpKINode Title="PropertyManagerPageGroupExtension 类" Url="html/T_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="PropertyManagerPageGroupExtension.AddControl(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_AddControl__1.htm" />
+  <HelpKINode Title="PropertyManagerPageGroupExtension.AddControl&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_AddControl__1.htm" />
+  <HelpKINode Title="PropertyManagerPageGroupExtension.AddControlEx(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_AddControlEx__1.htm" />
+  <HelpKINode Title="PropertyManagerPageGroupExtension.AddControlEx&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_AddControlEx__1.htm" />
+  <HelpKINode Title="PropertyManagerPageGroupExtension.AddWPFUserControl 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_AddWPFUserControl.htm" />
+  <HelpKINode Title="PropertyManagerPageGroupExtension.CreateButton 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateButton.htm" />
+  <HelpKINode Title="PropertyManagerPageGroupExtension.CreateCheckBox 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateCheckBox.htm" />
+  <HelpKINode Title="PropertyManagerPageGroupExtension.CreateComboBox 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateComboBox.htm" />
+  <HelpKINode Title="PropertyManagerPageGroupExtension.CreateLabel 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateLabel.htm" />
+  <HelpKINode Title="PropertyManagerPageGroupExtension.CreateListBox 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateListBox.htm" />
+  <HelpKINode Title="PropertyManagerPageGroupExtension.CreateNumberBox 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateNumberBox.htm" />
+  <HelpKINode Title="PropertyManagerPageGroupExtension.CreateOption 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateOption.htm" />
+  <HelpKINode Title="PropertyManagerPageGroupExtension.CreateSelectionBox 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateSelectionBox.htm" />
+  <HelpKINode Title="PropertyManagerPageGroupExtension.CreateSlider 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateSlider.htm" />
+  <HelpKINode Title="PropertyManagerPageGroupExtension.CreateTextBox 方法" Url="html/M_Du_SolidWorks_Extension_PropertyManagerPageGroupExtension_CreateTextBox.htm" />
+  <HelpKINode Title="Rad2Deg 字段" Url="html/F_Du_SolidWorks_Math_MathUtil_Rad2Deg.htm" />
+  <HelpKINode Title="Range3Double 类">
+    <HelpKINode Title="Range3Double 类" Url="html/T_Du_SolidWorks_Extension_Range3Double.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_Range3Double.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_Range3Double.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_Range3Double__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Range3Double.Corner1 属性" Url="html/P_Du_SolidWorks_Extension_Range3Double_Corner1.htm" />
+  <HelpKINode Title="Range3Double.Corner2 属性" Url="html/P_Du_SolidWorks_Extension_Range3Double_Corner2.htm" />
+  <HelpKINode Title="Range3Double.Range3Double 构造函数" Url="html/M_Du_SolidWorks_Extension_Range3Double__ctor.htm" />
+  <HelpKINode Title="RayIndex 属性" Url="html/P_Du_SolidWorks_Extension_ModelDocDuExtension_RayIntersection_RayIndex.htm" />
+  <HelpKINode Title="RayIntersection 类">
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_ModelDocDuExtension_RayIntersection.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_ModelDocDuExtension_RayIntersection.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Read(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_IMacroFeatureDataExtension_Read__1.htm" />
+  <HelpKINode Title="Read&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_IMacroFeatureDataExtension_Read__1.htm" />
+  <HelpKINode Title="ReadAllText 方法" Url="html/M_Du_SolidWorks_ComWrapper_ReadAllText.htm" />
+  <HelpKINode Title="RebuildNotify 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_RebuildNotify.htm" />
+  <HelpKINode Title="RefAxis 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_RefAxis.htm" />
+  <HelpKINode Title="RefAxisExtension 类">
+    <HelpKINode Title="RefAxisExtension 类" Url="html/T_Du_SolidWorks_Extension_RefAxisExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_RefAxisExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RefAxisExtension.GetEdge3 方法" Url="html/M_Du_SolidWorks_Extension_RefAxisExtension_GetEdge3.htm" />
+  <HelpKINode Title="RefAxisNotFoundException 类">
+    <HelpKINode Title="RefAxisNotFoundException 类" Url="html/T_Du_SolidWorks_Extension_RefAxisNotFoundException.htm" />
+    <HelpKINode Title="事件" Url="html/Events_T_Du_SolidWorks_Extension_RefAxisNotFoundException.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_RefAxisNotFoundException.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_RefAxisNotFoundException.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_RefAxisNotFoundException__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RefAxisNotFoundException.RefAxisNotFoundException 构造函数" Url="html/M_Du_SolidWorks_Extension_RefAxisNotFoundException__ctor.htm" />
+  <HelpKINode Title="RefPlane 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_RefPlane.htm" />
+  <HelpKINode Title="RefPlaneExtesion 类">
+    <HelpKINode Title="RefPlaneExtesion 类" Url="html/T_Du_SolidWorks_Extension_RefPlaneExtesion.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_RefPlaneExtesion.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RefPlaneExtesion.GetPointDirection3 方法" Url="html/M_Du_SolidWorks_Extension_RefPlaneExtesion_GetPointDirection3.htm" />
+  <HelpKINode Title="RefPlaneExtesion.Normal 方法" Url="html/M_Du_SolidWorks_Extension_RefPlaneExtesion_Normal.htm" />
+  <HelpKINode Title="RefPlaneExtesion.Origin 方法" Url="html/M_Du_SolidWorks_Extension_RefPlaneExtesion_Origin.htm" />
+  <HelpKINode Title="Regenerate 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_Regenerate.htm" />
+  <HelpKINode Title="Remark 属性" Url="html/P_Du_SolidWorks_Extension_swEqu_Remark.htm" />
+  <HelpKINode Title="Round 方法">
+    <HelpKINode Title="Vector2.Round 方法 " Url="html/M_Du_SolidWorks_Math_Vector2_Round.htm" />
+    <HelpKINode Title="Vector3.Round 方法 " Url="html/M_Du_SolidWorks_Math_Vector3_Round.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SameAlign 枚举成员" Url="html/T_Du_SolidWorks_Extension_MateAlignExtension.htm" />
+  <HelpKINode Title="Scale 方法" Url="html/M_Du_SolidWorks_Math_Vector3_Scale.htm" />
+  <HelpKINode Title="ScreenToView 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_ScreenToView.htm" />
+  <HelpKINode Title="Security 方法" Url="html/M_Du_SolidWorks_Extension_DuMacroFeatBase_2_Security.htm" />
+  <HelpKINode Title="SelectFor 方法" Url="html/Overload_Du_SolidWorks_Extension_Component2Extension_SelectFor.htm" />
+  <HelpKINode Title="SelectionBoxAttribute 类">
+    <HelpKINode Title="SelectionBoxAttribute 类" Url="html/T_Du_SolidWorks_Extension_SelectionBoxAttribute.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_SelectionBoxAttribute.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_SelectionBoxAttribute.htm" />
+    <HelpKINode Title="构造函数" Url="html/Overload_Du_SolidWorks_Extension_SelectionBoxAttribute__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SelectionBoxAttribute.Fileter 属性" Url="html/P_Du_SolidWorks_Extension_SelectionBoxAttribute_Fileter.htm" />
+  <HelpKINode Title="SelectionBoxAttribute.Height 属性" Url="html/P_Du_SolidWorks_Extension_SelectionBoxAttribute_Height.htm" />
+  <HelpKINode Title="SelectionBoxAttribute.SelectionBoxAttribute 构造函数" Url="html/Overload_Du_SolidWorks_Extension_SelectionBoxAttribute__ctor.htm" />
+  <HelpKINode Title="SelectionBoxExtensions 类">
+    <HelpKINode Title="SelectionBoxExtensions 类" Url="html/T_Du_SolidWorks_Extension_SelectionBoxExtensions.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_SelectionBoxExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SelectionBoxExtensions.SetSelectionColor 方法" Url="html/M_Du_SolidWorks_Extension_SelectionBoxExtensions_SetSelectionColor.htm" />
+  <HelpKINode Title="SelectionData 类">
+    <HelpKINode Title="SelectionData 类" Url="html/T_Du_SolidWorks_Extension_SelectionData.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_SelectionData.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_SelectionData.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_SelectionData__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SelectionData.ObjectIds 属性" Url="html/P_Du_SolidWorks_Extension_SelectionData_ObjectIds.htm" />
+  <HelpKINode Title="SelectionData.SelectionData 构造函数" Url="html/M_Du_SolidWorks_Extension_SelectionData__ctor.htm" />
+  <HelpKINode Title="SelectionDataExtension 类">
+    <HelpKINode Title="SelectionDataExtension 类" Url="html/T_Du_SolidWorks_Extension_SelectionDataExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_SelectionDataExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SelectionDataExtension.GetObjects 方法" Url="html/Overload_Du_SolidWorks_Extension_SelectionDataExtension_GetObjects.htm" />
+  <HelpKINode Title="SelectionManagerExtensions 类">
+    <HelpKINode Title="SelectionManagerExtensions 类" Url="html/T_Du_SolidWorks_Extension_SelectionManagerExtensions.htm" />
+    <HelpKINode Title="字段" Url="html/Fields_T_Du_SolidWorks_Extension_SelectionManagerExtensions.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_SelectionManagerExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SelectionManagerExtensions.AnyMark 字段" Url="html/F_Du_SolidWorks_Extension_SelectionManagerExtensions_AnyMark.htm" />
+  <HelpKINode Title="SelectionManagerExtensions.CreateCallOut 方法" Url="html/M_Du_SolidWorks_Extension_SelectionManagerExtensions_CreateCallOut.htm" />
+  <HelpKINode Title="SelectionManagerExtensions.GetAllSelectedObjects 方法" Url="html/M_Du_SolidWorks_Extension_SelectionManagerExtensions_GetAllSelectedObjects.htm" />
+  <HelpKINode Title="SelectionManagerExtensions.GetAllSelectedObjectsEx 方法" Url="html/M_Du_SolidWorks_Extension_SelectionManagerExtensions_GetAllSelectedObjectsEx.htm" />
+  <HelpKINode Title="SelectionManagerExtensions.GetObjectSelections 方法" Url="html/M_Du_SolidWorks_Extension_SelectionManagerExtensions_GetObjectSelections.htm" />
+  <HelpKINode Title="SelectionManagerExtensions.GetSelectedObjects 方法" Url="html/M_Du_SolidWorks_Extension_SelectionManagerExtensions_GetSelectedObjects.htm" />
+  <HelpKINode Title="SelectionManagerExtensions.StartIndex 字段" Url="html/F_Du_SolidWorks_Extension_SelectionManagerExtensions_StartIndex.htm" />
+  <HelpKINode Title="Selections 属性" Url="html/P_Du_SolidWorks_Extension_TestObj_Selections.htm" />
+  <HelpKINode Title="SelectionType 属性" Url="html/P_Du_SolidWorks_Extension_ObjectId_SelectionType.htm" />
+  <HelpKINode Title="ServicePath 属性" Url="html/P_Du_SolidWorks_Extension_MacroFeatureDataExtension_2_ServicePath.htm" />
+  <HelpKINode Title="Set 方法">
+    <HelpKINode Title="Vector2.Set 方法 " Url="html/Overload_Du_SolidWorks_Math_Vector2_Set.htm" />
+    <HelpKINode Title="Vector3.Set 方法 " Url="html/Overload_Du_SolidWorks_Math_Vector3_Set.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SetEqu 方法" Url="html/Overload_Du_SolidWorks_Extension_EquationManagerExtension_SetEqu.htm" />
+  <HelpKINode Title="SetEquationName 方法" Url="html/M_Du_SolidWorks_Extension_swEqu_SetEquationName.htm" />
+  <HelpKINode Title="SetEquationValue 方法" Url="html/M_Du_SolidWorks_Extension_swEqu_SetEquationValue.htm" />
+  <HelpKINode Title="SetFixStatus 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_SetFixStatus.htm" />
+  <HelpKINode Title="SetGlobalEqu 方法" Url="html/M_Du_SolidWorks_Extension_EquationManagerExtension_SetGlobalEqu.htm" />
+  <HelpKINode Title="SetGlobalName 方法" Url="html/M_Du_SolidWorks_Extension_swEqu_SetGlobalName.htm" />
+  <HelpKINode Title="SetGlobalValue 方法" Url="html/M_Du_SolidWorks_Extension_swEqu_SetGlobalValue.htm" />
+  <HelpKINode Title="SetName 方法" Url="html/M_Du_SolidWorks_Extension_swEqu_SetName.htm" />
+  <HelpKINode Title="SetProperty 方法" Url="html/Overload_Du_SolidWorks_Extension_CustomPropertyManagerExtension_SetProperty.htm" />
+  <HelpKINode Title="SetSelectionbox 方法" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerPageSelectionboxExtension_SetSelectionbox.htm" />
+  <HelpKINode Title="SetSelectionColor 方法" Url="html/M_Du_SolidWorks_Extension_SelectionBoxExtensions_SetSelectionColor.htm" />
+  <HelpKINode Title="SetValue 方法" Url="html/M_Du_SolidWorks_Extension_swEqu_SetValue.htm" />
+  <HelpKINode Title="SetWindowHandle 方法" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerPageWindowFromHandleWrapper_SetWindowHandle.htm" />
+  <HelpKINode Title="SetWindowHandlex64 方法" Url="html/M_Du_SolidWorks_Extension_IPropertyManagerPageWindowFromHandleWrapper_SetWindowHandlex64.htm" />
+  <HelpKINode Title="Sketch 字段" Url="html/F_Du_SolidWorks_Extension_FeatureTypeName_Sketch.htm" />
+  <HelpKINode Title="SldWorksExtension 类">
+    <HelpKINode Title="SldWorksExtension 类" Url="html/T_Du_SolidWorks_Extension_SldWorksExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_SldWorksExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SldWorksExtension.ActiveDocEx 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_ActiveDocEx.htm" />
+  <HelpKINode Title="SldWorksExtension.CreateDocument 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_CreateDocument.htm" />
+  <HelpKINode Title="SldWorksExtension.FileType 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_FileType.htm" />
+  <HelpKINode Title="SldWorksExtension.HasDocOpened 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_HasDocOpened.htm" />
+  <HelpKINode Title="SldWorksExtension.LoadIgesInvisible 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_LoadIgesInvisible.htm" />
+  <HelpKINode Title="SldWorksExtension.NewPartOrAssembly 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_NewPartOrAssembly.htm" />
+  <HelpKINode Title="SldWorksExtension.OpenInvisibleDocClient 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_OpenInvisibleDocClient.htm" />
+  <HelpKINode Title="SldWorksExtension.OpenInvisibleReadOnly 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_OpenInvisibleReadOnly.htm" />
+  <HelpKINode Title="SldWorksExtension.UsingActiveDoc 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_UsingActiveDoc.htm" />
+  <HelpKINode Title="SldWorksExtension.UsingOpenDoc 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_UsingOpenDoc.htm" />
+  <HelpKINode Title="StartIndex 字段" Url="html/F_Du_SolidWorks_Extension_SelectionManagerExtensions_StartIndex.htm" />
+  <HelpKINode Title="StateEnum 枚举" Url="html/T_Du_SolidWorks_Extension_StateEnum.htm" />
+  <HelpKINode Title="Status 属性" Url="html/P_Du_SolidWorks_Extension_swEqu_Status.htm" />
+  <HelpKINode Title="Subtract 方法" Url="html/M_Du_SolidWorks_Math_Vector2_Subtract.htm" />
+  <HelpKINode Title="SubtractTs 方法" Url="html/Overload_Du_SolidWorks_Math_MathPointExtension_SubtractTs.htm" />
+  <HelpKINode Title="Suppression 属性" Url="html/P_Du_SolidWorks_Extension_swEqu_Suppression.htm" />
+  <HelpKINode Title="SurfaceExtensions 类">
+    <HelpKINode Title="SurfaceExtensions 类" Url="html/T_Du_SolidWorks_Extension_SurfaceExtensions.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_SurfaceExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SurfaceExtensions.GetClosestPointOnTs 方法" Url="html/Overload_Du_SolidWorks_Extension_SurfaceExtensions_GetClosestPointOnTs.htm" />
+  <HelpKINode Title="SurfaceExtensions.PointAt 方法" Url="html/M_Du_SolidWorks_Extension_SurfaceExtensions_PointAt.htm" />
+  <HelpKINode Title="SurfaceExtensions.PointUv 类">
+    <HelpKINode Title="SurfaceExtensions.PointUv 类" Url="html/T_Du_SolidWorks_Extension_SurfaceExtensions_PointUv.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_SurfaceExtensions_PointUv__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SurfaceExtensions.PointUv.Point 属性" Url="html/P_Du_SolidWorks_Extension_SurfaceExtensions_PointUv_Point.htm" />
+  <HelpKINode Title="SurfaceExtensions.PointUv.PointUv 构造函数" Url="html/M_Du_SolidWorks_Extension_SurfaceExtensions_PointUv__ctor.htm" />
+  <HelpKINode Title="SurfaceExtensions.PointUv.U 属性" Url="html/P_Du_SolidWorks_Extension_SurfaceExtensions_PointUv_U.htm" />
+  <HelpKINode Title="SurfaceExtensions.PointUv.UV 属性" Url="html/P_Du_SolidWorks_Extension_SurfaceExtensions_PointUv_UV.htm" />
+  <HelpKINode Title="SurfaceExtensions.PointUv.V 属性" Url="html/P_Du_SolidWorks_Extension_SurfaceExtensions_PointUv_V.htm" />
+  <HelpKINode Title="SurfaceExtensions.PointUv.X 属性" Url="html/P_Du_SolidWorks_Extension_SurfaceExtensions_PointUv_X.htm" />
+  <HelpKINode Title="SurfaceExtensions.PointUv.Y 属性" Url="html/P_Du_SolidWorks_Extension_SurfaceExtensions_PointUv_Y.htm" />
+  <HelpKINode Title="SurfaceExtensions.PointUv.Z 属性" Url="html/P_Du_SolidWorks_Extension_SurfaceExtensions_PointUv_Z.htm" />
+  <HelpKINode Title="SwApp 属性" Url="html/P_Du_SolidWorks_ISolidWorksAddin_SwApp.htm" />
+  <HelpKINode Title="SwCalloutHandlerWrapper 类">
+    <HelpKINode Title="SwCalloutHandlerWrapper 类" Url="html/T_Du_SolidWorks_Extension_SwCalloutHandlerWrapper.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_SwCalloutHandlerWrapper.htm" />
+    <HelpKINode Title="构造函数" Url="html/Overload_Du_SolidWorks_Extension_SwCalloutHandlerWrapper__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SwCalloutHandlerWrapper.OnStringValueChanged 方法" Url="html/M_Du_SolidWorks_Extension_SwCalloutHandlerWrapper_OnStringValueChanged.htm" />
+  <HelpKINode Title="SwCalloutHandlerWrapper.SwCalloutHandlerWrapper 构造函数" Url="html/Overload_Du_SolidWorks_Extension_SwCalloutHandlerWrapper__ctor.htm" />
+  <HelpKINode Title="SwCalloutHandlerWrapperHelper 类">
+    <HelpKINode Title="SwCalloutHandlerWrapperHelper 类" Url="html/T_Du_SolidWorks_Extension_SwCalloutHandlerWrapperHelper.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_SwCalloutHandlerWrapperHelper.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_SwCalloutHandlerWrapperHelper__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SwCalloutHandlerWrapperHelper.CreateWrapper 方法" Url="html/M_Du_SolidWorks_Extension_SwCalloutHandlerWrapperHelper_CreateWrapper.htm" />
+  <HelpKINode Title="SwCalloutHandlerWrapperHelper.SwCalloutHandlerWrapperHelper 构造函数" Url="html/M_Du_SolidWorks_Extension_SwCalloutHandlerWrapperHelper__ctor.htm" />
+  <HelpKINode Title="SWCommandAttribute 类">
+    <HelpKINode Title="SWCommandAttribute 类" Url="html/T_Du_SolidWorks_Attributes_SWCommandAttribute.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Attributes_SWCommandAttribute.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Attributes_SWCommandAttribute.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Attributes_SWCommandAttribute__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SWCommandAttribute.Guid 属性" Url="html/P_Du_SolidWorks_Attributes_SWCommandAttribute_Guid.htm" />
+  <HelpKINode Title="SWCommandAttribute.Hint 属性" Url="html/P_Du_SolidWorks_Attributes_SWCommandAttribute_Hint.htm" />
+  <HelpKINode Title="SWCommandAttribute.ImageListIndex 属性" Url="html/P_Du_SolidWorks_Attributes_SWCommandAttribute_ImageListIndex.htm" />
+  <HelpKINode Title="SWCommandAttribute.MenuTBOption 属性" Url="html/P_Du_SolidWorks_Attributes_SWCommandAttribute_MenuTBOption.htm" />
+  <HelpKINode Title="SWCommandAttribute.Name 属性" Url="html/P_Du_SolidWorks_Attributes_SWCommandAttribute_Name.htm" />
+  <HelpKINode Title="SWCommandAttribute.Postion 属性" Url="html/P_Du_SolidWorks_Attributes_SWCommandAttribute_Postion.htm" />
+  <HelpKINode Title="SWCommandAttribute.SWCommandAttribute 构造函数" Url="html/M_Du_SolidWorks_Attributes_SWCommandAttribute__ctor.htm" />
+  <HelpKINode Title="SWCommandAttribute.TextType 属性" Url="html/P_Du_SolidWorks_Attributes_SWCommandAttribute_TextType.htm" />
+  <HelpKINode Title="SWCommandAttribute.ToolTip 属性" Url="html/P_Du_SolidWorks_Attributes_SWCommandAttribute_ToolTip.htm" />
+  <HelpKINode Title="SwCustomInfoType 属性" Url="html/P_Du_SolidWorks_Extension_CustomPropertyModel_SwCustomInfoType.htm" />
+  <HelpKINode Title="swEqu 类">
+    <HelpKINode Title="swEqu 类" Url="html/T_Du_SolidWorks_Extension_swEqu.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_swEqu.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_swEqu.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_swEqu__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="swEqu.Equation 属性" Url="html/P_Du_SolidWorks_Extension_swEqu_Equation.htm" />
+  <HelpKINode Title="swEqu.GlobalVariable 属性" Url="html/P_Du_SolidWorks_Extension_swEqu_GlobalVariable.htm" />
+  <HelpKINode Title="swEqu.Index 属性" Url="html/P_Du_SolidWorks_Extension_swEqu_Index.htm" />
+  <HelpKINode Title="swEqu.Remark 属性" Url="html/P_Du_SolidWorks_Extension_swEqu_Remark.htm" />
+  <HelpKINode Title="swEqu.SetEquationName 方法" Url="html/M_Du_SolidWorks_Extension_swEqu_SetEquationName.htm" />
+  <HelpKINode Title="swEqu.SetEquationValue 方法" Url="html/M_Du_SolidWorks_Extension_swEqu_SetEquationValue.htm" />
+  <HelpKINode Title="swEqu.SetGlobalName 方法" Url="html/M_Du_SolidWorks_Extension_swEqu_SetGlobalName.htm" />
+  <HelpKINode Title="swEqu.SetGlobalValue 方法" Url="html/M_Du_SolidWorks_Extension_swEqu_SetGlobalValue.htm" />
+  <HelpKINode Title="swEqu.SetName 方法" Url="html/M_Du_SolidWorks_Extension_swEqu_SetName.htm" />
+  <HelpKINode Title="swEqu.SetValue 方法" Url="html/M_Du_SolidWorks_Extension_swEqu_SetValue.htm" />
+  <HelpKINode Title="swEqu.Status 属性" Url="html/P_Du_SolidWorks_Extension_swEqu_Status.htm" />
+  <HelpKINode Title="swEqu.Suppression 属性" Url="html/P_Du_SolidWorks_Extension_swEqu_Suppression.htm" />
+  <HelpKINode Title="swEqu.swEqu 构造函数" Url="html/M_Du_SolidWorks_Extension_swEqu__ctor.htm" />
+  <HelpKINode Title="swEqu.Value 属性" Url="html/P_Du_SolidWorks_Extension_swEqu_Value.htm" />
+  <HelpKINode Title="swEqu.VarName 属性" Url="html/P_Du_SolidWorks_Extension_swEqu_VarName.htm" />
+  <HelpKINode Title="swEqu.VarValue 属性" Url="html/P_Du_SolidWorks_Extension_swEqu_VarValue.htm" />
+  <HelpKINode Title="SWFile 类">
+    <HelpKINode Title="SWFile 类" Url="html/T_Du_SolidWorks_Extension_SWFile.htm" />
+    <HelpKINode Title="字段" Url="html/Fields_T_Du_SolidWorks_Extension_SWFile.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_SWFile.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_SWFile__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SWFile.Assembly 字段" Url="html/F_Du_SolidWorks_Extension_SWFile_Assembly.htm" />
+  <HelpKINode Title="SWFile.AssemblyTempalte 字段" Url="html/F_Du_SolidWorks_Extension_SWFile_AssemblyTempalte.htm" />
+  <HelpKINode Title="SWFile.Drawing 字段" Url="html/F_Du_SolidWorks_Extension_SWFile_Drawing.htm" />
+  <HelpKINode Title="SWFile.DrawingTemplate 字段" Url="html/F_Du_SolidWorks_Extension_SWFile_DrawingTemplate.htm" />
+  <HelpKINode Title="SWFile.IsPartOrAssembly 方法" Url="html/M_Du_SolidWorks_Extension_SWFile_IsPartOrAssembly.htm" />
+  <HelpKINode Title="SWFile.Part 字段" Url="html/F_Du_SolidWorks_Extension_SWFile_Part.htm" />
+  <HelpKINode Title="SWFile.PartTempalte 字段" Url="html/F_Du_SolidWorks_Extension_SWFile_PartTempalte.htm" />
+  <HelpKINode Title="SWFile.SWFile 构造函数" Url="html/M_Du_SolidWorks_Extension_SWFile__ctor.htm" />
+  <HelpKINode Title="SWFlyoutCommandAttribute 类">
+    <HelpKINode Title="SWFlyoutCommandAttribute 类" Url="html/T_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SWFlyoutCommandAttribute.Commands 属性" Url="html/P_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute_Commands.htm" />
+  <HelpKINode Title="SWFlyoutCommandAttribute.FlyoutType 属性" Url="html/P_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute_FlyoutType.htm" />
+  <HelpKINode Title="SWFlyoutCommandAttribute.Guid 属性" Url="html/P_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute_Guid.htm" />
+  <HelpKINode Title="SWFlyoutCommandAttribute.Hint 属性" Url="html/P_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute_Hint.htm" />
+  <HelpKINode Title="SWFlyoutCommandAttribute.SWFlyoutCommandAttribute 构造函数" Url="html/M_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute__ctor.htm" />
+  <HelpKINode Title="SWFlyoutCommandAttribute.TextType 属性" Url="html/P_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute_TextType.htm" />
+  <HelpKINode Title="SWFlyoutCommandAttribute.Title 属性" Url="html/P_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute_Title.htm" />
+  <HelpKINode Title="SWFlyoutCommandAttribute.ToolTip 属性" Url="html/P_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute_ToolTip.htm" />
+  <HelpKINode Title="swMath 属性" Url="html/P_Du_SolidWorks_ISolidWorksAddin_swMath.htm" />
+  <HelpKINode Title="swMathUtility 属性" Url="html/P_Du_SolidWorks_Math_MathUtil_swMathUtility.htm" />
+  <HelpKINode Title="SWPath 类">
+    <HelpKINode Title="SWPath 类" Url="html/T_Du_SolidWorks_Extension_SWPath.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_SWPath.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_SWPath.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_SWPath__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SWPath.CreateATemFilePath 方法" Url="html/M_Du_SolidWorks_Extension_SWPath_CreateATemFilePath.htm" />
+  <HelpKINode Title="SWPath.ExtensionDllPath 属性" Url="html/P_Du_SolidWorks_Extension_SWPath_ExtensionDllPath.htm" />
+  <HelpKINode Title="SWPath.GetFileType 方法" Url="html/M_Du_SolidWorks_Extension_SWPath_GetFileType.htm" />
+  <HelpKINode Title="SWPath.SWPath 构造函数" Url="html/M_Du_SolidWorks_Extension_SWPath__ctor.htm" />
+  <HelpKINode Title="swSelARROWS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelARROWS.htm" />
+  <HelpKINode Title="swSelATTRIBUTES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelATTRIBUTES.htm" />
+  <HelpKINode Title="swSelBODYFEATURES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelBODYFEATURES.htm" />
+  <HelpKINode Title="swSelBREAKLINES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelBREAKLINES.htm" />
+  <HelpKINode Title="swSelCENTERMARKS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelCENTERMARKS.htm" />
+  <HelpKINode Title="swSelCOMPONENTS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelCOMPONENTS.htm" />
+  <HelpKINode Title="swSelCOMPPATTERN 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelCOMPPATTERN.htm" />
+  <HelpKINode Title="swSelCONFIGURATIONS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelCONFIGURATIONS.htm" />
+  <HelpKINode Title="swSelCTHREADS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelCTHREADS.htm" />
+  <HelpKINode Title="swSelDATUMAXES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDATUMAXES.htm" />
+  <HelpKINode Title="swSelDATUMPLANES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDATUMPLANES.htm" />
+  <HelpKINode Title="swSelDATUMPOINTS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDATUMPOINTS.htm" />
+  <HelpKINode Title="swSelDATUMTAGS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDATUMTAGS.htm" />
+  <HelpKINode Title="swSelDCABINETS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDCABINETS.htm" />
+  <HelpKINode Title="swSelDETAILCIRCLES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDETAILCIRCLES.htm" />
+  <HelpKINode Title="swSelDIMENSIONS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDIMENSIONS.htm" />
+  <HelpKINode Title="swSelDRAWINGVIEWS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDRAWINGVIEWS.htm" />
+  <HelpKINode Title="swSelDTMTARGS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDTMTARGS.htm" />
+  <HelpKINode Title="swSelectTypeName 类">
+    <HelpKINode Title="swSelectTypeName 类" Url="html/T_Du_SolidWorks_Extension_swSelectTypeName.htm" />
+    <HelpKINode Title="字段" Url="html/Fields_T_Du_SolidWorks_Extension_swSelectTypeName.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_swSelectTypeName.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_swSelectTypeName__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="swSelectTypeName.GetSelectedTypeName 方法" Url="html/M_Du_SolidWorks_Extension_swSelectTypeName_GetSelectedTypeName.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelARROWS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelARROWS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelATTRIBUTES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelATTRIBUTES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelBODYFEATURES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelBODYFEATURES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelBREAKLINES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelBREAKLINES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelCENTERMARKS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelCENTERMARKS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelCOMPONENTS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelCOMPONENTS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelCOMPPATTERN 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelCOMPPATTERN.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelCONFIGURATIONS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelCONFIGURATIONS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelCTHREADS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelCTHREADS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelDATUMAXES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDATUMAXES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelDATUMPLANES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDATUMPLANES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelDATUMPOINTS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDATUMPOINTS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelDATUMTAGS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDATUMTAGS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelDCABINETS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDCABINETS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelDETAILCIRCLES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDETAILCIRCLES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelDIMENSIONS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDIMENSIONS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelDRAWINGVIEWS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDRAWINGVIEWS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelDTMTARGS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelDTMTARGS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelectTypeName 构造函数" Url="html/M_Du_SolidWorks_Extension_swSelectTypeName__ctor.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelEDGES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelEDGES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelEXPLSTEPS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelEXPLSTEPS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelEXPLVIEWS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelEXPLVIEWS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelEXTSKETCHPOINTS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelEXTSKETCHPOINTS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelEXTSKETCHSEGS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelEXTSKETCHSEGS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelFACES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelFACES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelGTOLS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelGTOLS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelHELIX 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelHELIX.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelINCONTEXTFEAT 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelINCONTEXTFEAT.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelINCONTEXTFEATS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelINCONTEXTFEATS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelMATEGROUP 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelMATEGROUP.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelMATEGROUPS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelMATEGROUPS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelMATES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelMATES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelNOTES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelNOTES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelOBJHANDLES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelOBJHANDLES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelOLEITEMS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelOLEITEMS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelPOINTREFS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelPOINTREFS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelREFCURVES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelREFCURVES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelREFERENCECURVES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelREFERENCECURVES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelREFSURFACES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelREFSURFACES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelSECTIONLINES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSECTIONLINES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelSECTIONTEXT 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSECTIONTEXT.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelSFSYMBOLS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSFSYMBOLS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelSHEETS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSHEETS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelSILHOUETTES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSILHOUETTES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelSKETCHES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSKETCHES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelSKETCHPOINTS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSKETCHPOINTS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelSKETCHSEGS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSKETCHSEGS.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelSKETCHTEXT 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSKETCHTEXT.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelVERTICES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelVERTICES.htm" />
+  <HelpKINode Title="swSelectTypeName.swSelWELDS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelWELDS.htm" />
+  <HelpKINode Title="swSelEDGES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelEDGES.htm" />
+  <HelpKINode Title="swSelEXPLSTEPS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelEXPLSTEPS.htm" />
+  <HelpKINode Title="swSelEXPLVIEWS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelEXPLVIEWS.htm" />
+  <HelpKINode Title="swSelEXTSKETCHPOINTS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelEXTSKETCHPOINTS.htm" />
+  <HelpKINode Title="swSelEXTSKETCHSEGS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelEXTSKETCHSEGS.htm" />
+  <HelpKINode Title="swSelFACES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelFACES.htm" />
+  <HelpKINode Title="swSelGTOLS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelGTOLS.htm" />
+  <HelpKINode Title="swSelHELIX 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelHELIX.htm" />
+  <HelpKINode Title="swSelINCONTEXTFEAT 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelINCONTEXTFEAT.htm" />
+  <HelpKINode Title="swSelINCONTEXTFEATS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelINCONTEXTFEATS.htm" />
+  <HelpKINode Title="swSelMATEGROUP 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelMATEGROUP.htm" />
+  <HelpKINode Title="swSelMATEGROUPS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelMATEGROUPS.htm" />
+  <HelpKINode Title="swSelMATES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelMATES.htm" />
+  <HelpKINode Title="swSelNOTES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelNOTES.htm" />
+  <HelpKINode Title="swSelOBJHANDLES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelOBJHANDLES.htm" />
+  <HelpKINode Title="swSelOLEITEMS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelOLEITEMS.htm" />
+  <HelpKINode Title="swSelPOINTREFS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelPOINTREFS.htm" />
+  <HelpKINode Title="swSelREFCURVES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelREFCURVES.htm" />
+  <HelpKINode Title="swSelREFERENCECURVES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelREFERENCECURVES.htm" />
+  <HelpKINode Title="swSelREFSURFACES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelREFSURFACES.htm" />
+  <HelpKINode Title="swSelSECTIONLINES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSECTIONLINES.htm" />
+  <HelpKINode Title="swSelSECTIONTEXT 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSECTIONTEXT.htm" />
+  <HelpKINode Title="swSelSFSYMBOLS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSFSYMBOLS.htm" />
+  <HelpKINode Title="swSelSHEETS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSHEETS.htm" />
+  <HelpKINode Title="swSelSILHOUETTES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSILHOUETTES.htm" />
+  <HelpKINode Title="swSelSKETCHES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSKETCHES.htm" />
+  <HelpKINode Title="swSelSKETCHPOINTS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSKETCHPOINTS.htm" />
+  <HelpKINode Title="swSelSKETCHSEGS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSKETCHSEGS.htm" />
+  <HelpKINode Title="swSelSKETCHTEXT 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelSKETCHTEXT.htm" />
+  <HelpKINode Title="swSelVERTICES 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelVERTICES.htm" />
+  <HelpKINode Title="swSelWELDS 字段" Url="html/F_Du_SolidWorks_Extension_swSelectTypeName_swSelWELDS.htm" />
+  <HelpKINode Title="SWToInt 方法" Url="html/M_Du_SolidWorks_Extension_EnumObjExtension_SWToInt.htm" />
+  <HelpKINode Title="TabStyles 属性" Url="html/P_Du_SolidWorks_GroupData_TabStyles.htm" />
+  <HelpKINode Title="TakeCompTopFeaturesWhile 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_TakeCompTopFeaturesWhile.htm" />
+  <HelpKINode Title="TemSaveAsFor 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_TemSaveAsFor.htm" />
+  <HelpKINode Title="TestObj 类">
+    <HelpKINode Title="TestObj 类" Url="html/T_Du_SolidWorks_Extension_TestObj.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Extension_TestObj.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_TestObj.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Extension_TestObj__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TestObj.Name 属性" Url="html/P_Du_SolidWorks_Extension_TestObj_Name.htm" />
+  <HelpKINode Title="TestObj.Selections 属性" Url="html/P_Du_SolidWorks_Extension_TestObj_Selections.htm" />
+  <HelpKINode Title="TestObj.TestObj 构造函数" Url="html/M_Du_SolidWorks_Extension_TestObj__ctor.htm" />
+  <HelpKINode Title="TextType 属性">
+    <HelpKINode Title="SWCommandAttribute.TextType 属性 " Url="html/P_Du_SolidWorks_Attributes_SWCommandAttribute_TextType.htm" />
+    <HelpKINode Title="SWFlyoutCommandAttribute.TextType 属性 " Url="html/P_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute_TextType.htm" />
+  </HelpKINode>
+  <HelpKINode Title="tip 属性" Url="html/P_Du_SolidWorks_Extension_PMPageControl_tip.htm" />
+  <HelpKINode Title="Tip 属性" Url="html/P_Du_SolidWorks_Extension_PMPageControlAttribute_Tip.htm" />
+  <HelpKINode Title="Title 属性">
+    <HelpKINode Title="GroupData.Title 属性 " Url="html/P_Du_SolidWorks_GroupData_Title.htm" />
+    <HelpKINode Title="SWFlyoutCommandAttribute.Title 属性 " Url="html/P_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute_Title.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToDoubles 方法" Url="html/M_Du_SolidWorks_Math_Vector3_ToDoubles.htm" />
+  <HelpKINode Title="ToMatrix4X4 方法" Url="html/M_Du_SolidWorks_Extension_MathTransformExtension_ToMatrix4X4.htm" />
+  <HelpKINode Title="ToolTip 属性">
+    <HelpKINode Title="GroupData.ToolTip 属性 " Url="html/P_Du_SolidWorks_GroupData_ToolTip.htm" />
+    <HelpKINode Title="SWCommandAttribute.ToolTip 属性 " Url="html/P_Du_SolidWorks_Attributes_SWCommandAttribute_ToolTip.htm" />
+    <HelpKINode Title="SWFlyoutCommandAttribute.ToolTip 属性 " Url="html/P_Du_SolidWorks_Attributes_SWFlyoutCommandAttribute_ToolTip.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ToSwMathPoint 方法" Url="html/M_Du_SolidWorks_Math_Vector3_ToSwMathPoint.htm" />
+  <HelpKINode Title="ToSwMathVector 方法" Url="html/M_Du_SolidWorks_Math_Vector3_ToSwMathVector.htm" />
+  <HelpKINode Title="ToSwMatrix 方法" Url="html/M_Du_SolidWorks_Math_MathUtilityExtension_ToSwMatrix.htm" />
+  <HelpKINode Title="ToSwTransform 方法" Url="html/M_Du_SolidWorks_Extension_Matrix4X4ExtensionsSw_ToSwTransform.htm" />
+  <HelpKINode Title="ToVector3 方法">
+    <HelpKINode Title="doubleExtesnion.ToVector3 方法 " Url="html/M_Du_SolidWorks_Math_doubleExtesnion_ToVector3.htm" />
+    <HelpKINode Title="MathPointExtension.ToVector3 方法 " Url="html/M_Du_SolidWorks_Math_MathPointExtension_ToVector3.htm" />
+    <HelpKINode Title="MathVectorExtension.ToVector3 方法 " Url="html/M_Du_SolidWorks_Math_MathVectorExtension_ToVector3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Transform 方法" Url="html/M_Du_SolidWorks_Math_PointDirection3_Transform.htm" />
+  <HelpKINode Title="TriadManipulatorExtensions 类">
+    <HelpKINode Title="TriadManipulatorExtensions 类" Url="html/T_Du_SolidWorks_Extension_TriadManipulatorExtensions.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_TriadManipulatorExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="TriadManipulatorExtensions.CreateTranslationTransform 方法" Url="html/M_Du_SolidWorks_Extension_TriadManipulatorExtensions_CreateTranslationTransform.htm" />
+  <HelpKINode Title="TriadManipulatorExtensions.Project 方法" Url="html/M_Du_SolidWorks_Extension_TriadManipulatorExtensions_Project.htm" />
+  <HelpKINode Title="TryGetT(Of T) 方法" Url="html/M_Du_SolidWorks_Extension_ObjectSelection_TryGetT__1.htm" />
+  <HelpKINode Title="TryGetT&lt;T&gt; 方法" Url="html/M_Du_SolidWorks_Extension_ObjectSelection_TryGetT__1.htm" />
+  <HelpKINode Title="Type 属性" Url="html/P_Du_SolidWorks_Extension_ObjectSelection_Type.htm" />
+  <HelpKINode Title="U 属性" Url="html/P_Du_SolidWorks_Extension_SurfaceExtensions_PointUv_U.htm" />
+  <HelpKINode Title="UI 属性" Url="html/P_Du_SolidWorks_IDuTaskPane_UI.htm" />
+  <HelpKINode Title="UIUpdateEnable 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_UIUpdateEnable.htm" />
+  <HelpKINode Title="Unit 方法">
+    <HelpKINode Title="Delat.Unit 方法 " Url="html/M_Du_SolidWorks_Extension_Delat_Unit.htm" />
+    <HelpKINode Title="Vector3.Unit 方法 " Url="html/M_Du_SolidWorks_Math_Vector3_Unit.htm" />
+  </HelpKINode>
+  <HelpKINode Title="UnitCross 方法" Url="html/Overload_Du_SolidWorks_Math_Vector3_UnitCross.htm" />
+  <HelpKINode Title="UnitX 属性" Url="html/P_Du_SolidWorks_Math_Vector3_UnitX.htm" />
+  <HelpKINode Title="UnitY 属性" Url="html/P_Du_SolidWorks_Math_Vector3_UnitY.htm" />
+  <HelpKINode Title="UnitZ 属性" Url="html/P_Du_SolidWorks_Math_Vector3_UnitZ.htm" />
+  <HelpKINode Title="Using 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_Using.htm" />
+  <HelpKINode Title="UsingActiveDoc 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_UsingActiveDoc.htm" />
+  <HelpKINode Title="UsingAllBody 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_UsingAllBody.htm" />
+  <HelpKINode Title="UsingAllComponents 方法" Url="html/Overload_Du_SolidWorks_Extension_AssemblyDocExtension_UsingAllComponents.htm" />
+  <HelpKINode Title="UsingChildren 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_UsingChildren.htm" />
+  <HelpKINode Title="UsingCompModelDoc2 方法" Url="html/M_Du_SolidWorks_Extension_Component2Extension_UsingCompModelDoc2.htm" />
+  <HelpKINode Title="UsingOpenDoc 方法" Url="html/M_Du_SolidWorks_Extension_SldWorksExtension_UsingOpenDoc.htm" />
+  <HelpKINode Title="UV 属性" Url="html/P_Du_SolidWorks_Extension_SurfaceExtensions_PointUv_UV.htm" />
+  <HelpKINode Title="V 属性" Url="html/P_Du_SolidWorks_Extension_SurfaceExtensions_PointUv_V.htm" />
+  <HelpKINode Title="Value 属性">
+    <HelpKINode Title="CustomPropertyModel.Value 属性 " Url="html/P_Du_SolidWorks_Extension_CustomPropertyModel_Value.htm" />
+    <HelpKINode Title="swEqu.Value 属性 " Url="html/P_Du_SolidWorks_Extension_swEqu_Value.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VarName 属性" Url="html/P_Du_SolidWorks_Extension_swEqu_VarName.htm" />
+  <HelpKINode Title="VarValue 属性" Url="html/P_Du_SolidWorks_Extension_swEqu_VarValue.htm" />
+  <HelpKINode Title="Vector2 类">
+    <HelpKINode Title="Vector2 类" Url="html/T_Du_SolidWorks_Math_Vector2.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Math_Vector2.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Math_Vector2.htm" />
+    <HelpKINode Title="构造函数" Url="html/M_Du_SolidWorks_Math_Vector2__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Vector2.Add 方法" Url="html/M_Du_SolidWorks_Math_Vector2_Add.htm" />
+  <HelpKINode Title="Vector2.AngleD 方法" Url="html/Overload_Du_SolidWorks_Math_Vector2_AngleD.htm" />
+  <HelpKINode Title="Vector2.AngleR 方法" Url="html/Overload_Du_SolidWorks_Math_Vector2_AngleR.htm" />
+  <HelpKINode Title="Vector2.Cross 方法" Url="html/M_Du_SolidWorks_Math_Vector2_Cross.htm" />
+  <HelpKINode Title="Vector2.Distance 方法" Url="html/M_Du_SolidWorks_Math_Vector2_Distance.htm" />
+  <HelpKINode Title="Vector2.DistanceSquared 方法" Url="html/M_Du_SolidWorks_Math_Vector2_DistanceSquared.htm" />
+  <HelpKINode Title="Vector2.Dot 方法" Url="html/M_Du_SolidWorks_Math_Vector2_Dot.htm" />
+  <HelpKINode Title="Vector2.FromAngleRad 方法" Url="html/M_Du_SolidWorks_Math_Vector2_FromAngleRad.htm" />
+  <HelpKINode Title="Vector2.IsFinite 属性" Url="html/P_Du_SolidWorks_Math_Vector2_IsFinite.htm" />
+  <HelpKINode Title="Vector2.Length 属性" Url="html/P_Du_SolidWorks_Math_Vector2_Length.htm" />
+  <HelpKINode Title="Vector2.LengthSquared 属性" Url="html/P_Du_SolidWorks_Math_Vector2_LengthSquared.htm" />
+  <HelpKINode Title="Vector2.Normalize 方法" Url="html/M_Du_SolidWorks_Math_Vector2_Normalize.htm" />
+  <HelpKINode Title="Vector2.Round 方法" Url="html/M_Du_SolidWorks_Math_Vector2_Round.htm" />
+  <HelpKINode Title="Vector2.Set 方法" Url="html/Overload_Du_SolidWorks_Math_Vector2_Set.htm" />
+  <HelpKINode Title="Vector2.Subtract 方法" Url="html/M_Du_SolidWorks_Math_Vector2_Subtract.htm" />
+  <HelpKINode Title="Vector2.Vector2 构造函数" Url="html/M_Du_SolidWorks_Math_Vector2__ctor.htm" />
+  <HelpKINode Title="Vector2.X 属性" Url="html/P_Du_SolidWorks_Math_Vector2_X.htm" />
+  <HelpKINode Title="Vector2.XPlusVector 属性" Url="html/P_Du_SolidWorks_Math_Vector2_XPlusVector.htm" />
+  <HelpKINode Title="Vector2.Y 属性" Url="html/P_Du_SolidWorks_Math_Vector2_Y.htm" />
+  <HelpKINode Title="Vector2.Zero 属性" Url="html/P_Du_SolidWorks_Math_Vector2_Zero.htm" />
+  <HelpKINode Title="Vector3 类">
+    <HelpKINode Title="Vector3 类" Url="html/T_Du_SolidWorks_Math_Vector3.htm" />
+    <HelpKINode Title="属性" Url="html/Properties_T_Du_SolidWorks_Math_Vector3.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Math_Vector3.htm" />
+    <HelpKINode Title="构造函数" Url="html/Overload_Du_SolidWorks_Math_Vector3__ctor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Vector3.Abs 属性" Url="html/P_Du_SolidWorks_Math_Vector3_Abs.htm" />
+  <HelpKINode Title="Vector3.Add 方法" Url="html/M_Du_SolidWorks_Math_Vector3_Add.htm" />
+  <HelpKINode Title="Vector3.AngleD 方法" Url="html/Overload_Du_SolidWorks_Math_Vector3_AngleD.htm" />
+  <HelpKINode Title="Vector3.AngleR 方法" Url="html/Overload_Du_SolidWorks_Math_Vector3_AngleR.htm" />
+  <HelpKINode Title="Vector3.Cross 方法" Url="html/Overload_Du_SolidWorks_Math_Vector3_Cross.htm" />
+  <HelpKINode Title="Vector3.Distance 方法" Url="html/Overload_Du_SolidWorks_Math_Vector3_Distance.htm" />
+  <HelpKINode Title="Vector3.DistanceSquared 方法" Url="html/Overload_Du_SolidWorks_Math_Vector3_DistanceSquared.htm" />
+  <HelpKINode Title="Vector3.Dot 方法" Url="html/Overload_Du_SolidWorks_Math_Vector3_Dot.htm" />
+  <HelpKINode Title="Vector3.IsFinite 属性" Url="html/P_Du_SolidWorks_Math_Vector3_IsFinite.htm" />
+  <HelpKINode Title="Vector3.IsNormalized 属性" Url="html/P_Du_SolidWorks_Math_Vector3_IsNormalized.htm" />
+  <HelpKINode Title="Vector3.IsSameDirection 方法" Url="html/M_Du_SolidWorks_Math_Vector3_IsSameDirection.htm" />
+  <HelpKINode Title="Vector3.Length 属性" Url="html/P_Du_SolidWorks_Math_Vector3_Length.htm" />
+  <HelpKINode Title="Vector3.LengthL1 属性" Url="html/P_Du_SolidWorks_Math_Vector3_LengthL1.htm" />
+  <HelpKINode Title="Vector3.LengthSquared 属性" Url="html/P_Du_SolidWorks_Math_Vector3_LengthSquared.htm" />
+  <HelpKINode Title="Vector3.Max 属性" Url="html/P_Du_SolidWorks_Math_Vector3_Max.htm" />
+  <HelpKINode Title="Vector3.MaxAbs 属性" Url="html/P_Du_SolidWorks_Math_Vector3_MaxAbs.htm" />
+  <HelpKINode Title="Vector3.Min 属性" Url="html/P_Du_SolidWorks_Math_Vector3_Min.htm" />
+  <HelpKINode Title="Vector3.MinAbs 属性" Url="html/P_Du_SolidWorks_Math_Vector3_MinAbs.htm" />
+  <HelpKINode Title="Vector3.Normalize 方法" Url="html/M_Du_SolidWorks_Math_Vector3_Normalize.htm" />
+  <HelpKINode Title="Vector3.Orthogonal 方法" Url="html/M_Du_SolidWorks_Math_Vector3_Orthogonal.htm" />
+  <HelpKINode Title="Vector3.ParaWithVec 方法" Url="html/M_Du_SolidWorks_Math_Vector3_ParaWithVec.htm" />
+  <HelpKINode Title="Vector3.Round 方法" Url="html/M_Du_SolidWorks_Math_Vector3_Round.htm" />
+  <HelpKINode Title="Vector3.Scale 方法" Url="html/M_Du_SolidWorks_Math_Vector3_Scale.htm" />
+  <HelpKINode Title="Vector3.Set 方法" Url="html/Overload_Du_SolidWorks_Math_Vector3_Set.htm" />
+  <HelpKINode Title="Vector3.ToDoubles 方法" Url="html/M_Du_SolidWorks_Math_Vector3_ToDoubles.htm" />
+  <HelpKINode Title="Vector3.ToSwMathPoint 方法" Url="html/M_Du_SolidWorks_Math_Vector3_ToSwMathPoint.htm" />
+  <HelpKINode Title="Vector3.ToSwMathVector 方法" Url="html/M_Du_SolidWorks_Math_Vector3_ToSwMathVector.htm" />
+  <HelpKINode Title="Vector3.Unit 方法" Url="html/M_Du_SolidWorks_Math_Vector3_Unit.htm" />
+  <HelpKINode Title="Vector3.UnitCross 方法" Url="html/Overload_Du_SolidWorks_Math_Vector3_UnitCross.htm" />
+  <HelpKINode Title="Vector3.UnitX 属性" Url="html/P_Du_SolidWorks_Math_Vector3_UnitX.htm" />
+  <HelpKINode Title="Vector3.UnitY 属性" Url="html/P_Du_SolidWorks_Math_Vector3_UnitY.htm" />
+  <HelpKINode Title="Vector3.UnitZ 属性" Url="html/P_Du_SolidWorks_Math_Vector3_UnitZ.htm" />
+  <HelpKINode Title="Vector3.Vector3 构造函数" Url="html/Overload_Du_SolidWorks_Math_Vector3__ctor.htm" />
+  <HelpKINode Title="Vector3.X 属性" Url="html/P_Du_SolidWorks_Math_Vector3_X.htm" />
+  <HelpKINode Title="Vector3.xy 属性" Url="html/P_Du_SolidWorks_Math_Vector3_xy.htm" />
+  <HelpKINode Title="Vector3.xz 属性" Url="html/P_Du_SolidWorks_Math_Vector3_xz.htm" />
+  <HelpKINode Title="Vector3.Y 属性" Url="html/P_Du_SolidWorks_Math_Vector3_Y.htm" />
+  <HelpKINode Title="Vector3.yz 属性" Url="html/P_Du_SolidWorks_Math_Vector3_yz.htm" />
+  <HelpKINode Title="Vector3.Z 属性" Url="html/P_Du_SolidWorks_Math_Vector3_Z.htm" />
+  <HelpKINode Title="Vector3.Zero 属性" Url="html/P_Du_SolidWorks_Math_Vector3_Zero.htm" />
+  <HelpKINode Title="version">
+    <HelpKINode Title="1.0.0.0" Url="html/d20b6f1c-5639-4419-a525-e5eaa8d5cee5.htm" />
+    <HelpKINode Title="history" Url="html/dcf0638a-bdef-45e0-9693-f7b98cbf947a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ViewExtension 类">
+    <HelpKINode Title="ViewExtension 类" Url="html/T_Du_SolidWorks_Extension_ViewExtension.htm" />
+    <HelpKINode Title="方法" Url="html/Methods_T_Du_SolidWorks_Extension_ViewExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ViewExtension.GetXAxis 方法" Url="html/M_Du_SolidWorks_Extension_ViewExtension_GetXAxis.htm" />
+  <HelpKINode Title="ViewExtension.GetYAxis 方法" Url="html/M_Du_SolidWorks_Extension_ViewExtension_GetYAxis.htm" />
+  <HelpKINode Title="ViewExtension.GetZAxis 方法" Url="html/M_Du_SolidWorks_Extension_ViewExtension_GetZAxis.htm" />
+  <HelpKINode Title="ViewExtension.GetZAxisVec 方法" Url="html/M_Du_SolidWorks_Extension_ViewExtension_GetZAxisVec.htm" />
+  <HelpKINode Title="ViewToScreen 方法" Url="html/M_Du_SolidWorks_Extension_ModelDocDuExtension_ViewToScreen.htm" />
+  <HelpKINode Title="WasResloved 属性" Url="html/P_Du_SolidWorks_Extension_CustomPropertyModel_WasResloved.htm" />
+  <HelpKINode Title="Welcome" Url="html/7172b43d-676c-4d2f-a4aa-8af53c0cb2ec.htm" />
+  <HelpKINode Title="Write 方法" Url="html/M_Du_SolidWorks_Extension_IMacroFeatureDataExtension_Write.htm" />
+  <HelpKINode Title="WriteAllText 方法" Url="html/M_Du_SolidWorks_ComWrapper_WriteAllText.htm" />
+  <HelpKINode Title="writeText 方法" Url="html/M_Du_SolidWorks_ComWrapper_writeText.htm" />
+  <HelpKINode Title="X 属性">
+    <HelpKINode Title="SurfaceExtensions.PointUv.X 属性 " Url="html/P_Du_SolidWorks_Extension_SurfaceExtensions_PointUv_X.htm" />
+    <HelpKINode Title="Vector2.X 属性 " Url="html/P_Du_SolidWorks_Math_Vector2_X.htm" />
+    <HelpKINode Title="Vector3.X 属性 " Url="html/P_Du_SolidWorks_Math_Vector3_X.htm" />
+  </HelpKINode>
+  <HelpKINode Title="XAxis 方法" Url="html/M_Du_SolidWorks_Math_MathUtilityExtension_XAxis.htm" />
+  <HelpKINode Title="XPlusVector 属性" Url="html/P_Du_SolidWorks_Math_Vector2_XPlusVector.htm" />
+  <HelpKINode Title="xy 属性" Url="html/P_Du_SolidWorks_Math_Vector3_xy.htm" />
+  <HelpKINode Title="xz 属性" Url="html/P_Du_SolidWorks_Math_Vector3_xz.htm" />
+  <HelpKINode Title="Y 属性">
+    <HelpKINode Title="SurfaceExtensions.PointUv.Y 属性 " Url="html/P_Du_SolidWorks_Extension_SurfaceExtensions_PointUv_Y.htm" />
+    <HelpKINode Title="Vector2.Y 属性 " Url="html/P_Du_SolidWorks_Math_Vector2_Y.htm" />
+    <HelpKINode Title="Vector3.Y 属性 " Url="html/P_Du_SolidWorks_Math_Vector3_Y.htm" />
+  </HelpKINode>
+  <HelpKINode Title="YAxis 方法" Url="html/M_Du_SolidWorks_Math_MathUtilityExtension_YAxis.htm" />
+  <HelpKINode Title="yz 属性" Url="html/P_Du_SolidWorks_Math_Vector3_yz.htm" />
+  <HelpKINode Title="Z 属性">
+    <HelpKINode Title="SurfaceExtensions.PointUv.Z 属性 " Url="html/P_Du_SolidWorks_Extension_SurfaceExtensions_PointUv_Z.htm" />
+    <HelpKINode Title="Vector3.Z 属性 " Url="html/P_Du_SolidWorks_Math_Vector3_Z.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ZAxis 方法" Url="html/M_Du_SolidWorks_Math_MathUtilityExtension_ZAxis.htm" />
+  <HelpKINode Title="Zero 属性">
+    <HelpKINode Title="Vector2.Zero 属性 " Url="html/P_Du_SolidWorks_Math_Vector2_Zero.htm" />
+    <HelpKINode Title="Vector3.Zero 属性 " Url="html/P_Du_SolidWorks_Math_Vector3_Zero.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ZeroTolerance 字段" Url="html/F_Du_SolidWorks_Math_MathUtil_ZeroTolerance.htm" />
+  <HelpKINode Title="_EditPage 字段" Url="html/F_Du_SolidWorks_Extension_DuMacroFeatBase_2__EditPage.htm" />
+  <HelpKINode Title="_Vector 字段" Url="html/F_Du_SolidWorks_Extension_Delat__Vector.htm" />
+</HelpKI>

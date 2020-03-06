@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<topic id="7172b43d-676c-4d2f-a4aa-8af53c0cb2ec" revisionNumber="1">
+	<developerConceptualDocument xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<introduction>
+			<para>这是Du.SolidWorks.Extension 的文档</para>
+		</introduction>
+
+		<section>
+			<title>开始</title>
+			<content>
+				<para>按下面的步骤开始,可以开发使用Du.SolidWorks.Extension 来扩展SolidWorks的api</para>
+
+				<list class="bullet">
+					<listItem>
+						<para>
+              <legacyBold>Install</legacyBold> PM> Install-Package Du.SolidWorks -Version 0.1.1
+            </para>
+					</listItem>
+
+					<listItem>
+						<para>
+              <legacyBold>Usage</legacyBold>
+							using Du.SolidWorks.Extension;
+              using Du.SolidWorks.Math
+            </para>
+					</listItem>
+				</list>
+
+				<para>See with <legacyBold>Github</legacyBold> https://github.com/weianweigan/DuSolidWorksExtension
+        </para>
+			</content>
+		</section>
+
+		<relatedTopics>
+			<link xlink:href="dcf0638a-bdef-45e0-9693-f7b98cbf947a" />
+		</relatedTopics>
+	</developerConceptualDocument>
+</topic>

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Du.XUnitSolidWorks", "Du.XU
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{8BAC9FF6-0BB5-4DB1-A600-F2F97F5A3988}"
 EndProject
+Project("{7CF6DF6D-3B04-46F8-A40B-537D21BCA0B4}") = "Du.SolidWorks.Doc", "Du.SolidWorks.Doc\Du.SolidWorks.Doc.shfbproj", "{31212B40-653F-4494-ABA0-0523079140FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{4FE2445A-E1F7-40A1-979D-A5A9D0406D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FE2445A-E1F7-40A1-979D-A5A9D0406D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FE2445A-E1F7-40A1-979D-A5A9D0406D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31212B40-653F-4494-ABA0-0523079140FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31212B40-653F-4494-ABA0-0523079140FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31212B40-653F-4494-ABA0-0523079140FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31212B40-653F-4494-ABA0-0523079140FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
