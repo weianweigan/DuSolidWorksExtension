@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">LGPL-3.0-only</license>
+    <projectUrl>https://github.com/weianweigan/DuSolidWorksExtension</projectUrl>
+    <description>$description$</description>
+    <releaseNotes>Extension Methods For SolidWorks</releaseNotes>
+    <iconUrl>https://github.com/weianweigan/DuSolidWorksExtension/resources/assembly.png</iconUrl>
+    <copyright>Copyright © dududu 2019</copyright>
+    <tags>SolidWorks Api Extension CSharp</tags>
+  </metadata>
+
+  <files>
+    <file src="..\packages\SolidWorks2016\SolidWorks.Interop.sldworks.dll" target="lib\net45" />
+    <file src="..\packages\SolidWorks2016\SolidWorks.Interop.swconst.dll" target="lib\net45" />
+    <file src="..\packages\SolidWorks2016\SolidWorks.Interop.swpublished.dll" target="lib\net45" />
+    <!--<file src="..\packages\SolidWorks2016\SolidWorksTools.dll" target="lib\net45" />-->
+  </files>
+</package>

@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <!--控制nuget包自动生成-->
+  <PropertyGroup>
+    <PackageId>]Du.SolidWorks</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>dududu</Authors>
+    <Company>XCHF NJ China</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6A5A744B-001D-4358-8F15-8749F74ECE22}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Du.SolidWorks</RootNamespace>
+    <AssemblyName>Du.SolidWorks</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="SolidWorks.Interop.sldworks">
+      <HintPath>..\..\..\DynamoSolidWorks\Du.DynamoSolidWorks\packages\SolidWorks2016\SolidWorks.Interop.sldworks.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="SolidWorks.Interop.swconst">
+      <HintPath>..\..\..\DynamoSolidWorks\Du.DynamoSolidWorks\packages\SolidWorks2016\SolidWorks.Interop.swconst.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="SolidWorks.Interop.swpublished">
+      <HintPath>..\..\..\DynamoSolidWorks\Du.DynamoSolidWorks\packages\SolidWorks2016\SolidWorks.Interop.swpublished.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\portable-net45+win8+wp8+wpa81\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="Xarial.VPages.Framework, Version=0.4.0.0, Culture=neutral, PublicKeyToken=6dcec729ca6a1943, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xarial.VPages.Framework.0.4.0\lib\net40\Xarial.VPages.Framework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Attributes\BoxOrderAttribute.cs" />
+    <Compile Include="Attributes\CommandCollectionAttribute.cs" />
+    <Compile Include="Attributes\GroupData.cs" />
+    <Compile Include="Attributes\SWCommandAttribute.cs" />
+    <Compile Include="Attributes\SWFlyoutCommandAttribute.cs" />
+    <Compile Include="ComWarpper.cs" />
+    <Compile Include="Extension\AssemblyDocExtension.cs" />
+    <Compile Include="Extension\BodyExtension.cs" />
+    <Compile Include="Extension\Component2Extension.cs" />
+    <Compile Include="Extension\DuMacroFeatBase.cs" />
+    <Compile Include="Extension\EdgeExtension.cs" />
+    <Compile Include="Extension\EnumExtension.cs" />
+    <Compile Include="Extension\EquationManagerExtension.cs" />
+    <Compile Include="Extension\FaceExtension.cs" />
+    <Compile Include="Extension\FeatureManagerExtension.cs" />
+    <Compile Include="Extension\FeatureTypeName.cs" />
+    <Compile Include="Extension\ICurveExtension.cs" />
+    <Compile Include="Extension\IFeatureExtension.cs" />
+    <Compile Include="Extension\IPictureDispHelper.cs" />
+    <Compile Include="Extension\IPropertyManagerGroupBuilder.cs" />
+    <Compile Include="Extension\IPropertyManagerPage2Builder.cs" />
+    <Compile Include="Extension\IPropertyManagerPageSelectionboxExtension.cs" />
+    <Compile Include="Extension\MacroFeatureBase.cs" />
+    <Compile Include="Extension\IMacroFeatureDataExtension.cs" />
+    <Compile Include="Extension\MacroFeatureDataExtension.cs" />
+    <Compile Include="Extension\ManipulatorHandler.cs" />
+    <Compile Include="Extension\MathTransformExtension.cs" />
+    <Compile Include="Extension\Matrix4X4ExtesnionSw.cs" />
+    <Compile Include="Extension\ModelDocDuExtension.cs" />
+    <Compile Include="Extension\ModelerExtension.cs" />
+    <Compile Include="Extension\CustomPropertyManagerExtension.cs" />
+    <Compile Include="Extension\PropertyManagerPage2Extension.cs" />
+    <Compile Include="Extension\PropertyManagerPage2Handler9Wrapper.cs" />
+    <Compile Include="Extension\PropertyManagerPageGroupExtension.cs" />
+    <Compile Include="Extension\RefAxisExtension.cs" />
+    <Compile Include="Extension\RefAxisNotFoundException.cs" />
+    <Compile Include="Extension\RefPlaneExtesion.cs" />
+    <Compile Include="Extension\SelectionBoxExtensions.cs" />
+    <Compile Include="Extension\SelectionData.cs" />
+    <Compile Include="Extension\SelectionDataExtension.cs" />
+    <Compile Include="Extension\SelectionManagerExtensions.cs" />
+    <Compile Include="Extension\SelectionTypeAttribute.cs" />
+    <Compile Include="Extension\SldWorksExtension.cs" />
+    <Compile Include="Extension\SurfaceExtension.cs" />
+    <Compile Include="Extension\SwCalloutHandlerWrapper.cs" />
+    <Compile Include="Extension\SWFile.cs" />
+    <Compile Include="Extension\swSelectTypeName.cs" />
+    <Compile Include="Extension\TriadManipulatorExtensions.cs" />
+    <Compile Include="Extension\ViewExtension.cs" />
+    <Compile Include="IDuTaskPane.cs" />
+    <Compile Include="Interface\IFlyoutCommand.cs" />
+    <Compile Include="ISolidWorksAddin.cs" />
+    <Compile Include="Math\ConvexHull2.cs" />
+    <Compile Include="Math\MathPointExtension.cs" />
+    <Compile Include="Math\MathUtil.cs" />
+    <Compile Include="Math\MathUtilityExtension.cs" />
+    <Compile Include="Math\MathVectorExtension.cs" />
+    <Compile Include="Math\PointDirection3.cs" />
+    <Compile Include="Math\Vector2.cs" />
+    <Compile Include="Math\Vector3.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Du.SolidWorks.nuspec" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
