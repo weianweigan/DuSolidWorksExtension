@@ -3,7 +3,7 @@
 
 # DuSolidWorksExtension
 
-English | [中文](https://github.com/weianweigan/DuSolidWorksExtension/blob/master/README.cn.md)
+English | [涓枃](https://github.com/weianweigan/DuSolidWorksExtension/blob/master/README.cn.md)
 
 Lots of very useful extension methods for SolidWorks api.
 
@@ -50,7 +50,7 @@ var equ = doc.GetEquationMgr().GetAllEqu().
 var doc = _addin.SwApp.ActiveDoc as ModelDoc2;
 
 var dateProerty = doc.Extension.CustomPropertyManager[""].GetAllProperty()
-                ?.Where(p => p.Value.Contains("日期"))?.Select(p => p.Name);
+                ?.Where(p => p.Value.Contains("鏃ユ湡"))?.Select(p => p.Name);
 ```
 
 ## Document 
