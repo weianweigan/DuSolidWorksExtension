@@ -1,1 +1,2 @@
 *.html linguist-language=csharp
+*.htm linguist-language=csharp
