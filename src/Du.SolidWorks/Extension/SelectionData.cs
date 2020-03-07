@@ -29,6 +29,9 @@ namespace Du.SolidWorks.Extension
         /// </remarks>
         public byte[] Data { get;set; }
 
+        /// <summary>
+        /// 选择对象的类型
+        /// </summary>
         public swSelectType_e SelectionType { get; set; }
     }
 }

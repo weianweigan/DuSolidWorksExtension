@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace Du.SolidWorks.Extension
 {
+    /// <summary>
+    /// 使用建造者模式来创建属性页
+    /// </summary>
     public class IPropertyManagerGroupBuilder
     {
         public IPropertyManagerPageGroup Group { get; }

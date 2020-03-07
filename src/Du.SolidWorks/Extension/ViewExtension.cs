@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace Du.SolidWorks.Extension
 {
+    /// <summary>
+    /// IView 接口扩展方法 <see cref="IView"/>
+    /// </summary>
     public static class ViewExtension
     {
         /// <summary>

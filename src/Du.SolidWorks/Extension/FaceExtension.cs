@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 
 namespace Du.SolidWorks.Extension
 {
+    /// <summary>
+    /// IFace2 的扩展方法
+    /// </summary>
     public static class FaceExtension
     {
         /// <summary>
@@ -48,8 +51,8 @@ namespace Du.SolidWorks.Extension
         /// <summary>
         /// 将面网格化
         /// </summary>
-        /// <param name="face"></param>
-        /// <param name="noConversion"></param>
+        /// <param name="face">IFace2 interface</param>
+        /// <param name="noConversion">True prohibits conversion to user units from system units, false does not</param>
         /// <returns></returns>
         private static double[][] GetTessTrianglesTs(this IFace2 face, bool noConversion)
         {
@@ -60,13 +63,62 @@ namespace Du.SolidWorks.Extension
                 .ToArray();
         }
 
+        /// <summary>
+        /// 使用设置的单位
+        /// </summary>
+        /// <param name="face">IFace2 interface</param>
+        /// <returns></returns>
         public static double[][] GetTessTrianglesNoConversion(this IFace2 face) => face.GetTessTrianglesTs(true);
+
+        /// <summary>
+        /// 使用系统单位
+        /// </summary>
+        /// <param name="face">IFace2 interface</param>
+        /// <returns></returns>
         public static double[][] GetTessTrianglesAllowConversion(this IFace2 face) => face.GetTessTrianglesTs(false);
 
+        /// <summary>
+        /// 取面上随机点
+        /// </summary>
+        /// <param name="face"></param>
+        /// <param name="seed">随机种子 默认为16435425</param>
+        /// <returns></returns>
+        public static Vector3 RandomPointOnFace(this IFace2 face,int seed = 16435425)
+        {
+            Random random = new Random(seed);
+
+            var point = face.GetClosestPointOn(random.NextDouble(), random.NextDouble(), random.NextDouble());
+
+            var pointData = point as double[];
+
+            return  new Vector3(pointData);
+        }
+
+        /// <summary>
+        /// 获取
+        /// </summary>
+        /// <param name="face"><see cref="IFace2"/></param>
+        /// <param name="pointInput"></param>
+        /// <returns></returns>
+        public static double ClosestDistance(this IFace2 face,Vector3 pointInput)
+        {
+            var point = face.GetClosestPointOn(pointInput.X,pointInput.Y,pointInput.Z);
+
+            var pointData = point as double[];
+
+            return pointInput.Distance(new Vector3(pointData));
+        }
     }
 
+    /// <summary>
+    /// 使用两个对角点表示3D空间的范围
+    /// </summary>
     public class Range3Double
     {
+        /// <summary>
+        /// 初始化构造点
+        /// </summary>
+        /// <param name="data">大于6个长度的参数,小于6个抛出异常</param>
         public Range3Double(params double[] data)
         {
             if (data.Length != 6)

@@ -12,7 +12,7 @@ namespace Du.SolidWorks.Extension
     /// <summary>
     /// 包含有SolidWorks各类文件扩展名
     /// </summary>
-    public class SWFile
+    public static class SWFile
     {
         /// <summary>
         /// .sldprt 零件扩展名
@@ -46,7 +46,7 @@ namespace Du.SolidWorks.Extension
         public const string PartTempalte = ".prtdot";
 
         /// <summary>
-        /// 
+        /// 判断是否是零件或者装配体
         /// </summary>
         /// <param name="filePath"></param>
         /// <returns></returns>
@@ -57,8 +57,21 @@ namespace Du.SolidWorks.Extension
         }
     }
 
-    public class SWPath
+    /// <summary>
+    /// 一些路径的扩展方法
+    /// </summary>
+    public static class SWPath
     {
+        /// <summary>
+        /// 判断是否是零件或者装配体
+        /// </summary>
+        /// <param name="filePath">文件路径</param>
+        /// <returns></returns>
+        public static bool IsPartOrAssembly(string filePath)
+        {
+            return SWFile.IsPartOrAssembly(filePath);
+        }
+
         /// <summary>
         /// Du.SolidWorks 程序集执行路径
         /// </summary>
@@ -77,7 +90,7 @@ namespace Du.SolidWorks.Extension
         /// 获取SolidWorks的文件类型
         /// .sldprt .sldasm .slddrw
         /// </summary>
-        /// <param name="filePath"></param>
+        /// <param name="filePath">文件路径</param>
         /// <returns></returns>
         public static swDocumentTypes_e GetFileType( string filePath)
         {
@@ -101,10 +114,10 @@ namespace Du.SolidWorks.Extension
         }
 
         /// <summary>
-        /// 生成一个随机的临时SolidWorks路径
+        /// 在程序集执行路径使用Guid生成一个零件文件路径
         /// *.sldpart *.sldasm *.slddrw
         /// </summary>
-        /// <param name="docType"></param>
+        /// <param name="docType">需要生成的文件类型</param>
         /// <returns></returns>
         public static string CreateATemFilePath(swDocumentTypes_e docType)
         {

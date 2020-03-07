@@ -8,6 +8,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// Du.SolidWorks的 扩展方法
+/// </summary>
 namespace Du.SolidWorks.Extension
 {
     /// <summary>
@@ -33,12 +36,12 @@ namespace Du.SolidWorks.Extension
         /// <summary>
         /// 面重合配合
         /// </summary>
-        /// <typeparam name="TFaceOne"></typeparam>
-        /// <typeparam name="TFaceTwo"></typeparam>
-        /// <param name="doc"></param>
-        /// <param name="faceOne"></param>
-        /// <param name="faceTwo"></param>
-        /// <param name="mateAlign"></param>
+        /// <typeparam name="TFaceOne">配合面1的类型 允许的类型 IFace2 IFeature IEntity</typeparam>
+        /// <typeparam name="TFaceTwo">配合面2的类型 允许的类型 IFace2 IFeature IEntity</typeparam>
+        /// <param name="doc">当前的装配体文档</param>
+        /// <param name="faceOne">面1的实例</param>
+        /// <param name="faceTwo">面2的实例</param>
+        /// <param name="mateAlign">配合类型</param>
         /// <returns></returns>
         public static Mate2 AddFaceCoinMate<TFaceOne,TFaceTwo>(this IAssemblyDoc doc,TFaceOne faceOne,TFaceTwo faceTwo, MateAlignExtension mateAlign)
         {
@@ -150,7 +153,7 @@ namespace Du.SolidWorks.Extension
             if ((typeof(TAxisOne).Name == nameof(IFeature) || typeof(TAxisOne).Name == nameof(Feature)) && 
                 (typeof(TAxisTwo).Name == nameof(IFeature) || typeof(TAxisTwo).Name == nameof(Feature)))
             {
-
+                //TODO: 考虑边线的情况 type:Entity Edge 
                 var axisDataOne = axisOne.CastObj<IFeature>()?.GetSpecFeatData<RefAxis>();
                 var axisDataTwo = axisTwo.CastObj<IFeature>()?.GetSpecFeatData<RefAxis>();
                 if (axisOne != null && axisTwo != null)
