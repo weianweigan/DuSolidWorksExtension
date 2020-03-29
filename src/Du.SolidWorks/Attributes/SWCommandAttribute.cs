@@ -8,6 +8,9 @@ using System.Threading.Tasks;
 namespace Du.SolidWorks.Attributes
 {
 
+    /// <summary>
+    /// Attribute for SolidWorks Command
+    /// </summary>
     public class SWCommandAttribute:Attribute
     {
         /// <summary>
@@ -15,7 +18,9 @@ namespace Du.SolidWorks.Attributes
         /// </summary>
         public  string Name { get; set; }
 
-
+        /// <summary>
+        /// Guid
+        /// </summary>
         public string Guid { get; set; } = System.Guid.NewGuid().ToString();
         
 
@@ -24,6 +29,9 @@ namespace Du.SolidWorks.Attributes
         /// </summary>
         public int Postion { get; set; } = -1;
 
+        /// <summary>
+        /// Hint
+        /// </summary>
         public string Hint { get; set; }
 
         /// <summary>
@@ -39,6 +47,9 @@ namespace Du.SolidWorks.Attributes
         /// </remarks>
         public swCommandItemType_e MenuTBOption { get; set; } = swCommandItemType_e.swMenuItem | swCommandItemType_e.swToolbarItem;
 
+        /// <summary>
+        /// ImageIndex
+        /// </summary>
         public int ImageListIndex { get; set; } = -1;
 
         /// <summary>

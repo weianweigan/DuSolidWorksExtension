@@ -13,6 +13,10 @@ namespace Du.SolidWorks.Attributes
     {
         public Type[] Commands { get; set; }
 
+        /// <summary>
+        /// 命令集合
+        /// </summary>
+        /// <param name="commands"></param>
         public CommandCollectionAttribute(params Type[] commands)
         {
             Commands = commands;

@@ -11,6 +11,9 @@ namespace Du.SolidWorks.Attributes
     /// </summary>
     public class BoxOrderAttribute : Attribute
     {
+        /// <summary>
+        /// 序号
+        /// </summary>
         public int Order { get; set; }
     }
 }

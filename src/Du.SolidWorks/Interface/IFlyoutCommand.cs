@@ -12,6 +12,9 @@ namespace Du.SolidWorks.Interface
         int FlyoutCMDId { get; set; }
 
         IFlyoutGroup  FlyoutGroup { get; set; }
+        int UserId { get; set; }
+        string[] MainIconList { get; }
+        string[] IconList { get; }
 
         void Execute(object parameter);
     }

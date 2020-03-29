@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace Du.SolidWorks.Math
 {
+    /// <summary>
+    /// Extension Point for <see cref="IMathPoint"/> Interface
+    /// </summary>
     public static class MathPointExtension
     {
         /// <summary>
@@ -14,7 +17,7 @@ namespace Du.SolidWorks.Math
         /// </summary>
         /// <param name="mathPoint"></param>
         /// <returns></returns>
-        public static Vector3 ToVector3(this MathPoint mathPoint)
+        public static Vector3 ToVector3(this IMathPoint mathPoint)
         {
             return new Vector3((double[])mathPoint.ArrayData);
         }

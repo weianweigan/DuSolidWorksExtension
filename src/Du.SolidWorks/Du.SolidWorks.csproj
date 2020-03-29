@@ -49,17 +49,20 @@
       <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />
-    <Reference Include="SolidWorks.Interop.sldworks">
-      <HintPath>..\..\..\DynamoSolidWorks\Du.DynamoSolidWorks\packages\SolidWorks2016\SolidWorks.Interop.sldworks.dll</HintPath>
-      <EmbedInteropTypes>False</EmbedInteropTypes>
+    <Reference Include="SolidWorks.Interop.sldworks, Version=26.2.0.63, Culture=neutral, PublicKeyToken=7c4797c3e4eeac03, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\packages\SolidWorks2016\SolidWorks.Interop.sldworks.dll</HintPath>
     </Reference>
-    <Reference Include="SolidWorks.Interop.swconst">
-      <HintPath>..\..\..\DynamoSolidWorks\Du.DynamoSolidWorks\packages\SolidWorks2016\SolidWorks.Interop.swconst.dll</HintPath>
-      <EmbedInteropTypes>False</EmbedInteropTypes>
+    <Reference Include="SolidWorks.Interop.swconst, Version=26.2.0.63, Culture=neutral, PublicKeyToken=19f43e188e4269d8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\packages\SolidWorks2016\SolidWorks.Interop.swconst.dll</HintPath>
     </Reference>
-    <Reference Include="SolidWorks.Interop.swpublished">
-      <HintPath>..\..\..\DynamoSolidWorks\Du.DynamoSolidWorks\packages\SolidWorks2016\SolidWorks.Interop.swpublished.dll</HintPath>
-      <EmbedInteropTypes>False</EmbedInteropTypes>
+    <Reference Include="SolidWorks.Interop.swpublished, Version=26.2.0.63, Culture=neutral, PublicKeyToken=89a97bdc5284e6d8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\packages\SolidWorks2016\SolidWorks.Interop.swpublished.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -85,50 +88,67 @@
     <Compile Include="Attributes\GroupData.cs" />
     <Compile Include="Attributes\SWCommandAttribute.cs" />
     <Compile Include="Attributes\SWFlyoutCommandAttribute.cs" />
+    <Compile Include="Attributes\SWGroupCommandAttribute.cs" />
     <Compile Include="ComWarpper.cs" />
-    <Compile Include="Extension\AssemblyDocExtension.cs" />
-    <Compile Include="Extension\BodyExtension.cs" />
     <Compile Include="Extension\Component2Extension.cs" />
-    <Compile Include="Extension\DuMacroFeatBase.cs" />
-    <Compile Include="Extension\EdgeExtension.cs" />
-    <Compile Include="Extension\EnumExtension.cs" />
-    <Compile Include="Extension\EquationManagerExtension.cs" />
-    <Compile Include="Extension\FaceExtension.cs" />
-    <Compile Include="Extension\FeatureManagerExtension.cs" />
-    <Compile Include="Extension\FeatureTypeName.cs" />
-    <Compile Include="Extension\ICurveExtension.cs" />
+    <Compile Include="Extension\Doc\AssemblyDocExtension.cs" />
+    <Compile Include="Extension\Doc\IModelViewManagerExtension.cs" />
+    <Compile Include="Extension\Doc\ModelDoc2DuExtension.cs" />
+    <Compile Include="Extension\Doc\ModelerExtension.cs" />
+    <Compile Include="Extension\Doc\SldWorksExtension.cs" />
+    <Compile Include="Extension\Drawing\ViewExtension.cs" />
+    <Compile Include="Extension\Entity\BodyExtension.cs" />
+    <Compile Include="Extension\Entity\EdgeExtension.cs" />
+    <Compile Include="Extension\Entity\FaceExtension.cs" />
+    <Compile Include="Extension\Entity\ICurveExtension.cs" />
+    <Compile Include="Extension\Entity\ILoop2Extension.cs" />
+    <Compile Include="Extension\Entity\SurfaceExtension.cs" />
+    <Compile Include="Extension\Helper\EnumExtension.cs" />
+    <Compile Include="Extension\Helper\FeatureTypeName.cs" />
+    <Compile Include="Extension\Helper\IPictureDispHelper.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Extension\Helper\MathTransformExtension.cs" />
+    <Compile Include="Extension\Helper\Matrix4X4ExtesnionSw.cs" />
+    <Compile Include="Extension\Helper\SWFile.cs" />
+    <Compile Include="Extension\Helper\swSelectTypeName.cs" />
+    <Compile Include="Extension\FeatData\IBaseFlangeFeatureDataExtension.cs" />
     <Compile Include="Extension\IFeatureExtension.cs" />
-    <Compile Include="Extension\IPictureDispHelper.cs" />
-    <Compile Include="Extension\IPropertyManagerGroupBuilder.cs" />
-    <Compile Include="Extension\IPropertyManagerPage2Builder.cs" />
-    <Compile Include="Extension\IPropertyManagerPageSelectionboxExtension.cs" />
-    <Compile Include="Extension\MacroFeatureBase.cs" />
-    <Compile Include="Extension\IMacroFeatureDataExtension.cs" />
-    <Compile Include="Extension\MacroFeatureDataExtension.cs" />
-    <Compile Include="Extension\ManipulatorHandler.cs" />
-    <Compile Include="Extension\MathTransformExtension.cs" />
-    <Compile Include="Extension\Matrix4X4ExtesnionSw.cs" />
-    <Compile Include="Extension\ModelDocDuExtension.cs" />
-    <Compile Include="Extension\ModelerExtension.cs" />
-    <Compile Include="Extension\CustomPropertyManagerExtension.cs" />
-    <Compile Include="Extension\PropertyManagerPage2Extension.cs" />
-    <Compile Include="Extension\PropertyManagerPage2Handler9Wrapper.cs" />
-    <Compile Include="Extension\PropertyManagerPageGroupExtension.cs" />
-    <Compile Include="Extension\RefAxisExtension.cs" />
-    <Compile Include="Extension\RefAxisNotFoundException.cs" />
-    <Compile Include="Extension\RefPlaneExtesion.cs" />
-    <Compile Include="Extension\SelectionBoxExtensions.cs" />
-    <Compile Include="Extension\SelectionData.cs" />
-    <Compile Include="Extension\SelectionDataExtension.cs" />
-    <Compile Include="Extension\SelectionManagerExtensions.cs" />
-    <Compile Include="Extension\SelectionTypeAttribute.cs" />
-    <Compile Include="Extension\SldWorksExtension.cs" />
-    <Compile Include="Extension\SurfaceExtension.cs" />
-    <Compile Include="Extension\SwCalloutHandlerWrapper.cs" />
-    <Compile Include="Extension\SWFile.cs" />
-    <Compile Include="Extension\swSelectTypeName.cs" />
-    <Compile Include="Extension\TriadManipulatorExtensions.cs" />
-    <Compile Include="Extension\ViewExtension.cs" />
+    <Compile Include="Extension\Manager\CustomPropertyManagerExtension.cs" />
+    <Compile Include="Extension\Manager\EquationManagerExtension.cs" />
+    <Compile Include="Extension\Manager\FeatureManagerExtension.cs" />
+    <Compile Include="Extension\Manager\FeatureModel\MacroFeature3Params.cs" />
+    <Compile Include="Extension\Manager\FeatureModel\ProtrusionSwept3Params.cs" />
+    <Compile Include="Extension\Doc\ModelDocExtensionExtension.cs" />
+    <Compile Include="Extension\PMPage\IPropertyManagerGroupBuilder.cs" />
+    <Compile Include="Extension\PMPage\IPropertyManagerPage2Builder.cs" />
+    <Compile Include="Extension\PMPage\IPropertyManagerPageSelectionboxExtension.cs" />
+    <Compile Include="Extension\PMPage\PropertyManagerPage2Extension.cs" />
+    <Compile Include="Extension\PMPage\PropertyManagerPage2Handler9Wrapper.cs" />
+    <Compile Include="Extension\PMPage\PropertyManagerPageGroupExtension.cs" />
+    <Compile Include="Extension\PMPage\SelectionBoxExtensions.cs" />
+    <Compile Include="Extension\RefGeometry\RefAxisExtension.cs" />
+    <Compile Include="Extension\RefGeometry\RefAxisNotFoundException.cs" />
+    <Compile Include="Extension\RefGeometry\RefPlaneExtesion.cs" />
+    <Compile Include="Extension\Selection\SelectionData.cs" />
+    <Compile Include="Extension\Selection\SelectionDataExtension.cs" />
+    <Compile Include="Extension\Selection\SelectionManagerExtensions.cs" />
+    <Compile Include="Extension\Selection\SelectionTypeAttribute.cs" />
+    <Compile Include="Extension\Sketch\AddSketchSegmentException.cs" />
+    <Compile Include="Extension\Sketch\ISketchArcExtension.cs" />
+    <Compile Include="Extension\Sketch\ISketchExtension.cs" />
+    <Compile Include="Extension\Sketch\ISketchLineExtension.cs" />
+    <Compile Include="Extension\Sketch\ISketchRelationManagerExtension.cs" />
+    <Compile Include="Extension\Sketch\ISketchSegmentExtension.cs" />
+    <Compile Include="Extension\Sketch\SketchManagerExtension.cs" />
+    <Compile Include="Extension\Sketch\SketchRelationBuilder.cs" />
+    <Compile Include="Extension\Sketch\SketchSeBuilder.cs" />
+    <Compile Include="Extension\swpublished\DuMacroFeatBase.cs" />
+    <Compile Include="Extension\swpublished\IMacroFeatureDataExtension.cs" />
+    <Compile Include="Extension\swpublished\MacroFeatureBase.cs" />
+    <Compile Include="Extension\swpublished\ManipulatorHandler.cs" />
+    <Compile Include="Extension\swpublished\SwCalloutHandlerWrapper.cs" />
+    <Compile Include="Extension\swpublished\TriadManipulatorExtensions.cs" />
     <Compile Include="IDuTaskPane.cs" />
     <Compile Include="Interface\IFlyoutCommand.cs" />
     <Compile Include="ISolidWorksAddin.cs" />

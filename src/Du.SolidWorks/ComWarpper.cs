@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 
 namespace Du.SolidWorks
 {
+    /// <summary>
+    /// com帮助类
+    /// </summary>
     public static class ComWrapper
     {
         /// <summary>
@@ -42,7 +45,17 @@ namespace Du.SolidWorks
         /// </summary>
         /// <param name="objects"></param>
         /// <returns></returns>
-        public static DispatchWrapper[] ObjectArrayToDispatchWrapper(IEnumerable<object> objects)
+        //public static DispatchWrapper[] ObjectArrayToDispatchWrapper(IEnumerable<object> objects)
+        //{
+        //    return objects.Select(o => new DispatchWrapper(o)).ToArray();
+        //}
+
+        /// <summary>
+        /// 将对象数组 封装到一个 <see cref="DispatchWrapper"/> 数组
+        /// </summary>
+        /// <param name="objects">对象</param>
+        /// <returns></returns>
+        public static DispatchWrapper[] ObjectArrayToDispatchWrapper(params object[] objects)
         {
             return objects.Select(o => new DispatchWrapper(o)).ToArray();
         }

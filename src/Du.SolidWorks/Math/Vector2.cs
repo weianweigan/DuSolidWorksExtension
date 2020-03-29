@@ -6,12 +6,27 @@ using System.Threading.Tasks;
 
 namespace Du.SolidWorks.Math
 {
+
+    /// <summary>
+    /// 代表平面向量或者点
+    /// </summary>
     public class Vector2
     {
+        /// <summary>
+        /// X
+        /// </summary>
         public double X { get; set; }
 
+        /// <summary>
+        /// Y
+        /// </summary>
         public double Y { get; set; }
 
+        /// <summary>
+        /// 构造函数
+        /// </summary>
+        /// <param name="x"></param>
+        /// <param name="y"></param>
         public Vector2(double x,double y)
         {
             X = x;
@@ -63,13 +78,22 @@ namespace Du.SolidWorks.Math
             return length;
         }
 
+        /// <summary>
+        /// 是否是无穷值
+        /// </summary>
         public bool IsFinite
         {
             get { double f = X + Y; return double.IsNaN(f) == false && double.IsInfinity(f) == false; }
         }
 
+        /// <summary>
+        /// 原点
+        /// </summary>
         public static Vector2 Zero { get { return new Vector2(0, 0); } }
 
+        /// <summary>
+        /// (1,0)
+        /// </summary>
         public static Vector2 XPlusVector { get { return new Vector2(1, 0); } }
 
         /// <summary>
@@ -142,29 +166,60 @@ namespace Du.SolidWorks.Math
             Y = System.Math.Round(Y, nDecimals);
         }
 
+        /// <summary>
+        /// 距离的平方值
+        /// </summary>
+        /// <param name="v2"></param>
+        /// <returns></returns>
         public double DistanceSquared(Vector2 v2)
         {
             double dx = v2.X - X, dy = v2.Y - Y;
             return dx * dx + dy * dy;
         }
+
+        /// <summary>
+        /// 距离
+        /// </summary>
+        /// <param name="v2"></param>
+        /// <returns></returns>
         public double Distance(Vector2 v2)
         {
             double dx = v2.X - X, dy = v2.Y - Y;
             return System.Math.Sqrt(dx * dx + dy * dy);
         }
 
+        /// <summary>
+        /// 设置当前实例的值
+        /// </summary>
+        /// <param name="o"></param>
         public void Set(Vector2 o)
         {
             X = o.X; Y = o.Y;
         }
+
+        /// <summary>
+        /// 设置当前实例的值
+        /// </summary>
+        /// <param name="fX"></param>
+        /// <param name="fY"></param>
         public void Set(double fX, double fY)
         {
             X= fX; Y = fY;
         }
+
+        /// <summary>
+        /// 向量相加
+        /// </summary>
+        /// <param name="o"></param>
         public void Add(Vector2 o)
         {
            X+= o.X; Y += o.Y;
         }
+
+        /// <summary>
+        /// 相减
+        /// </summary>
+        /// <param name="o"></param>
         public void Subtract(Vector2 o)
         {
             X -= o.X; Y -= o.Y;
